@@ -1,0 +1,5486 @@
+﻿AC|Acrelândia|-09.49.40|66.53.00
+AC|Assis Brasil|-10.56.29|69.34.01
+AC|Brasiléia|-11.00.58|68.44.53
+AC|Bujari|-09.49.50|67.57.08
+AC|Capixaba|-10.34.22|67.40.32
+AC|Cruzeiro do Sul|-07.37.52|72.40.12
+AC|Epitaciolândia|-11.01.44|68.44.29
+AC|Feijó|-08.09.51|70.21.13
+AC|Jordão|-09.26.03|71.53.02
+AC|Mâncio Lima|-07.36.51|72.53.45
+AC|Manoel Urbano|-08.50.20|69.15.35
+AC|Marechal Thaumaturgo|-08.56.28|72.47.30
+AC|Plácido de Castro|-10.20.07|67.11.08
+AC|Porto Acre|-09.35.18|67.31.57
+AC|Porto Walter|-08.16.07|72.44.38
+AC|Rodrigues Alves|-07.44.30|72.38.10
+AC|Santa Rosa do Purus|-09.25.58|70.29.36
+AC|Sena Madureira|-09.03.56|68.39.25
+AC|Senador Guiomard|-10.09.08|67.44.21
+AC|Tarauacá|-08.09.41|70.45.56
+AC|Xapuri|-10.39.06|68.30.16
+AL|Água Branca|-09.15.39|37.56.10
+AL|Anadia|-09.41.04|36.18.15
+AL|Arapiraca|-09.45.09|36.39.40
+AL|Atalaia|-09.30.07|36.01.22
+AL|Barra de Santo Antônio|-09.24.17|35.30.26
+AL|Barra de São Miguel|-09.50.24|35.54.28
+AL|Batalha|-09.40.40|37.07.29
+AL|Belém|-09.34.16|36.29.32
+AL|Belo Monte|-09.49.42|37.16.48
+AL|Boca da Mata|-09.38.29|36.13.13
+AL|Branquinha|-09.14.44|36.00.55
+AL|Cacimbinhas|-09.24.01|36.59.25
+AL|Cajueiro|-09.23.48|36.09.13
+AL|Campestre|-08.50.45|35.34.05
+AL|Campo Alegre|-09.46.55|36.21.03
+AL|Campo Grande|-09.57.28|36.47.30
+AL|Canapi|-09.07.01|37.36.08
+AL|Capela|-09.24.27|36.04.25
+AL|Carneiros|-09.28.57|37.22.38
+AL|Chã Preta|-09.15.19|36.17.46
+AL|Coité do Nóia|-09.37.56|36.34.43
+AL|Colônia Leopoldina|-08.54.32|35.43.30
+AL|Coqueiro Seco|-09.38.18|35.48.11
+AL|Coruripe|-10.07.32|36.10.32
+AL|Craíbas|-09.37.05|36.46.05
+AL|Delmiro Gouveia|-09.23.19|37.59.57
+AL|Dois Riachos|-09.23.33|37.06.02
+AL|Estrela de Alagoas|-09.23.25|36.45.36
+AL|Feira Grande|-09.54.01|36.40.39
+AL|Feliz Deserto|-10.17.31|36.18.22
+AL|Flexeiras|-09.11.51|35.46.51
+AL|Girau do Ponciano|-09.53.03|36.49.44
+AL|Ibateguara|-08.58.21|35.56.22
+AL|Igaci|-09.32.13|36.38.01
+AL|Igreja Nova|-10.07.31|36.39.43
+AL|Inhapi|-09.13.17|37.44.55
+AL|Jacaré dos Homens|-09.38.08|37.12.17
+AL|Jacuípe|-08.50.30|35.27.36
+AL|Japaratinga|-09.05.18|35.15.30
+AL|Jaramataia|-09.39.34|37.00.07
+AL|Joaquim Gomes|-09.08.00|35.44.54
+AL|Jundiá|-08.56.05|35.34.25
+AL|Junqueiro|-09.55.31|36.28.33
+AL|Lagoa da Canoa|-09.49.47|36.44.16
+AL|Limoeiro de Anadia|-09.44.26|36.30.10
+AL|Major Isidoro|-09.31.56|36.59.06
+AL|Mar Vermelho|-09.26.51|36.23.17
+AL|Maragogi|-09.00.44|35.13.21
+AL|Maravilha|-09.14.08|37.21.00
+AL|Marechal Deodoro|-09.42.37|35.53.42
+AL|Maribondo|-09.34.38|36.18.19
+AL|Mata Grande|-09.07.03|37.43.56
+AL|Matriz de Camaragibe|-09.09.06|35.32.00
+AL|Messias|-09.23.00|35.50.30
+AL|Minador do Negrão|-09.18.19|36.51.53
+AL|Monteirópolis|-09.36.10|37.14.54
+AL|Murici|-09.18.24|35.56.36
+AL|Novo Lino|-08.54.54|35.38.48
+AL|Olho d'Água das Flores|-09.32.10|37.17.38
+AL|Olho d'Água do Casado|-09.30.07|37.50.02
+AL|Olho d'Água Grande|-10.03.30|36.49.00
+AL|Olivença|-09.31.07|37.11.26
+AL|Ouro Branco|-09.10.00|37.21.24
+AL|Palestina|-09.40.19|37.19.45
+AL|Palmeira dos µndios|-09.24.26|36.37.39
+AL|Pão de Açúcar|-09.44.54|37.26.12
+AL|Pariconha|-09.15.10|38.00.17
+AL|Paripueira|-09.27.54|35.33.06
+AL|Passo de Camaragibe|-09.14.18|35.29.36
+AL|Paulo Jacinto|-09.21.58|36.22.11
+AL|Penedo|-10.17.25|36.35.11
+AL|Piaçabuçu|-10.24.20|36.26.04
+AL|Pilar|-09.35.50|35.57.24
+AL|Pindoba|-09.28.31|36.17.24
+AL|Piranhas|-09.37.25|37.45.24
+AL|Poço das Trincheiras|-09.18.45|37.17.08
+AL|Porto Calvo|-09.02.42|35.23.54
+AL|Porto de Pedras|-09.09.30|35.17.42
+AL|Porto Real do Colégio|-10.11.09|36.50.24
+AL|Quebrangulo|-09.19.08|36.28.16
+AL|Rio Largo|-09.28.42|35.51.12
+AL|Roteiro|-09.49.58|35.58.40
+AL|Santa Luzia do Norte|-09.36.12|35.49.21
+AL|Santana do Ipanema|-09.22.42|37.14.43
+AL|Santana do Mundaú|-09.10.05|36.13.20
+AL|São Brás|-10.07.40|36.54.02
+AL|São José da Laje|-09.00.35|36.03.30
+AL|São José da Tapera|-09.33.30|37.22.52
+AL|São Luís do Quitunde|-09.19.06|35.33.40
+AL|São Miguel dos Campos|-09.46.52|36.05.37
+AL|São Miguel dos Milagres|-09.15.56|35.22.23
+AL|São Sebastião|-09.56.01|36.33.15
+AL|Satuba|-09.33.48|35.49.28
+AL|Senador Rui Palmeira|-09.27.59|37.27.25
+AL|Tanque d'Arca|-09.31.55|36.25.58
+AL|Taquarana|-09.38.42|36.29.50
+AL|Teotônio Vilela|-09.54.19|36.21.10
+AL|Traipu|-09.58.14|37.00.12
+AL|União dos Palmares|-09.09.46|36.01.55
+AL|Viçosa|-09.22.17|36.14.27
+AM|Alvarães|-03.13.15|64.48.15
+AM|Amaturá|-03.21.51|68.11.52
+AM|Anamã|-03.34.47|61.24.15
+AM|Anori|-03.46.22|61.38.39
+AM|Apuí|-07.11.50|59.53.29
+AM|Atalaia do Norte|-04.22.20|70.11.31
+AM|Autazes|-03.34.47|59.07.50
+AM|Barcelos|-00.58.29|62.55.27
+AM|Barreirinha|-02.47.36|57.04.12
+AM|Benjamin Constant|-04.22.59|70.01.52
+AM|Beruri|-03.53.54|61.22.23
+AM|Boa Vista do Ramos|-02.58.11|57.35.25
+AM|Boca do Acre|-08.45.08|67.23.52
+AM|Borba|-04.23.16|59.35.38
+AM|Caapiranga|-03.19.39|61.12.32
+AM|Canutama|-06.32.02|64.22.59
+AM|Carauari|-04.52.58|66.53.45
+AM|Careiro|-03.46.05|60.22.09
+AM|Careiro da Várzea|-03.12.01|59.48.43
+AM|Coari|-04.05.06|63.08.29
+AM|Codajás|-03.50.12|62.03.25
+AM|Eirunepé|-06.39.37|69.52.25
+AM|Envira|-07.26.00|70.01.24
+AM|Fonte Boa|-02.30.50|66.05.30
+AM|Guajará|-07.32.45|72.35.01
+AM|Humaitá|-07.30.22|63.01.15
+AM|Ipixuna|-07.03.02|71.41.41
+AM|Iranduba|-03.17.05|60.11.10
+AM|Itacoatiara|-03.08.35|58.26.39
+AM|Itamarati|-06.25.30|68.15.12
+AM|Itapiranga|-02.44.56|58.01.19
+AM|Japurá|-01.49.34|66.35.56
+AM|Juruá|-03.28.52|66.04.08
+AM|Jutaí|-02.44.48|66.46.00
+AM|Lábrea|-07.15.31|64.47.53
+AM|Manacapuru|-03.17.59|60.37.14
+AM|Manaquiri|-03.25.41|60.27.34
+AM|Manicoré|-05.48.33|61.18.01
+AM|Maraã|-01.51.22|65.34.52
+AM|Maués|-03.23.01|57.43.07
+AM|Nhamundá|-02.11.10|56.42.47
+AM|Nova Olinda do Norte|-03.53.17|59.05.39
+AM|Novo Airão|-02.37.17|60.56.39
+AM|Novo Aripuanã|-05.07.14|60.22.47
+AM|Parintins|-02.37.42|56.44.09
+AM|Pauini|-07.42.49|66.58.35
+AM|Presidente Figueiredo|-02.02.04|60.01.30
+AM|Rio Preto da Eva|-02.41.58|59.41.59
+AM|Santa Isabel do Rio Negro|-00.24.50|65.01.09
+AM|Santo Antônio do Içá|-03.06.08|67.56.23
+AM|São Gabriel da Cachoeira|-00.07.49|67.05.21
+AM|São Paulo de Olivença|-03.22.42|68.52.21
+AM|São Sebastião do Uatumã|-02.34.19|57.52.15
+AM|Silves|-02.50.20|58.12.33
+AM|Tabatinga|-04.15.09|69.56.17
+AM|Tapauá|-05.37.42|63.11.00
+AM|Tefé|-03.21.15|64.42.41
+AM|Tonantins|-02.52.23|67.48.08
+AM|Uarini|-02.59.24|65.06.30
+AM|Urucará|-02.32.11|57.45.36
+AM|Urucurituba|-03.07.51|58.09.18
+AP|Amapá|02.03.12|50.47.35
+AP|Calçoene|02.29.51|50.56.55
+AP|Cutias|00.59.10|50.48.08
+AP|Ferreira Gomes|00.51.30|51.10.48
+AP|Itaubal|00.42.42|50.48.00
+AP|Laranjal do Jari|-01.07.12|52.00.00
+AP|Mazagão|-00.06.54|51.17.22
+AP|Oiapoque|03.50.35|51.50.06
+AP|Pedra Branca do Amapari|00.46.41|51.56.37
+AP|Porto Grande|00.42.48|51.24.48
+AP|Pracuúba|01.44.36|50.47.29
+AP|Santana|-00.03.30|51.10.54
+AP|Serra do Navio|00.53.44|52.00.08
+AP|Tartarugalzinho|01.30.20|50.54.43
+AP|Vitória do Jari|-00.55.02|52.24.29
+BA|Abaíra|-13.14.59|41.39.49
+BA|Abaré|-08.43.13|39.06.50
+BA|Acajutiba|-11.39.44|38.01.02
+BA|Adustina|-10.32.00|38.06.00
+BA|Água Fria|-11.52.00|38.46.00
+BA|Aiquara|-14.07.46|39.53.16
+BA|Alagoinhas|-12.08.08|38.25.09
+BA|Alcobaça|-17.31.10|39.11.44
+BA|Almadina|-14.42.19|39.38.14
+BA|Amargosa|-13.01.49|39.36.17
+BA|Amélia Rodrigues|-12.23.30|38.45.24
+BA|América Dourada|-11.27.19|41.26.10
+BA|Anagé|-14.36.44|41.08.08
+BA|Andaraí|-12.48.26|41.19.53
+BA|Andorinha|-10.20.41|39.50.08
+BA|Angical|-12.00.25|44.41.40
+BA|Anguera|-12.09.04|39.14.47
+BA|Antas|-10.24.00|38.20.00
+BA|Antônio Cardoso|-12.26.07|39.07.11
+BA|Antônio Gonçalves|-10.34.22|40.16.31
+BA|Aporá|-11.39.37|38.04.53
+BA|Apuarema|-13.51.23|39.44.38
+BA|Araçás|-12.12.40|38.12.09
+BA|Aracatu|-14.25.39|41.27.43
+BA|Araci|-11.20.00|38.58.00
+BA|Aramari|-12.04.54|38.29.57
+BA|Arataca|-15.15.48|39.24.52
+BA|Aratuípe|-13.04.44|39.00.06
+BA|Aurelino Leal|-14.19.00|39.19.38
+BA|Baianópolis|-12.18.23|44.32.05
+BA|Baixa Grande|-11.57.35|40.10.05
+BA|Banzaê|-10.34.37|38.36.53
+BA|Barra|-11.05.22|43.08.30
+BA|Barra da Estiva|-13.37.34|41.19.37
+BA|Barra do Choça|-14.52.52|40.34.46
+BA|Barra do Mendes|-11.48.36|42.03.31
+BA|Barra do Rocha|-14.12.38|39.36.07
+BA|Barreiras|-12.09.10|44.59.24
+BA|Barro Alto|-11.45.39|41.54.42
+BA|Barro Preto|-14.48.35|39.28.17
+BA|Belmonte|-15.51.47|38.52.58
+BA|Belo Campo|-15.02.18|41.15.35
+BA|Biritinga|-11.37.00|38.48.00
+BA|Boa Nova|-14.21.45|40.12.27
+BA|Boa Vista do Tupim|-12.39.37|40.36.33
+BA|Bom Jesus da Lapa|-13.15.18|43.25.05
+BA|Bom Jesus da Serra|-14.22.25|40.30.19
+BA|Boninal|-12.42.06|41.49.39
+BA|Bonito|-11.58.10|41.15.57
+BA|Boquira|-12.49.23|42.43.50
+BA|Botuporã|-13.22.54|42.31.21
+BA|Brejões|-13.06.16|39.47.45
+BA|Brejolândia|-12.28.59|43.57.59
+BA|Brotas de Macaúbas|-11.59.56|42.37.33
+BA|Brumado|-14.12.13|41.39.55
+BA|Buerarema|-14.57.34|39.17.59
+BA|Buritirama|-10.42.28|43.37.50
+BA|Caatiba|-14.58.36|40.24.27
+BA|Cabaceiras do Paraguaçu|-12.32.08|39.11.27
+BA|Cachoeira|-12.37.06|38.57.21
+BA|Caculé|-14.30.12|42.13.20
+BA|Caém|-11.05.26|40.26.07
+BA|Caetanos|-14.20.15|40.54.31
+BA|Caetité|-14.04.10|42.28.30
+BA|Cafarnaum|-11.41.37|41.28.06
+BA|Cairu|-13.29.13|39.02.38
+BA|Caldeirão Grande|-11.01.12|40.18.10
+BA|Camacan|-15.25.09|39.29.45
+BA|Camaçari|-12.41.51|38.19.27
+BA|Camamu|-13.56.41|39.06.14
+BA|Campo Alegre de Lourdes|-09.30.56|43.00.40
+BA|Campo Formoso|-10.30.27|40.19.17
+BA|Canápolis|-13.04.11|44.12.08
+BA|Canarana|-11.41.05|41.46.08
+BA|Canavieiras|-15.40.30|38.56.50
+BA|Candeal|-11.48.29|39.07.09
+BA|Candeias|-12.40.04|38.33.02
+BA|Candiba|-14.24.39|42.52.02
+BA|Cândido Sales|-15.30.18|41.14.21
+BA|Cansanção|-10.40.02|39.29.57
+BA|Canudos|-09.53.48|39.01.35
+BA|Capela do Alto Alegre|-11.40.05|39.50.16
+BA|Capim Grosso|-11.22.52|40.00.46
+BA|Caraíbas|-14.43.33|41.15.33
+BA|Caravelas|-17.43.55|39.15.57
+BA|Cardeal da Silva|-11.56.30|37.56.55
+BA|Carinhanha|-14.18.17|43.45.54
+BA|Casa Nova|-09.09.43|40.58.15
+BA|Castro Alves|-12.45.56|39.25.42
+BA|Catolândia|-12.19.05|44.51.40
+BA|Catu|-12.21.11|38.22.44
+BA|Caturama|-13.19.46|42.17.26
+BA|Central|-11.08.08|42.06.46
+BA|Chorrochó|-08.58.47|39.05.47
+BA|Cícero Dantas|-10.36.00|38.23.00
+BA|Cipó|-11.05.59|38.30.49
+BA|Coaraci|-14.38.27|39.33.04
+BA|Cocos|-14.11.02|44.32.04
+BA|Conceição da Feira|-12.30.21|38.59.55
+BA|Conceição do Almeida|-12.46.46|39.10.12
+BA|Conceição do Coité|-11.33.50|39.16.58
+BA|Conceição do Jacuípe|-12.19.00|38.46.00
+BA|Conde|-11.48.49|37.36.38
+BA|Condeúba|-14.53.43|41.58.07
+BA|Contendas do Sincorá|-13.45.46|41.02.28
+BA|Coração de Maria|-12.14.00|38.45.00
+BA|Cordeiros|-15.02.19|41.56.05
+BA|Coribe|-13.49.45|44.27.16
+BA|Coronel João Sá|-10.17.03|37.55.35
+BA|Correntina|-13.20.36|44.38.12
+BA|Cotegipe|-12.01.42|44.15.28
+BA|Cravolândia|-13.21.31|39.48.54
+BA|Crisópolis|-11.30.38|38.09.00
+BA|Cristópolis|-12.14.01|44.25.15
+BA|Cruz das Almas|-12.40.12|39.06.07
+BA|Curaçá|-08.59.25|39.54.34
+BA|Dário Meira|-14.26.11|39.54.28
+BA|Dias d'Ávila|-12.36.45|38.17.49
+BA|Dom Basílio|-13.45.37|41.46.17
+BA|Dom Macedo Costa|-12.54.18|39.11.33
+BA|Elísio Medrado|-12.56.47|39.31.18
+BA|Encruzilhada|-15.31.53|40.54.34
+BA|Entre Rios|-11.56.31|38.05.04
+BA|Érico Cardoso|-13.25.04|42.08.25
+BA|Esplanada|-11.47.46|37.56.42
+BA|Euclides da Cunha|-10.30.27|39.00.57
+BA|Eunápolis|-16.22.39|39.34.49
+BA|Fátima|-10.36.00|38.13.00
+BA|Feira da Mata|-14.12.46|44.16.52
+BA|Feira de Santana|-12.16.00|38.58.00
+BA|Filadélfia|-10.44.34|40.07.55
+BA|Firmino Alves|-14.59.07|39.55.25
+BA|Floresta Azul|-14.51.36|39.39.35
+BA|Formosa do Rio Preto|-11.02.54|45.11.35
+BA|Gandu|-13.44.38|39.29.12
+BA|Gavião|-11.28.14|39.47.02
+BA|Gentio do Ouro|-11.25.44|42.30.10
+BA|Glória|-09.20.17|38.15.17
+BA|Gongogi|-14.19.20|39.27.53
+BA|Governador Mangabeira|-12.36.07|39.02.36
+BA|Guajeru|-14.32.50|41.56.25
+BA|Guanambi|-14.13.24|42.46.53
+BA|Guaratinga|-16.35.02|39.46.58
+BA|Heliópolis|-10.41.00|38.17.10
+BA|Iaçu|-12.46.02|40.12.42
+BA|Ibiassucê|-14.15.34|42.15.25
+BA|Ibicaraí|-14.51.54|39.35.15
+BA|Ibicoara|-13.24.38|41.17.05
+BA|Ibicuí|-14.50.30|39.59.12
+BA|Ibipeba|-11.38.27|42.00.40
+BA|Ibipitanga|-12.52.56|42.29.09
+BA|Ibiquera|-12.39.04|40.56.01
+BA|Ibirapitanga|-14.09.51|39.22.25
+BA|Ibirapuã|-17.41.16|40.06.33
+BA|Ibirataia|-14.04.01|39.38.26
+BA|Ibitiara|-12.39.08|42.13.04
+BA|Ibititá|-11.32.50|41.58.39
+BA|Ibotirama|-12.11.07|43.13.14
+BA|Ichu|-11.44.55|39.11.32
+BA|Igaporã|-13.46.24|42.42.51
+BA|Igrapiúna|-13.49.35|39.08.32
+BA|Iguaí|-14.45.23|40.05.21
+BA|Ilhéus|-14.47.20|39.02.58
+BA|Inhambupe|-11.47.04|38.21.11
+BA|Ipecaetá|-12.18.00|39.18.27
+BA|Ipiaú|-14.08.14|39.44.02
+BA|Ipirá|-12.09.30|39.44.14
+BA|Ipupiara|-11.49.13|42.36.51
+BA|Irajuba|-13.15.05|40.05.04
+BA|Iramaia|-13.17.08|40.57.04
+BA|Iraquara|-12.14.55|41.37.10
+BA|Irará|-12.03.00|38.46.00
+BA|Irecê|-11.18.15|41.51.21
+BA|Itabela|-16.34.30|39.33.12
+BA|Itaberaba|-12.31.39|40.18.25
+BA|Itabuna|-14.47.08|39.16.49
+BA|Itacaré|-14.16.39|38.59.48
+BA|Itaeté|-12.59.11|40.58.21
+BA|Itagi|-14.09.46|40.00.22
+BA|Itagibá|-14.17.01|39.50.34
+BA|Itagimirim|-16.05.12|39.36.52
+BA|Itaguaçu da Bahia|-11.00.42|42.23.58
+BA|Itaju do Colônia|-15.08.33|39.43.28
+BA|Itajuípe|-14.40.41|39.22.30
+BA|Itamaraju|-17.02.21|39.31.52
+BA|Itamari|-13.46.41|39.41.01
+BA|Itambé|-15.14.42|40.37.28
+BA|Itanagra|-12.15.47|38.02.30
+BA|Itanhém|-17.09.59|40.19.48
+BA|Itaparica|-12.53.18|38.40.43
+BA|Itapé|-14.53.54|39.25.16
+BA|Itapebi|-15.57.03|39.32.02
+BA|Itapetinga|-15.14.56|40.14.52
+BA|Itapicuru|-11.19.00|38.14.00
+BA|Itapitanga|-14.25.22|39.33.54
+BA|Itaquara|-13.27.03|39.56.28
+BA|Itarantim|-15.39.35|40.03.56
+BA|Itatim|-12.42.43|39.41.53
+BA|Itiruçu|-13.31.54|40.09.01
+BA|Itiúba|-10.41.30|39.51.13
+BA|Itororó|-15.07.01|40.04.13
+BA|Ituaçu|-13.48.48|41.17.48
+BA|Ituberá|-13.43.56|39.08.57
+BA|Iuiú|-14.24.50|43.33.16
+BA|Jaborandi|-13.37.10|44.25.58
+BA|Jacaraci|-14.50.59|42.26.00
+BA|Jacobina|-11.10.50|40.31.06
+BA|Jaguaquara|-13.31.50|39.58.15
+BA|Jaguarari|-10.15.50|40.11.45
+BA|Jaguaripe|-13.06.48|38.53.44
+BA|Jandaíra|-11.33.51|37.47.04
+BA|Jequié|-13.51.27|40.05.01
+BA|Jeremoabo|-10.04.30|38.28.51
+BA|Jiquiriça|-13.15.24|39.34.20
+BA|Jitaúna|-14.01.08|39.53.20
+BA|João Dourado|-11.20.59|41.39.52
+BA|Juazeiro|-09.24.42|40.29.55
+BA|Jucuruçu|-16.50.34|40.09.32
+BA|Jussara|-11.02.49|41.58.10
+BA|Jussari|-15.11.29|39.29.43
+BA|Jussiape|-13.31.00|41.35.33
+BA|Lafaiete Coutinho|-13.39.21|40.12.45
+BA|Lagoa Real|-14.02.05|42.08.32
+BA|Laje|-13.10.56|39.25.30
+BA|Lajedão|-17.36.49|40.20.41
+BA|Lajedinho|-12.21.21|40.54.20
+BA|Lajedo do Tabocal|-13.28.30|40.13.23
+BA|Lamarão|-11.47.00|38.54.00
+BA|Lapão|-11.23.00|41.49.55
+BA|Lauro de Freitas|-12.53.40|38.19.38
+BA|Lençóis|-12.33.47|41.23.24
+BA|Licínio de Almeida|-14.40.56|42.30.27
+BA|Livramento do Brumado|-13.38.35|41.50.26
+BA|Macajuba|-12.08.10|40.21.36
+BA|Macarani|-15.34.06|40.25.23
+BA|Macaúbas|-13.01.10|42.41.55
+BA|Macururé|-09.10.03|39.03.27
+BA|Madre de Deus|-12.44.27|38.37.15
+BA|Maetinga|-14.39.48|41.29.30
+BA|Maiquinique|-15.37.16|40.15.58
+BA|Mairi|-11.42.41|40.08.56
+BA|Malhada|-14.20.10|43.46.25
+BA|Malhada de Pedras|-14.23.17|41.52.45
+BA|Manoel Vitorino|-14.08.43|40.14.33
+BA|Mansidão|-10.42.59|44.02.04
+BA|Maracás|-13.26.28|40.25.51
+BA|Maragogipe|-12.46.40|38.55.10
+BA|Maraú|-14.06.11|39.00.53
+BA|Marcionílio Souza|-13.00.11|40.31.50
+BA|Mascote|-15.33.47|39.18.09
+BA|Mata de São João|-12.31.49|38.17.57
+BA|Matina|-13.54.34|42.50.58
+BA|Medeiros Neto|-17.22.26|40.13.14
+BA|Miguel Calmon|-11.25.44|40.35.42
+BA|Milagres|-12.52.12|39.51.32
+BA|Mirangaba|-10.57.16|40.34.33
+BA|Mirante|-14.14.31|40.46.42
+BA|Monte Santo|-10.26.16|39.19.58
+BA|Morpará|-11.33.31|43.16.51
+BA|Morro do Chapéu|-11.33.00|41.09.22
+BA|Mortugaba|-15.01.24|42.22.05
+BA|Mucugê|-13.00.19|41.22.15
+BA|Mucuri|-18.05.11|39.33.03
+BA|Mulungu do Morro|-11.57.58|41.38.20
+BA|Mundo Novo|-11.51.32|40.28.21
+BA|Muniz Ferreira|-13.00.10|39.06.36
+BA|Muquém de São Francisco|-12.11.55|43.49.58
+BA|Muritiba|-12.37.35|38.59.24
+BA|Mutuípe|-13.13.43|39.30.17
+BA|Nazaré|-13.02.06|39.00.52
+BA|Nilo Peçanha|-13.35.58|39.06.25
+BA|Nordestina|-10.49.21|39.25.37
+BA|Nova Canaã|-14.47.39|40.08.33
+BA|Nova Fátima|-11.36.26|39.37.55
+BA|Nova Ibiá|-13.48.36|39.37.32
+BA|Nova Itarana|-13.01.37|40.04.07
+BA|Nova Redenção|-12.49.07|41.04.16
+BA|Nova Soure|-11.14.00|38.29.00
+BA|Nova Viçosa|-17.53.31|39.22.19
+BA|Novo Horizonte|-12.48.30|42.10.04
+BA|Novo Triunfo|-10.19.20|38.24.30
+BA|Olindina|-11.22.00|38.20.00
+BA|Oliveira dos Brejinhos|-12.19.01|42.53.46
+BA|Ouriçangas|-12.01.00|38.37.00
+BA|Ourolândia|-10.58.13|41.04.59
+BA|Palmas de Monte Alto|-14.16.02|43.09.43
+BA|Palmeiras|-12.31.44|41.33.32
+BA|Paramirim|-13.26.33|42.14.20
+BA|Paratinga|-12.41.26|43.11.03
+BA|Paripiranga|-10.41.15|37.51.42
+BA|Pau Brasil|-15.27.51|39.39.04
+BA|Paulo Afonso|-09.24.22|38.12.53
+BA|Pé de Serra|-11.50.02|39.36.45
+BA|Pedrão|-12.09.00|38.39.00
+BA|Pedro Alexandre|-10.00.49|37.53.39
+BA|Piatã|-13.09.07|41.46.22
+BA|Pilão Arcado|-10.00.11|42.30.16
+BA|Pindaí|-14.29.33|42.41.14
+BA|Pindobaçu|-10.44.30|40.21.39
+BA|Pintadas|-11.48.45|39.54.31
+BA|Piraí do Norte|-13.45.43|39.22.44
+BA|Piripá|-14.56.24|41.43.12
+BA|Piritiba|-11.43.49|40.33.19
+BA|Planaltino|-13.15.32|40.22.08
+BA|Planalto|-14.40.11|40.28.16
+BA|Poções|-14.31.47|40.21.55
+BA|Pojuca|-12.25.50|38.19.40
+BA|Ponto Novo|-10.51.46|40.08.01
+BA|Porto Seguro|-16.26.59|39.03.53
+BA|Potiraguá|-15.35.41|39.52.36
+BA|Prado|-17.20.28|39.13.15
+BA|Presidente Dutra|-11.17.46|41.59.12
+BA|Presidente Jânio Quadros|-14.41.22|41.40.42
+BA|Presidente Tancredo Neves|-13.26.55|39.25.17
+BA|Queimadas|-10.58.42|39.37.35
+BA|Quijingue|-10.45.09|39.12.33
+BA|Quixabeira|-11.24.42|40.07.42
+BA|Rafael Jambeiro|-12.24.30|39.30.05
+BA|Remanso|-09.37.18|42.04.53
+BA|Retirolândia|-11.29.42|39.25.32
+BA|Riachão das Neves|-11.44.46|44.54.36
+BA|Riachão do Jacuípe|-11.48.25|39.23.08
+BA|Riacho de Santana|-13.36.33|42.56.20
+BA|Ribeira do Amparo|-11.02.50|38.26.00
+BA|Ribeira do Pombal|-10.50.04|38.32.09
+BA|Ribeirão do Largo|-15.27.33|40.44.28
+BA|Rio de Contas|-13.34.44|41.48.41
+BA|Rio do Antônio|-14.24.41|42.04.32
+BA|Rio do Pires|-13.07.40|42.17.31
+BA|Rio Real|-11.29.05|37.55.58
+BA|Rodelas|-08.50.44|38.46.00
+BA|Ruy Barbosa|-12.17.02|40.29.38
+BA|Salinas da Margarida|-12.52.16|38.45.52
+BA|Santa Bárbara|-11.57.30|38.58.30
+BA|Santa Brígida|-09.44.10|38.07.40
+BA|Santa Cruz Cabrália|-16.16.41|39.01.29
+BA|Santa Cruz da Vitória|-14.57.40|39.48.42
+BA|Santa Inês|-13.17.32|39.49.08
+BA|Santa Luzia|-15.25.46|39.20.03
+BA|Santa Maria da Vitória|-13.23.41|44.11.19
+BA|Santa Rita de Cássia|-11.00.31|44.31.10
+BA|Santa Teresinha|-12.46.19|39.31.24
+BA|Santaluz|-11.15.21|39.22.29
+BA|Santana|-12.59.00|44.03.04
+BA|Santanópolis|-12.01.00|38.52.00
+BA|Santo Amaro|-12.32.48|38.42.43
+BA|Santo Antônio de Jesus|-12.58.08|39.15.41
+BA|Santo Estêvão|-12.25.49|39.15.05
+BA|São Desidério|-12.21.48|44.58.24
+BA|São Domingos|-11.27.56|39.31.34
+BA|São Felipe|-12.50.50|39.05.22
+BA|São Félix|-12.36.17|38.58.20
+BA|São Félix do Coribe|-13.24.02|44.11.41
+BA|São Francisco do Conde|-12.37.39|38.40.48
+BA|São Gabriel|-11.13.45|41.54.43
+BA|São Gonçalo dos Campos|-12.26.00|38.58.00
+BA|São José da Vitória|-15.05.04|39.20.21
+BA|São José do Jacuípe|-11.30.14|40.01.20
+BA|São Miguel das Matas|-13.02.52|39.27.20
+BA|São Sebastião do Passé|-12.30.45|38.29.43
+BA|Sapeaçu|-12.43.39|39.10.55
+BA|Sátiro Dias|-11.36.00|38.36.00
+BA|Saubara|-12.44.15|38.46.07
+BA|Saúde|-10.56.28|40.25.08
+BA|Seabra|-12.25.07|41.46.13
+BA|Sebastião Laranjeiras|-14.34.23|42.56.25
+BA|Senhor do Bonfim|-10.27.41|40.11.22
+BA|Sento Sé|-09.44.45|41.53.07
+BA|Serra do Ramalho|-13.33.45|43.35.48
+BA|Serra Dourada|-12.45.40|43.56.59
+BA|Serra Preta|-12.09.37|39.19.54
+BA|Serrinha|-11.39.51|39.00.27
+BA|Serrolândia|-11.24.57|40.18.06
+BA|Simões Filho|-12.47.04|38.24.14
+BA|Sítio do Mato|-13.05.05|43.27.55
+BA|Sítio do Quinto|-10.21.00|38.13.00
+BA|Sobradinho|-09.27.19|40.49.24
+BA|Souto Soares|-12.05.19|41.38.16
+BA|Tabocas do Brejo Velho|-12.42.21|44.00.24
+BA|Tanhaçu|-14.01.17|41.14.53
+BA|Tanque Novo|-13.32.47|42.29.29
+BA|Tanquinho|-11.58.43|39.06.14
+BA|Taperoá|-13.32.17|39.05.55
+BA|Tapiramutá|-11.50.50|40.47.29
+BA|Teixeira de Freitas|-17.32.06|39.44.31
+BA|Teodoro Sampaio|-12.17.36|38.37.42
+BA|Teofilândia|-11.29.19|38.59.52
+BA|Teolândia|-13.36.06|39.29.29
+BA|Terra Nova|-12.23.30|38.37.30
+BA|Tremedal|-14.58.33|41.24.39
+BA|Tucano|-10.57.47|38.47.12
+BA|Uauá|-09.50.29|39.28.54
+BA|Ubaíra|-13.16.05|39.39.46
+BA|Ubaitaba|-14.18.45|39.19.24
+BA|Ubatã|-14.12.50|39.31.22
+BA|Uibaí|-11.20.13|42.07.57
+BA|Umburanas|-10.43.58|41.19.35
+BA|Una|-15.17.36|39.04.31
+BA|Urandi|-14.46.17|42.39.18
+BA|Uruçuca|-14.35.35|39.17.04
+BA|Utinga|-12.04.54|41.05.40
+BA|Valença|-13.22.13|39.04.23
+BA|Valente|-11.24.44|39.27.43
+BA|Várzea da Roça|-11.36.24|40.08.14
+BA|Várzea do Poço|-11.31.45|40.19.13
+BA|Várzea Nova|-11.15.31|40.56.31
+BA|Varzedo|-12.58.18|39.23.38
+BA|Vera Cruz|-12.57.37|38.36.31
+BA|Vereda|-17.13.21|40.05.06
+BA|Vitória da Conquista|-14.51.58|40.50.22
+BA|Wagner|-12.17.13|41.10.06
+BA|Wanderley|-12.07.12|43.53.15
+BA|Wenceslau Guimarães|-13.41.13|39.28.46
+BA|Xique-Xique|-10.49.18|42.43.52
+CE|Abaiara|-07.21.32|39.02.44
+CE|Acarape|-04.13.27|38.42.30
+CE|Acaraú|-02.53.08|40.07.12
+CE|Acopiara|-06.05.43|39.27.09
+CE|Aiuaba|-06.34.25|40.07.25
+CE|Alcântaras|-03.35.20|40.32.44
+CE|Altaneira|-07.00.06|39.44.26
+CE|Alto Santo|-05.31.15|38.16.18
+CE|Amontada|-03.29.40|39.34.43
+CE|Antonina do Norte|-06.46.30|39.59.21
+CE|Apuiarés|-03.56.56|39.25.54
+CE|Aquiraz|-03.54.05|38.23.28
+CE|Aracati|-04.33.42|37.46.11
+CE|Aracoiaba|-04.22.16|38.48.51
+CE|Ararendá|-04.45.10|40.49.58
+CE|Araripe|-07.12.45|40.02.46
+CE|Aratuba|-04.25.06|39.02.42
+CE|Arneiroz|-06.19.25|40.09.38
+CE|Assaré|-06.52.28|39.52.30
+CE|Aurora|-06.56.33|38.58.03
+CE|Baixio|-06.43.48|38.43.01
+CE|Banabuiú|-05.18.35|38.55.14
+CE|Barbalha|-07.18.40|39.18.15
+CE|Barreira|-04.17.13|38.38.35
+CE|Barro|-07.10.36|38.46.54
+CE|Barroquinha|-03.01.08|41.08.10
+CE|Baturité|-04.19.43|38.53.05
+CE|Beberibe|-04.10.47|38.07.50
+CE|Bela Cruz|-03.03.02|40.10.04
+CE|Boa Viagem|-05.07.39|39.43.56
+CE|Brejo Santo|-07.29.36|38.59.14
+CE|Camocim|-02.54.08|40.50.28
+CE|Campos Sales|-07.04.28|40.22.34
+CE|Canindé|-04.21.32|39.18.42
+CE|Capistrano|-04.28.12|38.54.05
+CE|Caridade|-04.13.56|39.11.33
+CE|Cariré|-03.57.02|40.28.24
+CE|Caririaçu|-07.02.32|39.17.01
+CE|Cariús|-06.32.14|39.29.48
+CE|Carnaubal|-04.10.00|40.56.34
+CE|Cascavel|-04.07.59|38.14.31
+CE|Catarina|-06.07.51|39.52.39
+CE|Catunda|-04.38.52|40.12.05
+CE|Caucaia|-03.44.10|38.39.11
+CE|Cedro|-06.36.24|39.03.44
+CE|Chaval|-03.02.01|41.14.38
+CE|Choró|-04.50.36|39.08.28
+CE|Chorozinho|-04.18.01|38.29.52
+CE|Coreaú|-03.32.00|40.39.24
+CE|Crateús|-05.10.42|40.40.39
+CE|Crato|-07.14.03|39.24.34
+CE|Croatá|-04.24.00|40.54.38
+CE|Cruz|-02.55.04|40.10.18
+CE|Deputado Irapuan Pinheiro|-05.55.01|39.16.04
+CE|Ererê|-06.01.55|38.20.55
+CE|Eusébio|-03.53.24|38.27.02
+CE|Farias Brito|-06.55.50|39.33.56
+CE|Forquilha|-03.47.54|40.15.38
+CE|Fortim|-04.27.07|37.47.50
+CE|Frecheirinha|-03.45.36|40.48.59
+CE|General Sampaio|-04.03.10|39.27.16
+CE|Graça|-04.02.46|40.45.10
+CE|Granja|-03.07.13|40.49.34
+CE|Granjeiro|-06.53.18|39.13.04
+CE|Groaíras|-03.54.48|40.23.00
+CE|Guaiúba|-04.02.23|38.38.14
+CE|Guaraciaba do Norte|-04.10.01|40.44.51
+CE|Guaramiranga|-04.15.48|38.55.59
+CE|Hidrolândia|-04.24.29|40.26.16
+CE|Horizonte|-04.05.09|38.39.05
+CE|Ibaretama|-04.48.15|38.45.12
+CE|Ibiapina|-03.55.24|40.53.22
+CE|Ibicuitinga|-04.58.26|38.38.20
+CE|Icapuí|-04.42.47|37.21.19
+CE|Icó|-06.24.04|38.51.44
+CE|Iguatu|-06.21.34|39.17.55
+CE|Independência|-05.23.47|40.18.31
+CE|Ipaporanga|-04.54.00|40.45.32
+CE|Ipaumirim|-06.47.23|38.43.09
+CE|Ipu|-04.19.20|40.42.39
+CE|Ipueiras|-04.32.30|40.43.08
+CE|Iracema|-05.48.43|38.18.21
+CE|Irauçuba|-03.44.46|39.47.00
+CE|Itaiçaba|-04.40.28|37.49.21
+CE|Itaitinga|-03.58.10|38.31.41
+CE|Itapagé|-03.41.12|39.35.10
+CE|Itapipoca|-03.21.42|39.49.54
+CE|Itapiúna|-04.33.52|38.55.20
+CE|Itarema|-02.55.13|39.54.54
+CE|Itatira|-04.31.44|39.37.20
+CE|Jaguaretama|-05.36.46|38.46.01
+CE|Jaguaribara|-05.39.29|38.37.12
+CE|Jaguaribe|-05.53.26|38.37.19
+CE|Jaguaruana|-04.50.02|37.46.52
+CE|Jardim|-07.34.57|39.17.53
+CE|Jati|-07.41.10|39.00.57
+CE|Jijoca de Jericoacoara|-02.53.42|40.26.57
+CE|Juazeiro do Norte|-07.12.47|39.18.55
+CE|Jucás|-06.31.31|39.31.39
+CE|Lavras da Mangabeira|-06.45.12|38.57.52
+CE|Limoeiro do Norte|-05.08.44|38.05.53
+CE|Madalena|-04.51.26|39.34.36
+CE|Maracanaú|-03.52.36|38.37.32
+CE|Maranguape|-03.53.27|38.41.08
+CE|Marco|-03.07.26|40.08.48
+CE|Martinópole|-03.13.32|40.41.48
+CE|Massapê|-03.31.22|40.20.34
+CE|Mauriti|-07.23.21|38.46.28
+CE|Meruoca|-03.32.30|40.27.18
+CE|Milagres|-07.18.48|38.56.44
+CE|Milhã|-05.40.30|39.11.38
+CE|Miraíma|-03.34.10|39.58.12
+CE|Missão Velha|-07.14.59|39.08.35
+CE|Mombaça|-05.44.35|39.37.39
+CE|Monsenhor Tabosa|-04.47.22|40.03.48
+CE|Morada Nova|-05.06.24|38.22.21
+CE|Moraújo|-03.28.00|40.40.50
+CE|Morrinhos|-03.13.46|40.07.30
+CE|Mucambo|-03.54.34|40.44.48
+CE|Mulungu|-04.18.20|38.59.47
+CE|Nova Olinda|-07.05.30|39.40.50
+CE|Nova Russas|-04.42.24|40.33.47
+CE|Novo Oriente|-05.32.04|40.46.27
+CE|Ocara|-04.29.27|38.35.48
+CE|Orós|-06.14.40|38.54.49
+CE|Pacajus|-04.10.21|38.27.38
+CE|Pacatuba|-03.59.03|38.37.13
+CE|Pacoti|-04.13.30|38.55.24
+CE|Pacujá|-03.59.17|40.41.51
+CE|Palhano|-04.44.43|37.57.32
+CE|Palmácia|-04.09.01|38.50.47
+CE|Paracuru|-03.24.36|39.01.50
+CE|Paraipaba|-03.26.22|39.08.54
+CE|Parambu|-06.12.40|40.41.40
+CE|Paramoti|-04.05.49|39.14.22
+CE|Pedra Branca|-05.27.15|39.43.02
+CE|Penaforte|-07.49.44|39.04.38
+CE|Pentecoste|-03.47.34|39.16.13
+CE|Pereiro|-06.02.30|38.27.35
+CE|Pindoretama|-04.01.37|38.18.18
+CE|Piquet Carneiro|-05.48.13|39.25.04
+CE|Pires Ferreira|-04.14.48|40.38.43
+CE|Poranga|-04.44.41|40.55.34
+CE|Porteiras|-07.32.05|39.07.06
+CE|Potengi|-07.05.26|40.01.36
+CE|Potiretama|-05.43.26|38.09.22
+CE|Quiterianópolis|-05.50.35|40.42.03
+CE|Quixadá|-04.58.17|39.00.55
+CE|Quixelã|-06.15.16|39.12.07
+CE|Quixeramobim|-05.11.57|39.17.34
+CE|Quixeré|-05.04.27|37.59.19
+CE|Redenção|-04.13.33|38.43.50
+CE|Reriutaba|-04.08.30|40.34.56
+CE|Russas|-04.56.25|37.58.33
+CE|Saboeiro|-06.32.31|39.54.24
+CE|Salitre|-07.17.05|40.27.26
+CE|Santana do Acaraú|-03.27.38|40.12.44
+CE|Santana do Cariri|-07.11.18|39.44.13
+CE|Santa Quitéria|-04.19.55|40.09.24
+CE|São Benedito|-04.02.55|40.51.54
+CE|São Gonçalo do Amarante|-03.36.26|38.58.06
+CE|São João do Jaguaribe|-05.16.16|38.16.25
+CE|São Luís do Curu|-03.40.12|39.14.36
+CE|Senador Pompeu|-05.35.17|39.22.18
+CE|Senador Sá|-03.21.02|40.27.48
+CE|Sobral|-03.41.10|40.20.59
+CE|Solonópole|-05.44.00|39.00.27
+CE|Tabuleiro do Norte|-05.14.48|38.07.50
+CE|Tamboril|-04.49.56|40.19.14
+CE|Tarrafas|-06.41.04|39.45.41
+CE|Tauá|-06.00.11|40.17.34
+CE|Tejuçuoca|-03.59.20|39.34.50
+CE|Tianguá|-03.43.56|40.59.30
+CE|Trairi|-03.16.40|39.16.08
+CE|Tururu|-03.34.51|39.26.14
+CE|Ubajara|-03.51.16|40.55.16
+CE|Umari|-06.38.52|38.42.00
+CE|Umirim|-03.40.38|39.21.01
+CE|Uruburetama|-03.37.30|39.30.30
+CE|Uruoca|-03.18.50|40.33.24
+CE|Varjota|-04.11.40|40.28.36
+CE|Várzea Alegre|-06.47.20|39.17.45
+CE|Viçosa do Ceará|-03.33.44|41.05.32
+ES|Afonso Claúdio|-20.04.27|41.07.26
+ES|Água Doce do Norte|-18.32.49|40.58.43
+ES|Águia Branca|-18.58.59|40.44.25
+ES|Alegre|-20.45.49|41.31.59
+ES|Alfredo Chaves|-20.38.06|40.44.59
+ES|Alto Rio Novo|-19.03.22|41.01.00
+ES|Anchieta|-20.48.21|40.38.44
+ES|Apiacá|-21.09.13|41.34.03
+ES|Aracruz|-19.49.13|40.16.24
+ES|Atilio Vivacqua|-20.54.51|41.11.54
+ES|Baixo Guandu|-19.31.08|41.00.57
+ES|Barra de São Francisco|-18.45.18|40.53.27
+ES|Boa Esperança|-18.32.24|40.17.45
+ES|Bom Jesus do Norte|-21.07.56|41.40.36
+ES|Brejetuba|-20.08.46|41.17.25
+ES|Cachoeiro de Itapemirim|-20.50.56|41.06.46
+ES|Cariacica|-20.15.50|40.25.12
+ES|Castelo|-20.36.13|41.11.05
+ES|Colatina|-19.32.22|40.37.50
+ES|Conceição da Barra|-18.35.36|39.43.56
+ES|Conceição do Castelo|-20.22.06|41.14.38
+ES|Divino de São Lourenço|-20.37.12|41.41.09
+ES|Domingos Martins|-20.21.48|40.39.33
+ES|Dores do Rio Preto|-20.41.20|41.50.43
+ES|Ecoporanga|-18.22.24|40.49.50
+ES|Fundão|-19.55.57|40.24.24
+ES|Guaçuí|-20.46.32|41.40.46
+ES|Guarapari|-20.40.00|40.29.51
+ES|Ibatiba|-20.14.02|41.30.38
+ES|Ibiraçu|-19.49.55|40.22.11
+ES|Ibitirama|-20.32.29|41.40.02
+ES|Iconha|-20.47.35|40.48.40
+ES|Irupi|-20.20.43|41.38.28
+ES|Itaguaçu|-19.48.07|40.51.20
+ES|Itapemirim|-21.00.40|40.50.02
+ES|Itarana|-19.52.26|40.52.31
+ES|Iúna|-20.20.45|41.32.09
+ES|Jaguaré|-18.54.20|40.04.34
+ES|Jerônimo Monteiro|-20.47.22|41.23.42
+ES|João Neiva|-19.45.27|40.23.08
+ES|Laranja da Terra|-19.53.56|41.03.24
+ES|Linhares|-19.23.28|40.04.20
+ES|Mantenópolis|-18.51.45|41.07.22
+ES|Marataizes|-21.02.36|40.49.28
+ES|Marechal Floriano|-20.24.46|40.40.59
+ES|Marilândia|-19.24.46|40.32.30
+ES|Mimoso do Sul|-21.03.51|41.21.59
+ES|Montanha|-18.07.37|40.21.48
+ES|Mucurici|-18.05.36|40.30.57
+ES|Muniz Freire|-20.27.51|41.24.47
+ES|Muqui|-20.57.06|41.20.45
+ES|Nova Venécia|-18.42.38|40.24.02
+ES|Pancas|-19.13.30|40.51.05
+ES|Pedro Canário|-18.01.49|40.09.02
+ES|Pinheiros|-18.22.13|40.12.48
+ES|Piúma|-20.50.16|40.43.19
+ES|Ponto Belo|-18.07.25|40.32.28
+ES|Presidente Kennedy|-21.05.56|41.02.48
+ES|Rio Bananal|-19.15.54|40.20.00
+ES|Rio Novo do Sul|-20.51.45|40.56.11
+ES|Santa Leopoldina|-20.06.02|40.31.47
+ES|Santa Maria de Jetibá|-20.02.26|40.44.46
+ES|Santa Teresa|-19.56.08|40.36.01
+ES|São Domingos do Norte|-19.08.37|40.37.25
+ES|São Gabriel da Palha|-19.01.03|40.32.08
+ES|São José do Calçado|-21.01.31|41.39.16
+ES|São Mateus|-18.42.58|39.51.32
+ES|São Roque do Canaã|-19.44.20|40.39.25
+ES|Serra|-20.07.43|40.18.28
+ES|Sooretama|-19.11.49|40.05.52
+ES|Vargem Alta|-20.40.17|41.00.25
+ES|Venda Nova do Imigrante|-20.20.23|41.08.05
+ES|Viana|-20.23.25|40.29.46
+ES|Vila Pavão|-18.36.54|40.36.41
+ES|Vila Valério|-18.59.52|40.23.21
+ES|Vila Velha|-20.19.47|40.17.33
+GO|Abadia de Goiás|-16.45.26|49.26.15
+GO|Abadiânia|-16.12.15|48.42.25
+GO|Acreúna|-17.23.44|50.22.37
+GO|Adelândia|-16.24.54|50.09.56
+GO|Água Fria de Goiás|-14.59.08|47.47.03
+GO|Água Limpa|-18.04.25|48.45.44
+GO|Águas Lindas de Goiás|-15.45.43|48.16.54
+GO|Alexânia|-16.04.56|48.30.26
+GO|Aloândia|-17.43.38|49.28.49
+GO|Alto Horizonte|-14.11.44|49.20.19
+GO|Alto Paraíso de Goiás|-14.07.57|47.30.36
+GO|Alvorada do Norte|-14.28.51|46.29.32
+GO|Amaralina|-13.55.35|49.17.50
+GO|Americano do Brasil|-16.15.17|49.58.58
+GO|Amorinópolis|-16.37.09|51.05.37
+GO|Anápolis|-16.19.36|48.57.10
+GO|Anhanguera|-18.20.14|48.13.09
+GO|Anicuns|-16.27.40|49.57.42
+GO|Aparecida de Goiânia|-16.49.24|49.14.38
+GO|Aparecida do Rio Doce|-18.17.56|51.08.43
+GO|Aporé|-18.57.55|51.55.35
+GO|Araçu|-16.21.27|49.40.52
+GO|Aragarças|-15.53.51|52.15.03
+GO|Aragoiânia|-16.54.43|49.27.05
+GO|Araguapaz|-15.05.27|50.37.56
+GO|Arenópolis|-16.23.10|51.33.37
+GO|Aruanã|-14.55.13|51.04.59
+GO|Aurilândia|-16.40.54|50.27.53
+GO|Avelinópolis|-16.27.57|49.45.28
+GO|Baliza|-16.11.46|52.32.42
+GO|Barro Alto|-14.58.15|48.54.57
+GO|Bela Vista de Goiás|-16.58.22|48.57.12
+GO|Bom Jardim de Goiás|-16.12.35|52.10.20
+GO|Bom Jesus de Goiás|-18.12.50|49.44.27
+GO|Bonfinópolis|-16.37.04|48.57.48
+GO|Bonópolis|-13.38.11|49.48.37
+GO|Brazabrantes|-16.25.50|49.23.21
+GO|Britânia|-15.14.28|51.09.38
+GO|Buriti Alegre|-18.08.24|49.02.25
+GO|Buriti de Goiás|-16.10.51|50.25.52
+GO|Buritinópolis|-14.27.26|46.26.14
+GO|Cabeceiras|-15.48.02|46.55.36
+GO|Cachoeira Alta|-18.45.48|50.56.30
+GO|Cachoeira de Goiás|-16.40.04|50.38.49
+GO|Cachoeira Dourada|-18.29.30|49.28.30
+GO|Caçu|-18.33.24|51.07.51
+GO|Caiapônia|-16.57.24|51.48.37
+GO|Caldas Novas|-17.44.30|48.37.30
+GO|Caldazinha|-16.42.51|49.00.07
+GO|Campestre de Goiás|-16.45.44|49.41.40
+GO|Campinaçu|-13.47.24|48.34.16
+GO|Campinorte|-14.18.41|49.09.04
+GO|Campo Alegre de Goiás|-17.37.59|47.46.42
+GO|Campos Belos|-13.02.12|46.46.18
+GO|Campos Verdes|-14.15.28|49.39.27
+GO|Carmo do Rio Verde|-15.21.13|49.42.27
+GO|Castelândia|-18.05.20|50.13.22
+GO|Catalão|-18.09.57|47.56.47
+GO|Caturaí|-16.26.49|49.29.38
+GO|Cavalcante|-13.47.51|47.27.30
+GO|Ceres|-15.18.30|49.35.54
+GO|Cezarina|-16.58.19|49.46.33
+GO|Chapadão do Céu|-18.24.27|52.32.56
+GO|Cidade Ocidental|-16.04.38|47.55.35
+GO|Cocalzinho de Goiás|-15.47.40|48.46.33
+GO|Colinas do Sul|-14.09.05|48.04.42
+GO|Córrego do Ouro|-16.17.38|50.32.53
+GO|Corumbá de Goiás|-15.55.25|48.48.31
+GO|Corumbaíba|-18.08.33|48.33.41
+GO|Cristalina|-16.46.07|47.36.49
+GO|Cristianópolis|-17.11.57|48.42.21
+GO|Crixás|-14.32.56|49.58.09
+GO|Cromínia|-17.17.12|49.22.53
+GO|Cumari|-18.15.47|48.09.04
+GO|Damianópolis|-14.33.50|46.10.38
+GO|Damolândia|-16.15.09|49.22.12
+GO|Davinópolis|-18.09.11|47.33.42
+GO|Diorama|-16.14.03|51.15.20
+GO|Divinópolis de Goiás|-13.17.42|46.23.35
+GO|Doverlândia|-16.43.13|52.19.10
+GO|Edealina|-17.25.26|49.39.48
+GO|Edéia|-17.20.18|49.55.53
+GO|Estrela do Norte|-13.52.06|49.04.21
+GO|Faina|-15.26.46|50.21.38
+GO|Fazenda Nova|-16.10.59|50.46.47
+GO|Firminópolis|-16.34.55|50.18.18
+GO|Flores de Goiás|-14.26.55|47.03.01
+GO|Formosa|-15.32.14|47.20.04
+GO|Formoso|-13.39.13|48.52.55
+GO|Goianápolis|-16.30.38|49.01.26
+GO|Goiandira|-18.07.54|48.05.06
+GO|Goianésia|-15.19.03|49.07.03
+GO|Goianira|-16.29.46|49.25.35
+GO|Goiás|-15.56.04|50.08.25
+GO|Goiatuba|-18.00.45|49.21.17
+GO|Gouvelândia|-18.38.33|50.03.58
+GO|Guapó|-16.49.50|49.31.55
+GO|Guaraíta|-15.36.51|50.01.26
+GO|Guarani de Goiás|-13.56.09|46.28.49
+GO|Guarinos|-14.43.54|49.42.06
+GO|Heitoraí|-15.43.08|49.49.45
+GO|Hidrolândia|-16.57.44|49.13.41
+GO|Hidrolina|-14.43.28|49.27.54
+GO|Iaciara|-14.05.45|46.37.54
+GO|Inaciolândia|-18.29.17|49.59.14
+GO|Indiara|-17.08.17|49.59.17
+GO|Inhumas|-16.21.28|49.29.46
+GO|Ipameri|-17.43.19|48.09.35
+GO|Iporá|-16.26.31|51.07.04
+GO|Israelândia|-16.19.04|50.54.29
+GO|Itaberaí|-16.01.13|49.48.37
+GO|Itaguari|-15.55.07|49.36.16
+GO|Itaguaru|-15.45.30|49.38.03
+GO|Itajá|-19.04.03|51.32.40
+GO|Itapaci|-14.57.03|49.32.58
+GO|Itapirapuã|-15.49.24|50.36.48
+GO|Itapuranga|-15.33.44|49.56.55
+GO|Itarumã|-18.46.09|51.20.53
+GO|Itauçu|-16.12.02|49.36.29
+GO|Itumbiara|-18.25.09|49.12.55
+GO|Ivolândia|-16.36.07|50.47.38
+GO|Jandaia|-17.02.55|50.08.46
+GO|Jaraguá|-15.45.25|49.20.04
+GO|Jataí|-17.52.53|51.42.52
+GO|Jaupaci|-16.10.41|50.57.11
+GO|Jesúpolis|-15.57.05|49.22.26
+GO|Joviânia|-17.48.21|49.36.46
+GO|Jussara|-15.51.54|50.52.05
+GO|Leopoldo de Bulhões|-16.37.09|48.44.37
+GO|Luziânia|-16.15.09|47.57.01
+GO|Mairipotaba|-17.17.57|49.29.29
+GO|Mambaí|-14.29.16|46.06.47
+GO|Mara Rosa|-14.00.59|49.10.38
+GO|Marzagão|-17.58.53|48.38.25
+GO|Matrinchã|-15.26.37|50.44.46
+GO|Maurilândia|-17.58.15|50.20.19
+GO|Mimoso de Goiás|-15.03.22|48.09.41
+GO|Minaçu|-13.31.59|48.13.12
+GO|Mineiros|-17.34.10|52.33.04
+GO|Moiporá|-16.32.46|50.44.21
+GO|Monte Alegre de Goiás|-13.15.23|46.54.02
+GO|Montes Claros de Goiás|-16.00.28|51.23.48
+GO|Montividiu|-17.26.39|51.10.29
+GO|Montividiu do Norte|-13.06.45|48.36.26
+GO|Morrinhos|-17.43.52|49.05.58
+GO|Morro Agudo de Goiás|-15.19.15|50.03.24
+GO|Mossâmedes|-16.07.36|50.12.54
+GO|Mozarlândia|-14.44.41|50.34.14
+GO|Mundo Novo|-13.46.34|50.16.52
+GO|Mutunópolis|-13.43.57|49.16.30
+GO|Nazário|-16.34.54|49.52.54
+GO|Nerópolis|-16.24.23|49.13.07
+GO|Niquelândia|-14.28.26|48.27.35
+GO|Nova América|-15.01.18|49.53.45
+GO|Nova Aurora|-18.03.27|48.15.13
+GO|Nova Crixás|-14.05.55|50.19.36
+GO|Nova Glória|-15.08.35|49.34.16
+GO|Nova Iguaçu de Goiás|-14.17.16|49.23.15
+GO|Nova Roma|-13.44.31|46.52.49
+GO|Nova Veneza|-16.22.15|49.19.23
+GO|Novo Brasil|-16.02.03|50.42.40
+GO|Novo Gama|-16.03.33|48.02.22
+GO|Novo Planalto|-13.14.40|49.30.14
+GO|Orizona|-17.01.53|48.17.45
+GO|Ouro Verde de Goiás|-16.13.13|49.11.36
+GO|Ouvidor|-18.14.01|47.50.20
+GO|Padre Bernardo|-15.09.37|48.17.02
+GO|Palestina de Goiás|-16.44.00|51.31.57
+GO|Palmeiras de Goiás|-16.48.18|49.55.33
+GO|Palmelo|-17.19.28|48.25.24
+GO|Palminópolis|-16.47.46|50.09.53
+GO|Panamá|-18.10.36|49.21.15
+GO|Paranaiguara|-18.54.57|50.39.14
+GO|Paraúna|-16.56.52|50.26.55
+GO|Perolândia|-17.31.43|52.03.51
+GO|Petrolina de Goiás|-16.05.42|49.20.17
+GO|Pilar de Goiás|-14.45.50|49.34.42
+GO|Piracanjuba|-17.18.10|49.01.00
+GO|Piranhas|-16.25.37|51.49.20
+GO|Pirenópolis|-15.51.09|48.57.33
+GO|Pires do Rio|-17.17.59|48.16.46
+GO|Planaltina|-15.27.10|47.36.51
+GO|Pontalina|-17.31.30|49.26.50
+GO|Porangatu|-13.26.27|49.08.55
+GO|Porteirão|-17.48.55|50.09.49
+GO|Portelândia|-17.21.13|52.40.43
+GO|Posse|-14.05.35|46.22.10
+GO|Professor Jamil|-17.14.55|49.14.30
+GO|Quirinópolis|-18.26.54|50.27.06
+GO|Rialma|-15.18.54|49.35.04
+GO|Rianápolis|-15.26.49|49.30.36
+GO|Rio Quente|-17.46.27|48.46.21
+GO|Rio Verde|-17.47.53|50.55.41
+GO|Rubiataba|-15.09.52|49.48.12
+GO|Sanclerlândia|-16.11.51|50.18.52
+GO|Santa Bárbara de Goiás|-16.34.26|49.41.40
+GO|Santa Cruz de Goiás|-17.18.57|48.28.54
+GO|Santa Fé de Goiás|-15.46.09|51.06.20
+GO|Santa Helena de Goiás|-17.48.49|50.35.49
+GO|Santa Isabel|-15.17.53|49.25.36
+GO|Santa Rita do Araguaia|-17.19.32|53.12.19
+GO|Santa Rita do Novo Destino|-15.08.07|49.07.13
+GO|Santa Rosa de Goiás|-16.05.06|49.29.37
+GO|Santa Tereza de Goiás|-13.42.52|49.00.54
+GO|Santa Terezinha de Goiás|-14.26.17|49.42.22
+GO|Santo Antônio da Barra|-17.33.41|50.38.03
+GO|Santo Antônio de Goiás|-16.29.01|49.18.40
+GO|Santo Antônio do Descoberto|-15.56.23|48.15.18
+GO|São Domingos|-13.23.54|46.19.06
+GO|São Francisco de Goiás|-15.55.50|49.15.40
+GO|São João da Paraúna|-16.48.53|50.24.36
+GO|São João d'Aliança|-14.42.20|47.31.29
+GO|São Luís de Montes Belos|-16.31.30|50.22.20
+GO|São Luiz do Norte|-14.51.45|49.19.46
+GO|São Miguel do Araguaia|-13.16.30|50.09.46
+GO|São Miguel do Passa Quatro|-17.03.31|48.39.46
+GO|São Patrício|-15.21.01|49.49.04
+GO|São Simão|-18.59.28|50.32.37
+GO|Senador Canedo|-16.42.29|49.05.35
+GO|Serranópolis|-18.18.22|51.57.44
+GO|Silvânia|-16.39.32|48.36.29
+GO|Simolândia|-14.28.25|46.29.00
+GO|Sítio d'Abadia|-14.48.19|46.15.11
+GO|Taquaral de Goiás|-16.03.15|49.36.21
+GO|Teresina de Goiás|-13.46.35|47.15.53
+GO|Terezópolis de Goiás|-16.23.41|49.04.47
+GO|Três Ranchos|-18.21.14|47.46.57
+GO|Trindade|-16.38.58|49.29.20
+GO|Trombas|-13.30.31|48.44.24
+GO|Turvânia|-16.36.52|50.08.03
+GO|Turvelândia|-17.51.10|50.18.08
+GO|Uirapuru|-14.17.06|49.55.18
+GO|Uruaçu|-14.31.29|49.08.27
+GO|Uruana|-15.29.53|49.41.15
+GO|Urutaí|-17.27.49|48.12.06
+GO|Valparaíso de Goiás|-16.03.57|47.58.43
+GO|Varjão|-17.02.43|49.37.52
+GO|Vianópolis|-16.44.31|48.30.59
+GO|Vicentinópolis|-17.44.06|49.48.18
+GO|Vila Boa|-15.02.18|47.03.34
+GO|Vila Propício|-15.27.25|48.53.19
+MA|Açailândia|-04.56.48|47.30.17
+MA|Afonso Cunha|-04.07.58|43.19.27
+MA|Água Doce do Maranhão|-02.50.26|42.06.44
+MA|Alcântara|-02.24.32|44.24.53
+MA|Aldeias Altas|-04.37.40|43.28.14
+MA|Altamira do Maranhão|-04.03.30|45.29.58
+MA|Alto Alegre do Maranhão|-04.12.46|44.26.47
+MA|Alto Alegre do Pindaré|-03.41.24|45.54.10
+MA|Alto Parnaíba|-09.06.39|45.55.47
+MA|Amapá do Maranhão|-01.34.05|45.55.47
+MA|Amarante do Maranhão|-05.34.00|46.44.32
+MA|Anajatuba|-03.15.52|44.37.11
+MA|Anapurus|-03.40.18|43.06.58
+MA|Apicum-Açu|-01.27.40|45.06.12
+MA|Araguanã|-02.57.10|45.39.55
+MA|Araioses|-02.53.24|41.54.11
+MA|Arame|-04.53.09|46.00.18
+MA|Arari|-03.27.13|44.46.48
+MA|Axixá|-02.50.13|44.03.12
+MA|Bacabal|-04.17.30|44.47.30
+MA|Bacabeira|-02.58.15|44.18.56
+MA|Bacuri|-01.42.10|45.08.02
+MA|Bacurituba|-02.42.21|44.44.16
+MA|Balsas|-07.31.57|46.02.08
+MA|Barão de Grajaú|-06.45.23|43.01.27
+MA|Barra do Corda|-05.30.20|45.14.36
+MA|Barreirinhas|-02.44.49|42.49.35
+MA|Bela Vista do Maranhão|-03.43.52|45.18.53
+MA|Belágua|-03.09.18|43.30.37
+MA|Benedito Leite|-07.13.22|44.33.30
+MA|Bequimão|-02.26.56|44.46.57
+MA|Bernardo do Mearim|-04.35.04|44.45.52
+MA|Boa Vista do Gurupi|-01.47.15|46.18.12
+MA|Bom Jardim|-04.44.30|44.21.00
+MA|Bom Jesus das Selvas|-04.25.12|46.45.55
+MA|Bom Lugar|-04.13.11|45.02.21
+MA|Brejo|-03.41.04|42.45.01
+MA|Brejo de Areia|-04.06.42|45.29.43
+MA|Buriti|-03.56.32|42.55.30
+MA|Buriti Bravo|-05.50.14|43.50.01
+MA|Buriticupu|-04.20.45|46.24.04
+MA|Buritirama|-05.35.34|47.01.04
+MA|Cachoeira Grande|-02.55.36|44.03.29
+MA|Cajapió|-02.52.51|44.40.29
+MA|Cajari|-03.19.15|45.00.39
+MA|Campestre do Maranhão|-06.10.20|47.21.49
+MA|Cândido Mendes|-01.26.48|45.43.00
+MA|Cantanhede|-03.38.00|44.22.36
+MA|Capinzal do Norte|-04.43.42|44.19.37
+MA|Carolina|-07.19.58|47.28.10
+MA|Carutapera|-01.11.42|46.01.12
+MA|Caxias|-04.51.32|43.21.22
+MA|Cedral|-02.00.01|44.32.10
+MA|Central do Maranhão|-02.11.55|44.49.32
+MA|Centro do Guilherme|-02.22.07|46.00.06
+MA|Centro Novo do Maranhão|-02.06.25|46.07.42
+MA|Chapadinha|-03.44.30|43.21.37
+MA|Cidelândia|-05.10.27|47.46.54
+MA|Codó|-04.27.19|43.53.08
+MA|Coelho Neto|-04.15.24|43.00.46
+MA|Colinas|-06.01.33|44.14.57
+MA|Conceição do Lago-Açu|-03.50.04|44.53.36
+MA|Coroatá|-04.07.48|44.07.27
+MA|Cururupu|-01.49.42|44.52.06
+MA|Davinópolis|-05.33.27|47.25.33
+MA|Dom Pedro|-05.02.00|44.26.30
+MA|Duque Bacelar|-04.09.20|42.56.40
+MA|Esperantinópolis|-04.52.00|44.42.30
+MA|Estreito|-06.33.38|47.27.04
+MA|Feira Nova do Maranhão|-06.57.36|46.41.08
+MA|Fernando Falcão|-06.09.07|44.53.35
+MA|Formosa da Serra Negra|-06.26.07|46.11.27
+MA|Fortaleza dos Nogueiras|-06.57.50|46.10.38
+MA|Fortuna|-05.44.00|44.09.30
+MA|Godofredo Viana|-01.24.12|45.46.48
+MA|Gonçalves Dias|-05.09.04|44.17.58
+MA|Governador Archer|-05.01.20|44.16.16
+MA|Governador Edison Lobão|-05.44.55|47.21.38
+MA|Governador Eugênio Barros|-05.19.23|44.14.48
+MA|Governador Luiz Rocha|-05.28.07|44.04.26
+MA|Governador Newton Bello|-03.25.34|45.40.33
+MA|Governador Nunes Freire|-02.07.33|45.53.07
+MA|Graça Aranha|-05.24.35|44.20.03
+MA|Grajaú|-05.49.10|46.08.19
+MA|Guimarães|-02.07.59|44.36.04
+MA|Humberto de Campos|-02.35.54|43.27.40
+MA|Icatu|-02.46.33|44.03.57
+MA|Igarapé do Meio|-03.39.40|45.13.36
+MA|Igarapé Grande|-04.34.00|44.49.30
+MA|Imperatriz|-05.31.35|47.29.30
+MA|Itaipava do Grajaú|-05.08.41|45.47.29
+MA|Itapecuru Mirim|-03.23.33|44.21.31
+MA|Itinga do Maranhão|-04.26.59|47.31.32
+MA|Jatobá|-05.49.00|44.13.24
+MA|Jenipapo dos Vieiras|-05.22.17|45.38.11
+MA|João Lisboa|-05.26.52|47.24.03
+MA|Joselândia|-04.56.00|44.41.00
+MA|Junco do Maranhão|-01.50.37|46.05.32
+MA|Lago da Pedra|-04.33.00|45.07.00
+MA|Lago do Junco|-04.24.00|44.55.00
+MA|Lago Verde|-04.02.30|44.56.00
+MA|Lagoa do Mato|-06.02.48|43.31.34
+MA|Lagoa dos Rodrigues|-04.29.53|44.53.55
+MA|Lagoa Grande do Maranhão|-04.48.47|45.19.47
+MA|Lajeado Novo|-06.11.19|47.02.07
+MA|Lima Campos|-04.31.00|44.28.00
+MA|Loreto|-07.05.04|45.08.28
+MA|Luís Domingues|-01.16.06|45.52.24
+MA|Magalhães de Almeida|-03.23.46|42.12.14
+MA|Maracaçumé|-02.02.34|45.57.33
+MA|Marajá do Sena|-04.35.58|45.34.38
+MA|Maranhãozinho|-02.18.35|45.50.31
+MA|Mata Roma|-03.37.30|43.06.40
+MA|Matinha|-03.06.02|45.02.01
+MA|Matões|-05.31.08|43.11.56
+MA|Matões do Norte|-03.37.56|44.33.21
+MA|Milagres do Maranhão|-03.34.53|42.36.34
+MA|Mirador|-06.22.15|44.21.47
+MA|Miranda do Norte|-03.34.08|44.35.02
+MA|Mirinzal|-02.03.54|44.47.03
+MA|Monção|-03.29.30|45.15.04
+MA|Montes Altos|-05.50.00|47.04.00
+MA|Morros|-02.51.52|44.02.22
+MA|Nina Rodrigues|-03.27.58|43.54.18
+MA|Nova Colinas|-07.06.56|46.15.25
+MA|Nova Iorque|-06.44.02|44.02.40
+MA|Nova Olinda do Maranhão|-02.50.50|45.41.41
+MA|Olho d'Água das Cunhãs|-04.06.53|45.08.23
+MA|Olinda Nova do Maranhão|-02.59.53|44.59.49
+MA|Paço do Lumiar|-02.31.56|44.06.27
+MA|Palmeirândia|-02.38.43|44.53.42
+MA|Paraibano|-06.25.59|43.59.01
+MA|Parnarama|-05.40.54|43.05.36
+MA|Passagem Franca|-06.10.47|43.47.01
+MA|Pastos Bons|-06.36.06|44.04.36
+MA|Paulino Neves|-02.43.09|42.31.59
+MA|Paulo Ramos|-04.26.38|45.14.26
+MA|Pedreiras|-04.34.08|44.35.31
+MA|Pedro do Rosário|-02.58.24|45.20.58
+MA|Penalva|-03.17.39|45.10.25
+MA|Peri Mirim|-02.34.39|44.51.15
+MA|Peritoró|-04.23.00|44.20.00
+MA|Pindaré Mirim|-03.36.30|45.20.36
+MA|Pinheiro|-02.31.17|45.04.57
+MA|Pio XII|-03.49.57|45.09.09
+MA|Pirapemas|-03.43.36|44.13.24
+MA|Poção de Pedras|-04.40.00|44.51.00
+MA|Porto Franco|-06.20.18|47.23.57
+MA|Porto Rico do Maranhão|-01.53.33|44.36.18
+MA|Presidente Dutra|-05.17.24|44.29.24
+MA|Presidente Juscelino|-02.55.39|44.03.54
+MA|Presidente Médici|-02.23.12|45.49.11
+MA|Presidente Sarney|-02.35.29|45.21.51
+MA|Presidente Vargas|-03.24.25|44.01.26
+MA|Primeira Cruz|-02.30.36|43.26.18
+MA|Raposa|-02.25.23|44.06.12
+MA|Riachão|-07.21.43|46.37.02
+MA|Ribamar Fiquene|-05.55.49|47.23.04
+MA|Rosário|-02.56.04|44.14.06
+MA|Sambaíba|-07.08.25|45.20.46
+MA|Santa Filomena do Maranhão|-05.30.03|44.33.38
+MA|Santa Helena|-02.13.52|45.18.00
+MA|Santa Inês|-03.40.00|45.22.48
+MA|Santa Luzia|-03.57.48|45.39.30
+MA|Santa Luzia do Paruá|-02.30.02|45.46.30
+MA|Santa Quitéria do Maranhão|-03.30.56|42.32.48
+MA|Santa Rita|-03.08.37|44.19.33
+MA|Santana do Maranhão|-03.06.58|42.24.42
+MA|Santo Amaro do Maranhão|-02.30.01|43.15.16
+MA|Santo Antônio dos Lopes|-04.52.00|44.22.00
+MA|São Benedito do Rio Preto|-03.20.01|43.31.42
+MA|São Bento|-02.41.45|44.49.17
+MA|São Bernardo|-03.21.41|42.25.04
+MA|São Domingos do Azeitão|-06.48.36|44.38.41
+MA|São Domingos do Maranhão|-05.34.33|44.23.07
+MA|São Félix de Balsas|-07.04.58|44.48.47
+MA|São Francisco do Brejão|-05.07.22|47.23.09
+MA|São Francisco do Maranhão|-06.15.02|42.51.23
+MA|São João Batista|-02.57.19|44.48.25
+MA|São João do Carú|-03.33.16|46.15.21
+MA|São João do Paraíso|-06.27.40|47.03.27
+MA|São João do Soter|-05.06.50|43.48.36
+MA|São João dos Patos|-06.29.42|43.42.08
+MA|São José de Ribamar|-02.33.43|44.03.15
+MA|São José dos Basílios|-05.03.04|44.35.02
+MA|São Luís Gonzaga do Maranhão|-04.23.30|44.39.00
+MA|São Mateus do Maranhão|-04.02.30|44.28.30
+MA|São Pedro da Água Branca|-05.05.06|48.25.45
+MA|São Pedro dos Crentes|-06.49.35|46.31.55
+MA|São Raimundo das Mangabeiras|-07.01.19|45.28.52
+MA|São Raimundo do Doca Bezerra|-05.06.17|45.04.38
+MA|São Roberto|-05.01.16|44.59.27
+MA|São Vicente Ferrer|-02.53.39|44.52.49
+MA|Satubinha|-03.50.57|45.16.16
+MA|Senador Alexandre Costa|-05.15.23|44.03.20
+MA|Senador La Rocque|-05.26.33|47.17.27
+MA|Serrano do Maranhão|-01.51.23|45.07.21
+MA|Sítio Novo|-05.52.41|46.41.57
+MA|Sucupira do Norte|-06.28.37|44.11.30
+MA|Sucupira do Riachão|-06.24.40|43.32.46
+MA|Tasso Fragoso|-08.28.31|45.44.34
+MA|Timbiras|-04.15.19|43.56.26
+MA|Timon|-05.05.39|42.50.12
+MA|Trizidela do Vale|-04.34.19|44.37.15
+MA|Tufilândia|-03.43.44|45.33.16
+MA|Tuntum|-05.15.29|44.38.56
+MA|Turiaçu|-01.39.48|45.22.18
+MA|Turilândia|-02.12.03|45.20.33
+MA|Tutóia|-02.45.43|42.16.28
+MA|Urbano Santos|-03.12.28|43.24.13
+MA|Vargem Grande|-03.32.35|43.54.57
+MA|Viana|-03.13.13|45.00.13
+MA|Vila Nova dos Martírios|-04.59.13|47.59.36
+MA|Vitória do Mearim|-03.27.44|44.52.14
+MA|Vitorino Freire|-04.17.22|45.15.00
+MA|Zé Doca|-03.16.29|45.39.30
+MG|Abadia dos Dourados|-18.29.08|47.24.11
+MG|Abaeté|-19.09.36|45.26.45
+MG|Abre Campo|-20.18.04|42.28.39
+MG|Acaiaca|-20.21.45|43.08.41
+MG|Açucena|-19.04.23|42.32.47
+MG|Água Boa|-17.59.46|42.23.20
+MG|Água Comprida|-20.03.23|48.06.32
+MG|Aguanil|-20.56.33|45.23.34
+MG|Águas Formosas|-17.04.56|40.56.09
+MG|Águas Vermelhas|-15.44.50|41.27.36
+MG|Aimorés|-19.29.45|41.03.50
+MG|Aiuruoca|-21.58.32|44.36.11
+MG|Alagoa|-22.10.14|44.38.31
+MG|Albertina|-22.12.03|46.36.57
+MG|Além Paraíba|-21.53.16|42.42.16
+MG|Alfenas|-21.25.45|45.56.50
+MG|Alfredo Vasconcelos|-21.08.43|43.46.37
+MG|Almenara|-16.11.01|40.41.40
+MG|Alpercata|-18.58.27|41.58.13
+MG|Alpinópolis|-20.51.49|46.23.17
+MG|Alterosa|-21.14.57|46.08.35
+MG|Alto Caparaó|-20.26.00|41.52.06
+MG|Alto Jequitibá|-20.25.26|41.57.59
+MG|Alto Rio Doce|-21.01.33|43.24.41
+MG|Alvarenga|-19.25.02|41.43.43
+MG|Alvinópolis|-20.06.24|43.02.56
+MG|Alvorada de Minas|-18.44.10|43.21.55
+MG|Amparo do Serra|-20.30.26|42.48.09
+MG|Andradas|-22.04.05|46.34.09
+MG|Andrelândia|-21.44.23|44.18.33
+MG|Angelândia|-17.36.08|42.09.45
+MG|Antônio Carlos|-21.19.05|43.44.48
+MG|Antônio Dias|-19.39.10|42.52.20
+MG|Antônio Prado de Minas|-21.00.58|42.06.34
+MG|Araçaí|-19.11.55|44.14.53
+MG|Aracitaba|-21.20.33|43.22.42
+MG|Araçuaí|-16.50.59|42.04.13
+MG|Araguari|-18.38.50|48.11.14
+MG|Arantina|-21.54.40|44.15.21
+MG|Araponga|-20.40.00|42.31.15
+MG|Araporã|-18.26.10|49.11.06
+MG|Arapuá|-19.02.02|46.09.20
+MG|Araújos|-19.56.53|45.09.56
+MG|Araxá|-19.35.36|46.56.26
+MG|Arceburgo|-21.21.51|46.56.24
+MG|Arcos|-20.16.55|45.32.22
+MG|Areado|-21.21.31|46.08.44
+MG|Argirita|-21.36.36|42.50.10
+MG|Aricanduva|-17.52.02|42.33.25
+MG|Arinos|-15.55.01|46.06.20
+MG|Astolfo Dutra|-21.18.55|42.51.44
+MG|Ataléia|-18.02.37|41.06.36
+MG|Augusto de Lima|-18.06.33|44.16.01
+MG|Baependi|-21.57.32|44.53.24
+MG|Baldim|-19.17.18|43.57.25
+MG|Bambuí|-20.00.23|45.58.37
+MG|Bandeira|-15.53.05|40.33.34
+MG|Bandeira do Sul|-21.43.41|46.23.09
+MG|Barão de Cocais|-19.56.45|43.29.14
+MG|Barão de Monte Alto|-21.14.42|42.14.15
+MG|Barbacena|-21.13.33|43.46.25
+MG|Barra Longa|-20.16.58|43.02.28
+MG|Barroso|-21.11.13|43.58.33
+MG|Bela Vista de Minas|-19.49.49|43.05.28
+MG|Belmiro Braga|-21.56.55|43.24.54
+MG|Belo Oriente|-19.13.12|42.29.01
+MG|Belo Vale|-20.24.28|44.01.28
+MG|Berilo|-16.57.06|42.27.56
+MG|Berizal|-15.36.48|41.44.42
+MG|Bertópolis|-17.03.47|40.34.28
+MG|Betim|-19.58.04|44.11.54
+MG|Bias Fortes|-21.36.22|43.45.25
+MG|Bicas|-21.43.31|43.03.34
+MG|Biquinhas|-18.46.58|45.30.08
+MG|Boa Esperança|-21.05.24|45.33.57
+MG|Bocaina de Minas|-22.10.03|44.23.41
+MG|Bocaiúva|-17.06.28|43.48.54
+MG|Bom Despacho|-19.44.11|45.15.08
+MG|Bom Jardim de Minas|-21.56.50|44.11.28
+MG|Bom Jesus da Penha|-21.01.01|46.31.21
+MG|Bom Jesus do Amparo|-19.42.13|43.28.25
+MG|Bom Jesus do Galho|-19.49.44|42.18.58
+MG|Bom Repouso|-22.28.16|46.08.42
+MG|Bom Sucesso|-21.01.59|44.45.29
+MG|Bonfim|-20.19.36|44.14.19
+MG|Bonfinópolis de Minas|-16.34.03|45.59.24
+MG|Bonito de Minas|-15.19.24|44.45.16
+MG|Borda da Mata|-22.16.27|46.09.55
+MG|Botelhos|-21.38.00|46.23.42
+MG|Botumirim|-16.52.20|43.00.39
+MG|Brás Pires|-20.55.14|43.14.32
+MG|Brasilândia de Minas|-17.00.35|46.00.34
+MG|Brasília de Minas|-16.12.23|44.26.00
+MG|Brasópolis|-22.28.25|45.36.27
+MG|Braúnas|-19.03.21|42.42.56
+MG|Brumadinho|-20.08.36|44.11.59
+MG|Bueno Brandão|-22.26.27|46.21.03
+MG|Buenópolis|-17.52.24|44.10.48
+MG|Bugre|-19.25.34|42.14.40
+MG|Buritis|-15.37.04|46.25.24
+MG|Buritizeiro|-17.21.04|44.57.44
+MG|Cabeceira Grande|-16.01.47|47.05.26
+MG|Cabo Verde|-21.28.19|46.23.46
+MG|Cachoeira da Prata|-19.31.29|44.27.13
+MG|Cachoeira de Minas|-22.21.18|45.46.44
+MG|Cachoeira de Pajeú|-15.57.58|41.29.53
+MG|Cachoeira Dourada|-18.30.54|49.30.05
+MG|Caetanópolis|-19.17.43|44.25.07
+MG|Caeté|-19.52.48|43.40.11
+MG|Caiana|-20.41.44|41.55.30
+MG|Cajuri|-20.47.26|42.47.48
+MG|Caldas|-21.55.25|46.23.10
+MG|Camacho|-20.37.31|45.09.24
+MG|Camanducaia|-22.45.19|46.08.41
+MG|Cambuí|-22.36.44|46.03.27
+MG|Cambuquira|-21.51.08|45.17.45
+MG|Campanário|-18.14.19|41.44.54
+MG|Campanha|-21.50.10|45.24.02
+MG|Campestre|-21.42.40|46.14.47
+MG|Campina Verde|-19.32.08|49.29.11
+MG|Campo Azul|-16.30.13|44.48.38
+MG|Campo Belo|-20.53.50|45.16.38
+MG|Campo do Meio|-21.06.24|45.49.49
+MG|Campo Florido|-19.45.38|48.34.20
+MG|Campos Altos|-19.41.46|46.10.17
+MG|Campos Gerais|-21.14.06|45.45.31
+MG|Cana Verde|-21.01.15|45.10.55
+MG|Canaã|-20.41.09|42.37.11
+MG|Canápolis|-18.43.30|49.12.16
+MG|Candeias|-20.46.01|45.16.35
+MG|Cantagalo|-18.31.33|42.37.37
+MG|Caparaó|-20.31.23|41.54.16
+MG|Capela Nova|-20.55.23|43.37.04
+MG|Capelinha|-17.41.29|42.30.57
+MG|Capetinga|-20.36.59|47.03.13
+MG|Capim Branco|-19.32.56|44.07.00
+MG|Capinópolis|-18.40.55|49.34.11
+MG|Capitão Andrade|-19.04.03|41.51.29
+MG|Capitão Enéas|-16.19.28|43.42.38
+MG|Capitólio|-20.36.55|46.03.00
+MG|Caputira|-20.10.19|42.16.14
+MG|Caraí|-17.11.20|41.41.41
+MG|Caranaíba|-20.52.33|43.44.21
+MG|Carandaí|-20.57.13|43.48.23
+MG|Carangola|-20.43.59|42.01.46
+MG|Caratinga|-19.47.23|42.08.21
+MG|Carbonita|-17.31.37|43.00.57
+MG|Careaçu|-22.02.35|45.41.57
+MG|Carlos Chagas|-17.42.11|40.45.59
+MG|Carmésia|-19.05.20|43.08.30
+MG|Carmo da Cachoeira|-21.27.39|45.13.25
+MG|Carmo da Mata|-20.33.28|44.52.14
+MG|Carmo de Minas|-22.07.20|45.07.45
+MG|Carmo do Cajuru|-20.11.03|44.46.16
+MG|Carmo do Paranaíba|-19.00.03|46.18.58
+MG|Carmo do Rio Claro|-20.58.19|46.07.08
+MG|Carmópolis de Minas|-20.32.29|44.38.06
+MG|Carneirinho|-19.41.51|50.41.17
+MG|Carrancas|-21.29.15|44.38.33
+MG|Carvalhópolis|-21.46.40|45.50.28
+MG|Carvalhos|-22.00.04|44.27.41
+MG|Casa Grande|-20.47.34|43.55.49
+MG|Cascalho Rico|-18.34.35|47.52.38
+MG|Cássia|-20.34.59|46.55.19
+MG|Cataguases|-21.23.21|42.41.48
+MG|Catas Altas|-20.04.29|43.24.27
+MG|Catas Altas da Noruega|-20.41.24|43.29.51
+MG|Catuji|-17.17.58|41.31.01
+MG|Catuti|-15.21.30|42.57.46
+MG|Caxambu|-21.58.38|44.55.57
+MG|Cedro do Abaeté|-19.08.54|45.42.41
+MG|Central de Minas|-18.45.43|41.18.23
+MG|Centralina|-18.35.02|49.11.58
+MG|Chácara|-21.40.20|43.13.18
+MG|Chalé|-20.02.37|41.41.16
+MG|Chapada do Norte|-17.05.13|42.32.07
+MG|Chapada Gaúcha|-15.18.20|45.37.06
+MG|Chiador|-22.00.09|43.03.28
+MG|Cipotânea|-20.54.19|43.21.56
+MG|Claraval|-20.23.56|47.16.00
+MG|Claro dos Poções|-17.04.47|44.12.31
+MG|Cláudio|-20.26.36|44.45.57
+MG|Coimbra|-20.51.24|42.48.10
+MG|Coluna|-18.14.02|42.50.25
+MG|Comendador Gomes|-19.41.54|49.04.50
+MG|Comercinho|-16.17.46|41.47.36
+MG|Conceição da Aparecida|-21.05.39|46.12.16
+MG|Conceição da Barra de Minas|-21.07.44|44.28.20
+MG|Conceição das Alagoas|-19.54.53|48.23.18
+MG|Conceição das Pedras|-22.09.36|45.27.17
+MG|Conceição de Ipanema|-19.55.41|41.41.38
+MG|Conceição do Mato Dentro|-19.02.14|43.25.30
+MG|Conceição do Pará|-19.45.11|44.53.48
+MG|Conceição do Rio Verde|-21.52.51|45.05.07
+MG|Conceição dos Ouros|-22.24.47|45.47.53
+MG|Cônego Marinho|-15.17.39|44.25.05
+MG|Confins|-19.37.57|43.58.58
+MG|Congonhal|-22.09.10|46.02.22
+MG|Congonhas|-20.29.59|43.51.28
+MG|Congonhas do Norte|-18.48.26|43.40.53
+MG|Conquista|-19.56.14|47.32.30
+MG|Conselheiro Lafaiete|-20.39.37|43.47.10
+MG|Conselheiro Pena|-19.10.20|41.28.20
+MG|Consolação|-22.33.05|45.55.16
+MG|Contagem|-19.55.54|44.03.13
+MG|Coqueiral|-21.11.22|45.26.26
+MG|Coração de Jesus|-16.41.07|44.21.54
+MG|Cordisburgo|-19.07.30|44.19.15
+MG|Cordislândia|-21.47.33|45.42.03
+MG|Corinto|-18.22.51|44.27.23
+MG|Coroaci|-18.37.19|42.17.09
+MG|Coromandel|-18.28.24|47.12.01
+MG|Coronel Fabriciano|-19.31.07|42.37.44
+MG|Coronel Murta|-16.37.08|42.10.56
+MG|Coronel Pacheco|-21.35.16|43.15.56
+MG|Coronel Xavier Chaves|-21.01.25|44.13.23
+MG|Córrego Danta|-19.49.25|45.54.16
+MG|Córrego do Bom Jesus|-22.37.49|46.01.12
+MG|Córrego Fundo|-20.26.57|45.33.18
+MG|Córrego Novo|-19.49.55|42.23.47
+MG|Couto de Magalhães de Minas|-18.04.17|43.28.16
+MG|Crisólita|-17.14.14|40.54.43
+MG|Cristais|-20.52.32|45.31.07
+MG|Cristália|-16.48.01|42.51.44
+MG|Cristiano Otoni|-20.49.56|43.48.20
+MG|Cristina|-22.12.43|45.15.51
+MG|Crucilândia|-20.23.02|44.20.13
+MG|Cruzeiro da Fortaleza|-18.56.45|46.40.25
+MG|Cruzília|-21.50.19|44.48.30
+MG|Cuparaque|-18.58.10|41.05.57
+MG|Curral de Dentro|-15.56.15|41.50.40
+MG|Curvelo|-18.45.23|44.25.51
+MG|Datas|-18.26.44|43.39.21
+MG|Delfim Moreira|-22.30.33|45.16.48
+MG|Delfinópolis|-20.20.38|46.51.14
+MG|Delta|-19.58.36|47.46.16
+MG|Descoberto|-21.27.35|42.58.03
+MG|Desterro de Entre Rios|-20.39.36|44.19.57
+MG|Desterro do Melo|-21.08.50|43.31.04
+MG|Diamantina|-18.14.58|43.36.01
+MG|Diogo de Vasconcelos|-20.29.16|43.11.54
+MG|Dionísio|-19.50.34|42.46.36
+MG|Divinésia|-20.59.25|43.00.14
+MG|Divino|-20.36.52|42.08.55
+MG|Divino das Laranjeiras|-18.46.40|41.28.47
+MG|Divinolândia de Minas|-18.48.04|42.36.52
+MG|Divinópolis|-20.08.20|44.53.02
+MG|Divisa Alegre|-15.43.32|41.20.42
+MG|Divisa Nova|-21.30.40|46.11.45
+MG|Divisópolis|-15.43.32|41.00.00
+MG|Dom Bosco|-16.39.07|46.16.15
+MG|Dom Cavati|-19.22.26|42.06.23
+MG|Dom Joaquim|-18.58.02|43.15.21
+MG|Dom Silvério|-20.09.36|42.58.04
+MG|Dom Viçoso|-22.15.16|45.09.40
+MG|Dona Euzébia|-21.18.59|42.48.38
+MG|Dores de Campos|-21.06.32|44.01.23
+MG|Dores de Guanhães|-19.03.30|42.55.45
+MG|Dores do Indaiá|-19.27.48|45.36.06
+MG|Dores do Turvo|-20.58.32|43.11.21
+MG|Doresópolis|-20.17.13|45.54.12
+MG|Douradoquara|-18.25.53|47.36.31
+MG|Durandé|-20.12.12|41.47.52
+MG|Elói Mendes|-21.36.36|45.33.55
+MG|Engenheiro Caldas|-19.13.10|42.02.46
+MG|Engenheiro Navarro|-17.16.47|43.57.00
+MG|Entre Folhas|-19.37.31|42.13.50
+MG|Entre Rios de Minas|-20.40.15|44.03.56
+MG|Ervália|-20.50.24|42.39.26
+MG|Esmeraldas|-19.45.45|44.18.50
+MG|Espera Feliz|-20.39.01|41.54.26
+MG|Espinosa|-14.55.34|42.49.09
+MG|Espírito Santo do Dourado|-22.02.47|45.57.03
+MG|Estiva|-22.27.46|46.01.02
+MG|Estrela Dalva|-21.44.31|42.27.40
+MG|Estrela do Indaiá|-19.31.20|45.47.15
+MG|Estrela do Sul|-18.44.44|47.41.34
+MG|Eugenópolis|-21.05.55|42.11.12
+MG|Ewbank da Câmara|-21.33.04|43.30.36
+MG|Extrema|-22.51.17|46.19.06
+MG|Fama|-21.24.23|45.49.43
+MG|Faria Lemos|-20.48.30|42.01.47
+MG|Felício dos Santos|-18.04.38|43.14.49
+MG|Felisburgo|-16.38.19|40.45.41
+MG|Felixlândia|-18.45.29|44.53.56
+MG|Fernandes Tourinho|-19.09.13|42.04.55
+MG|Ferros|-19.13.55|43.01.24
+MG|Fervedouro|-20.43.32|42.16.44
+MG|Florestal|-19.53.22|44.25.57
+MG|Formiga|-20.27.52|45.25.35
+MG|Formoso|-14.56.48|46.13.55
+MG|Fortaleza de Minas|-20.50.57|46.43.05
+MG|Fortuna de Minas|-19.33.40|44.26.49
+MG|Francisco Badaró|-16.59.33|42.21.07
+MG|Francisco Dumont|-17.18.54|44.14.03
+MG|Francisco Sá|-16.28.33|43.29.18
+MG|Franciscópolis|-17.57.35|42.00.31
+MG|Frei Gaspar|-18.03.58|41.25.46
+MG|Frei Inocêncio|-18.34.28|41.54.32
+MG|Frei Lagonegro|-18.10.04|42.45.58
+MG|Fronteira|-20.16.04|49.11.58
+MG|Fronteira dos Vales|-16.53.29|40.55.29
+MG|Fruta de Leite|-16.07.52|42.31.59
+MG|Frutal|-20.01.29|48.56.26
+MG|Funilândia|-19.22.03|44.03.22
+MG|Galiléia|-18.59.58|41.32.15
+MG|Gameleiras|-15.04.56|43.07.25
+MG|Glaucilândia|-16.50.59|43.41.50
+MG|Goiabeira|-18.58.56|41.13.21
+MG|Goianá|-21.32.14|43.12.06
+MG|Gonçalves|-22.39.32|45.51.21
+MG|Gonzaga|-18.49.20|42.28.45
+MG|Gouvêa|-18.27.16|43.44.27
+MG|Governador Valadares|-18.51.04|41.56.58
+MG|Grão Mogol|-16.33.34|42.53.23
+MG|Grupiara|-18.29.39|47.43.20
+MG|Guanhães|-18.46.30|42.55.57
+MG|Guapé|-20.45.42|45.55.03
+MG|Guaraciaba|-20.34.15|43.00.27
+MG|Guaraciama|-17.00.50|43.40.23
+MG|Guaranésia|-21.17.57|46.48.09
+MG|Guarani|-21.21.08|43.02.49
+MG|Guarará|-21.43.55|43.02.15
+MG|Guarda-Mor|-17.46.15|47.05.54
+MG|Guaxupé|-21.18.19|46.42.46
+MG|Guidoval|-21.09.07|42.47.48
+MG|Guimarânia|-18.50.38|46.47.35
+MG|Guiricema|-21.00.28|42.43.04
+MG|Gurinhatã|-19.12.48|49.47.11
+MG|Heliodora|-22.04.02|45.32.32
+MG|Iapu|-19.26.12|42.13.04
+MG|Ibertioga|-21.25.48|43.57.47
+MG|Ibiá|-19.28.42|46.32.20
+MG|Ibiaí|-16.51.40|44.54.52
+MG|Ibiracatu|-15.39.49|44.09.50
+MG|Ibiraci|-20.27.44|47.07.20
+MG|Ibirité|-20.01.19|44.03.32
+MG|Ibitiúra de Minas|-22.03.39|46.26.24
+MG|Ibituruna|-21.09.09|44.44.52
+MG|Icaraí de Minas|-16.13.02|44.54.23
+MG|Igarapé|-20.04.13|44.18.06
+MG|Igaratinga|-19.57.19|44.42.33
+MG|Iguatama|-20.10.28|45.42.41
+MG|Ijaci|-21.10.12|44.55.31
+MG|Ilicínea|-20.56.09|45.49.58
+MG|Imbé de Minas|-19.35.50|41.58.14
+MG|Inconfidentes|-22.19.01|46.19.40
+MG|Indaiabira|-15.29.30|42.11.50
+MG|Indianópolis|-19.02.19|47.55.01
+MG|Ingaí|-21.24.04|44.55.02
+MG|Inhapim|-19.32.57|42.07.12
+MG|Inhaúma|-19.29.28|44.23.23
+MG|Inimutaba|-18.43.45|44.21.38
+MG|Ipaba|-19.24.49|42.25.10
+MG|Ipanema|-19.48.03|41.42.47
+MG|Ipatinga|-19.28.06|42.32.12
+MG|Ipiaçu|-18.41.32|49.56.34
+MG|Ipuiúna|-22.05.56|46.11.23
+MG|Iraí de Minas|-18.59.02|47.27.41
+MG|Itabira|-19.37.09|43.13.37
+MG|Itabirinha de Mantena|-18.33.59|41.13.59
+MG|Itabirito|-20.15.12|43.48.05
+MG|Itacambira|-17.03.53|43.18.32
+MG|Itacarambi|-15.06.08|44.05.31
+MG|Itaguara|-20.23.32|44.29.15
+MG|Itaipé|-17.24.07|41.40.07
+MG|Itajubá|-22.25.32|45.27.10
+MG|Itamarandiba|-17.51.26|42.51.32
+MG|Itamarati de Minas|-21.24.57|42.49.04
+MG|Itambacuri|-18.01.52|41.41.06
+MG|Itambé do Mato Dentro|-19.24.52|43.19.16
+MG|Itamogi|-21.04.41|47.02.54
+MG|Itamonte|-22.17.02|44.52.12
+MG|Itanhandu|-22.17.45|44.56.05
+MG|Itanhomi|-19.10.19|41.51.55
+MG|Itaobim|-16.33.42|41.30.12
+MG|Itapagipe|-19.54.31|49.22.53
+MG|Itapecerica|-20.28.21|45.07.32
+MG|Itapeva|-22.46.05|46.13.15
+MG|Itatiaiuçu|-20.11.48|44.25.16
+MG|Itaú de Minas|-20.44.22|46.45.08
+MG|Itaúna|-20.04.31|44.34.35
+MG|Itaverava|-20.40.41|43.36.36
+MG|Itinga|-16.36.47|41.45.55
+MG|Itueta|-19.23.39|41.10.13
+MG|Ituiutaba|-18.58.08|49.27.54
+MG|Itumirim|-21.19.01|44.52.16
+MG|Iturama|-19.43.41|50.11.44
+MG|Itutinga|-21.17.53|44.39.28
+MG|Jaboticatubas|-19.30.49|43.44.42
+MG|Jacinto|-16.08.40|40.17.36
+MG|Jacuí|-21.01.00|46.44.28
+MG|Jacutinga|-22.17.08|46.36.44
+MG|Jaguaraçu|-19.38.57|42.44.59
+MG|Jaíba|-15.20.18|43.40.28
+MG|Jampruca|-18.27.46|41.48.14
+MG|Janaúba|-15.48.09|43.18.32
+MG|Japaraíba|-20.08.29|45.30.12
+MG|Japonvar|-15.59.41|44.16.12
+MG|Jeceaba|-20.32.07|43.59.00
+MG|Jenipapo de Minas|-17.04.58|42.15.30
+MG|Jequeri|-20.27.21|42.39.57
+MG|Jequitaí|-17.14.08|44.26.44
+MG|Jequitibá|-19.14.08|44.01.40
+MG|Jequitinhonha|-16.26.02|41.00.12
+MG|Jesuânia|-21.59.52|45.17.28
+MG|Joaíma|-16.39.15|41.01.50
+MG|Joanésia|-19.10.20|42.40.43
+MG|João Monlevade|-19.48.36|43.10.25
+MG|João Pinheiro|-17.44.33|46.10.21
+MG|Joaquim Felício|-17.45.27|44.10.20
+MG|Jordânia|-15.54.01|40.10.41
+MG|José Gonçalves de Minas|-16.54.25|42.36.13
+MG|José Raydan|-18.13.10|42.29.55
+MG|Josenópolis|-16.32.50|42.30.55
+MG|Juatuba|-19.57.07|44.20.34
+MG|Juiz de Fora|-21.45.51|43.21.01
+MG|Juramento|-16.50.53|43.35.13
+MG|Juruaia|-21.15.10|46.34.37
+MG|Juvenília|-14.15.45|44.09.37
+MG|Ladainha|-17.37.56|41.44.15
+MG|Lagamar|-18.10.42|46.48.27
+MG|Lagoa da Prata|-20.01.21|45.32.37
+MG|Lagoa dos Patos|-16.59.00|44.34.56
+MG|Lagoa Dourada|-20.54.52|44.04.42
+MG|Lagoa Formosa|-18.46.43|46.24.27
+MG|Lagoa Grande|-17.50.07|46.30.52
+MG|Lagoa Santa|-19.37.38|43.53.23
+MG|lagoas|-15.29.17|44.21.42
+MG|Lajinha|-20.09.05|41.37.22
+MG|Lambari|-21.58.32|45.21.01
+MG|Lamim|-20.47.25|43.28.27
+MG|Laranjal|-21.22.28|42.28.37
+MG|Lassance|-17.53.12|44.34.39
+MG|Lavras|-21.14.43|44.59.59
+MG|Leandro Ferreira|-19.43.05|45.01.30
+MG|Leme do Prado|-17.05.00|42.41.33
+MG|Leopoldina|-21.31.55|42.38.35
+MG|Liberdade|-22.01.44|44.19.11
+MG|Lima Duarte|-21.50.33|43.47.35
+MG|Limeira do Oeste|-19.33.04|50.34.50
+MG|Lontra|-15.54.12|44.18.18
+MG|Luisburgo|-20.26.23|42.06.10
+MG|Luislândia|-16.07.03|44.35.19
+MG|Luminárias|-21.30.40|44.54.12
+MG|Luz|-19.48.05|45.41.08
+MG|Machacalis|-17.04.38|40.42.59
+MG|Machado|-21.40.29|45.55.11
+MG|Madre de Deus de Minas|-21.28.57|44.19.49
+MG|Malacacheta|-17.50.32|42.04.36
+MG|Mamonas|-15.03.01|42.56.58
+MG|Manga|-14.45.21|43.55.56
+MG|Manhuaçu|-20.15.29|42.02.01
+MG|Manhumirim|-20.21.28|41.57.29
+MG|Mantena|-18.46.54|40.58.49
+MG|Mar de Espanha|-21.52.02|43.00.35
+MG|Maravilhas|-19.30.58|44.40.35
+MG|Maria da Fé|-22.18.29|45.22.31
+MG|Mariana|-20.22.40|43.24.58
+MG|Marilac|-18.30.29|42.05.02
+MG|Mário Campos|-20.03.23|44.11.18
+MG|Maripá de Minas|-21.41.53|42.57.32
+MG|Marliéria|-19.42.44|42.43.56
+MG|Marmelópolis|-22.26.57|45.09.55
+MG|Martinho Campos|-19.19.54|45.14.13
+MG|Martins Soares|-20.15.25|41.52.37
+MG|Mata Verde|-15.41.11|40.44.28
+MG|Materlândia|-18.28.27|43.03.35
+MG|Mateus Leme|-19.59.11|44.25.40
+MG|Mathias Lobato|-18.33.53|41.54.52
+MG|Matias Barbosa|-21.52.09|43.19.10
+MG|Matias Cardoso|-14.51.17|43.55.19
+MG|Matipó|-20.17.02|42.20.28
+MG|Mato Verde|-15.23.50|42.51.59
+MG|Matozinhos|-19.33.28|44.04.53
+MG|Matutina|-19.13.21|45.58.07
+MG|Medeiros|-19.59.44|46.13.34
+MG|Medina|-16.13.21|41.28.37
+MG|Mendes Pimentel|-18.39.40|41.24.17
+MG|Mercês|-21.11.39|43.20.29
+MG|Mesquita|-19.13.21|42.36.26
+MG|Minas Novas|-17.13.07|42.35.25
+MG|Minduri|-21.40.55|44.36.14
+MG|Mirabela|-16.15.46|44.09.52
+MG|Miradouro|-20.53.26|42.20.33
+MG|Miraí|-21.11.43|42.36.51
+MG|Miravânia|-14.44.28|44.24.13
+MG|Moeda|-20.19.59|44.03.10
+MG|Moema|-19.50.36|45.24.39
+MG|Monjolos|-18.19.31|44.07.09
+MG|Monsenhor Paulo|-21.45.27|45.32.28
+MG|Montalvânia|-14.25.22|44.21.56
+MG|Monte Alegre de Minas|-18.52.14|48.52.51
+MG|Monte Azul|-15.09.18|42.52.29
+MG|Monte Belo|-21.19.35|46.22.03
+MG|Monte Carmelo|-18.43.29|47.29.55
+MG|Monte Formoso|-16.51.57|41.15.19
+MG|Monte Santo de Minas|-21.11.23|46.58.49
+MG|Monte Sião|-22.25.57|46.34.21
+MG|Montes Claros|-16.44.06|43.51.42
+MG|Montezuma|-15.10.19|42.29.50
+MG|Morada Nova de Minas|-18.36.16|45.21.24
+MG|Morro da Garça|-18.32.49|44.36.09
+MG|Morro do Pilar|-19.12.56|43.22.35
+MG|Munhoz|-22.36.47|46.21.38
+MG|Muriaé|-21.07.50|42.21.59
+MG|Mutum|-19.48.00|41.26.18
+MG|Muzambinho|-21.22.33|46.31.32
+MG|Nacip Raydan|-18.27.33|42.14.55
+MG|Nanuque|-17.50.21|40.21.14
+MG|Naque|-19.13.49|42.19.42
+MG|Natalândia|-16.30.15|46.29.36
+MG|Natércia|-22.07.12|45.30.42
+MG|Nazareno|-21.12.59|44.36.41
+MG|Nepomuceno|-21.14.09|45.14.09
+MG|Ninheira|-15.19.16|41.45.13
+MG|Nova Belém|-18.28.30|41.01.00
+MG|Nova Era|-19.45.00|43.02.15
+MG|Nova Lima|-19.59.08|43.50.48
+MG|Nova Módica|-18.26.14|41.30.05
+MG|Nova Ponte|-19.09.09|47.40.29
+MG|Nova Porteirinha|-15.48.09|43.18.02
+MG|Nova Resende|-21.07.34|46.25.13
+MG|Nova Serrana|-19.52.34|44.59.01
+MG|Nova União|-19.41.24|43.34.47
+MG|Novo Cruzeiro|-17.28.05|41.52.31
+MG|Novo Oriente de Minas|-17.24.55|41.12.55
+MG|Novorizonte|-16.01.02|42.24.28
+MG|Olaria|-21.51.39|43.56.14
+MG|Olhos-d'Água|-17.23.49|43.34.24
+MG|Olímpio Noronha|-22.04.04|45.15.50
+MG|Oliveira|-20.41.47|44.49.38
+MG|Oliveira Fortes|-21.20.20|43.27.23
+MG|Onça de Pitangui|-19.43.49|44.48.26
+MG|Oratórios|-20.25.50|42.48.20
+MG|Orizânia|-20.30.23|42.12.36
+MG|Ouro Branco|-20.31.15|43.41.31
+MG|Ouro Fino|-22.16.59|46.22.08
+MG|Ouro Preto|-20.17.15|43.30.29
+MG|Ouro Verde de Minas|-18.04.14|41.16.11
+MG|Padre Carvalho|-16.21.52|42.30.55
+MG|Padre Paraíso|-17.04.27|41.29.04
+MG|Pai Pedro|-15.31.00|43.03.55
+MG|Paineiras|-18.54.30|45.31.54
+MG|Pains|-20.22.14|45.39.41
+MG|Paiva|-21.17.21|43.24.57
+MG|Palma|-21.22.30|42.18.51
+MG|Palmópolis|-16.44.06|40.25.12
+MG|Papagaios|-19.26.57|44.44.52
+MG|Pará de Minas|-19.51.37|44.36.30
+MG|Paracatu|-17.13.20|46.52.29
+MG|Paraguaçu|-21.32.50|45.44.15
+MG|Paraisópolis|-22.33.15|45.46.48
+MG|Paraopeba|-19.16.28|44.24.15
+MG|Passa Quatro|-22.23.25|44.58.00
+MG|Passa Tempo|-20.39.02|44.29.44
+MG|Passa Vinte|-22.12.34|44.14.04
+MG|Passabém|-19.21.12|43.08.11
+MG|Passos|-20.43.08|46.36.35
+MG|Patis|-16.04.35|44.04.55
+MG|Patos de Minas|-18.34.44|46.31.05
+MG|Patrocínio|-18.56.38|46.59.33
+MG|Patrocínio do Muriaé|-21.09.09|42.12.53
+MG|Paula Cândido|-20.52.27|42.58.49
+MG|Paulistas|-18.25.39|42.52.06
+MG|Pavão|-17.25.40|40.59.56
+MG|Peçanha|-18.32.55|42.33.25
+MG|Pedra Azul|-16.00.19|41.17.50
+MG|Pedra Bonita|-20.31.14|42.19.48
+MG|Pedra do Anta|-20.35.50|42.42.49
+MG|Pedra do Indaiá|-20.15.30|45.12.32
+MG|Pedra Dourada|-20.49.49|42.09.15
+MG|Pedralva|-22.14.34|45.27.57
+MG|Pedras de Maria da Cruz|-15.36.24|44.23.29
+MG|Pedrinópolis|-19.13.40|47.27.44
+MG|Pedro Leopoldo|-19.37.05|44.02.35
+MG|Pedro Teixeira|-21.42.23|43.44.44
+MG|Pequeri|-21.50.03|43.07.14
+MG|Pequi|-19.37.58|44.39.32
+MG|Perdigão|-19.57.10|45.05.03
+MG|Perdizes|-19.21.10|47.17.34
+MG|Perdões|-21.05.27|45.05.29
+MG|Periquito|-19.09.27|42.14.01
+MG|Pescador|-18.21.25|41.35.53
+MG|Piau|-21.30.34|43.19.22
+MG|Piedade de Caratinga|-19.45.34|42.04.33
+MG|Piedade de Ponte Nova|-20.14.43|42.44.03
+MG|Piedade do Rio Grande|-21.28.07|44.11.46
+MG|Piedade dos Gerais|-20.28.16|44.13.38
+MG|Pimenta|-20.29.02|45.47.56
+MG|Pingo d'Água|-19.43.39|42.24.29
+MG|Pintópolis|-16.03.32|45.09.20
+MG|Piracema|-20.30.28|44.28.57
+MG|Pirajuba|-19.54.25|48.42.02
+MG|Piranga|-20.41.05|43.18.01
+MG|Piranguçu|-22.31.40|45.29.43
+MG|Piranguinho|-22.24.04|45.31.54
+MG|Pirapetinga|-21.39.23|42.20.44
+MG|Pirapora|-17.20.42|44.56.31
+MG|Piraúba|-21.16.35|43.01.35
+MG|Pitangui|-19.40.58|44.53.25
+MG|Piuí|-20.27.55|45.57.29
+MG|Planura|-20.08.16|48.42.07
+MG|Poço Fundo|-21.46.51|45.57.54
+MG|Poços de Caldas|-21.47.16|46.33.41
+MG|Pocrane|-19.37.11|41.38.13
+MG|Pompéu|-19.13.28|44.56.07
+MG|Ponte Nova|-20.24.59|42.54.31
+MG|Ponto Chique|-16.37.50|45.03.56
+MG|Ponto dos Volantes|-16.45.10|41.30.15
+MG|Porteirinha|-15.44.36|43.01.42
+MG|Porto Firme|-20.40.24|43.05.04
+MG|Poté|-17.48.24|41.47.11
+MG|Pouso Alegre|-22.13.48|45.56.11
+MG|Pouso Alto|-22.11.37|44.58.21
+MG|Prados|-21.03.27|44.04.47
+MG|Prata|-19.18.26|48.55.27
+MG|Pratápolis|-20.44.41|46.51.39
+MG|Pratinha|-19.45.04|46.22.41
+MG|Presidente Bernardes|-20.46.07|43.11.15
+MG|Presidente Juscelino|-18.38.14|44.03.30
+MG|Presidente Kubitschek|-18.36.52|43.33.44
+MG|Presidente Olegário|-18.25.04|46.25.05
+MG|Prudente de Morais|-19.28.55|44.09.18
+MG|Quartel Geral|-19.16.25|45.33.26
+MG|Queluzita|-20.44.24|43.53.04
+MG|Raposos|-19.58.02|43.48.15
+MG|Raul Soares|-20.06.07|42.27.09
+MG|Recreio|-21.31.30|42.28.09
+MG|Reduto|-20.13.08|41.58.57
+MG|Resende Costa|-20.55.20|44.14.15
+MG|Resplendor|-19.19.32|41.15.19
+MG|Ressaquinha|-21.03.45|43.45.46
+MG|Riachinho|-16.13.48|45.59.30
+MG|Riacho dos Machados|-16.00.22|43.02.58
+MG|Ribeirão das Neves|-19.46.01|44.05.12
+MG|Ribeirão Vermelho|-21.11.26|45.03.43
+MG|Rio Acima|-20.05.15|43.47.22
+MG|Rio Casca|-20.13.34|42.39.03
+MG|Rio do Prado|-16.36.30|40.34.11
+MG|Rio Doce|-20.14.41|42.53.45
+MG|Rio Espera|-20.51.19|43.28.28
+MG|Rio Manso|-20.15.55|44.18.28
+MG|Rio Novo|-21.27.27|43.07.31
+MG|Rio Paranaíba|-19.11.37|46.14.50
+MG|Rio Pardo de Minas|-15.36.35|42.32.23
+MG|Rio Piracicaba|-19.55.45|43.10.27
+MG|Rio Pomba|-21.16.29|43.10.45
+MG|Rio Preto|-22.05.21|43.49.40
+MG|Rio Vermelho|-18.17.37|43.00.33
+MG|Ritápolis|-21.01.19|44.19.05
+MG|Rochedo de Minas|-21.37.47|43.01.11
+MG|Rodeiro|-21.12.00|42.51.54
+MG|Romaria|-18.52.57|47.35.08
+MG|Rosário da Limeira|-20.58.44|42.30.43
+MG|Rubelita|-16.24.27|42.15.45
+MG|Rubim|-16.22.29|40.32.15
+MG|Sabará|-19.53.11|43.48.24
+MG|Sabinópolis|-18.39.58|43.05.02
+MG|Sacramento|-19.51.55|47.26.24
+MG|Salinas|-16.10.13|42.17.25
+MG|Salto da Divisa|-16.00.10|39.56.49
+MG|Santa Bárbara|-19.57.34|43.24.55
+MG|Santa Bárbara do Leste|-19.58.40|42.08.23
+MG|Santa Bárbara do Monte Verde|-21.57.33|43.42.08
+MG|Santa Bárbara do Tugúrio|-21.14.46|43.33.34
+MG|Santa Cruz de Minas|-21.07.11|44.13.24
+MG|Santa Cruz de Salinas|-16.05.54|41.44.47
+MG|Santa Cruz do Escalvado|-20.14.10|42.48.50
+MG|Santa Efigênia de Minas|-18.49.38|42.26.54
+MG|Santa Fé de Minas|-16.41.24|45.24.50
+MG|Santa Helena de Minas|-16.58.59|40.41.08
+MG|Santa Juliana|-19.18.31|47.31.31
+MG|Santa Luzia|-19.46.11|43.51.05
+MG|Santa Margarida|-20.23.02|42.15.02
+MG|Santa Maria de Itabira|-19.26.58|43.06.45
+MG|Santa Maria do Salto|-16.14.56|40.08.58
+MG|Santa Maria do Suaçuí|-18.11.25|42.24.51
+MG|Santa Rita de Caldas|-22.01.43|46.20.12
+MG|Santa Rita de Ibitipoca|-21.33.46|43.54.53
+MG|Santa Rita de Jacutinga|-22.08.58|44.05.42
+MG|Santa Rita de Minas|-19.52.28|42.07.55
+MG|Santa Rita do Itueto|-19.21.35|41.22.48
+MG|Santa Rita do Sapucaí|-22.15.08|45.42.12
+MG|Santa Rosa da Serra|-19.31.47|45.57.59
+MG|Santa Vitória|-18.50.19|50.07.17
+MG|Santana da Vargem|-21.14.57|45.30.24
+MG|Santana de Cataguases|-21.17.14|42.33.26
+MG|Santana de Pirapama|-19.00.22|44.02.35
+MG|Santana do Deserto|-21.57.00|43.09.59
+MG|Santana do Garambéu|-21.36.05|44.06.16
+MG|Santana do Jacaré|-20.53.52|45.07.51
+MG|Santana do Manhuaçu|-20.06.27|41.55.31
+MG|Santana do Paraíso|-19.21.49|42.34.07
+MG|Santana do Riacho|-19.10.08|43.42.52
+MG|Santana dos Montes|-20.47.16|43.41.30
+MG|Santo Antônio do Amparo|-20.56.47|44.55.08
+MG|Santo Antônio do Aventureiro|-21.45.29|42.48.56
+MG|Santo Antônio do Grama|-20.18.52|42.36.31
+MG|Santo Antônio do Itambé|-18.27.57|43.18.24
+MG|Santo Antônio do Jacinto|-16.32.02|40.10.33
+MG|Santo Antônio do Monte|-20.05.14|45.17.37
+MG|Santo Antônio do Retiro|-15.20.22|42.37.25
+MG|Santo Antônio do Rio Abaixo|-19.13.42|43.15.14
+MG|Santo Hipólito|-18.17.49|44.13.23
+MG|Santos Dumont|-21.27.24|43.33.09
+MG|São Bento Abade|-21.34.54|45.04.33
+MG|São Brás do Suaçuí|-20.37.30|43.56.57
+MG|São Domingos das Dores|-19.31.37|42.00.41
+MG|São Domingos do Prata|-19.51.54|42.58.06
+MG|São Félix de Minas|-18.35.28|41.29.11
+MG|São Francisco|-15.56.55|44.51.52
+MG|São Francisco de Paula|-20.42.36|44.59.07
+MG|São Francisco de Sales|-19.51.46|49.46.27
+MG|São Francisco do Glória|-20.47.22|42.16.03
+MG|São Geraldo|-20.55.22|42.50.04
+MG|São Geraldo da Piedade|-18.50.10|42.17.17
+MG|São Geraldo do Baixio|-18.54.00|41.21.36
+MG|São Gonçalo do Abaeté|-18.20.18|45.50.00
+MG|São Gonçalo do Pará|-19.58.58|44.51.32
+MG|São Gonçalo do Rio Abaixo|-19.49.34|43.21.44
+MG|São Gonçalo do Rio Preto|-18.00.15|43.23.27
+MG|São Gonçalo do Sapucaí|-21.53.32|45.35.43
+MG|São Gotardo|-19.18.40|46.02.56
+MG|São João Batista do Glória|-20.38.29|46.30.20
+MG|São João da Lagoa|-16.51.11|44.21.07
+MG|São João da Mata|-21.55.48|45.55.44
+MG|São João da Ponte|-15.55.45|44.00.28
+MG|São João das Missões|-14.53.01|44.05.26
+MG|São João del Rei|-21.08.08|44.15.42
+MG|São João do Manhuaçu|-20.23.37|42.09.05
+MG|São João do Manteninha|-18.43.17|41.09.37
+MG|São João do Oriente|-19.20.19|42.09.28
+MG|São João do Pacuí|-16.32.31|44.30.58
+MG|São João do Paraíso|-15.18.49|42.00.52
+MG|São João Evangelista|-18.32.52|42.45.48
+MG|São João Nepomuceno|-21.32.24|43.00.38
+MG|São Joaquim de Bicas|-20.02.57|44.16.26
+MG|São José da Barra|-20.43.05|46.18.41
+MG|São José da Lapa|-19.42.27|43.36.59
+MG|São José da Safira|-18.19.28|42.08.36
+MG|São José da Varginha|-19.42.35|44.33.25
+MG|São José do Alegre|-22.19.43|45.31.35
+MG|São José do Divino|-18.28.43|41.23.22
+MG|São José do Goiabal|-19.55.43|42.42.18
+MG|São José do Jacuri|-18.16.31|42.40.13
+MG|São José do Mantimento|-20.00.19|41.44.41
+MG|São Lourenço|-22.06.59|45.03.16
+MG|São Miguel do Anta|-20.42.26|42.43.08
+MG|São Pedro da União|-21.07.36|46.36.55
+MG|São Pedro do Suaçuí|-18.21.57|42.36.09
+MG|São Pedro dos Ferros|-20.10.13|42.31.26
+MG|São Romão|-16.22.07|45.04.10
+MG|São Roque de Minas|-20.14.43|46.21.57
+MG|São Sebastião da Bela Vista|-22.09.33|45.45.15
+MG|São Sebastião da Vargem Alegre|-21.04.20|42.38.11
+MG|São Sebastião do Anta|-19.29.52|41.59.01
+MG|São Sebastião do Maranhão|-18.05.04|42.34.17
+MG|São Sebastião do Oeste|-20.16.32|45.00.18
+MG|São Sebastião do Paraíso|-20.55.01|46.59.29
+MG|São Sebastião do Rio Preto|-19.17.31|43.10.26
+MG|São Sebastião do Rio Verde|-22.13.06|44.58.34
+MG|São Thomé das Letras|-21.43.20|44.59.07
+MG|São Tiago|-20.54.47|44.30.33
+MG|São Tomás de Aquino|-20.47.04|47.05.53
+MG|São Vicente de Minas|-21.42.45|44.26.39
+MG|Sapucaí-Mirim|-22.44.52|45.44.33
+MG|Sardoá|-18.47.01|42.21.54
+MG|Sarzedo|-20.02.07|44.08.41
+MG|Sem-Peixe|-20.06.33|42.50.22
+MG|Senador Amaral|-22.35.14|46.10.36
+MG|Senador Cortes|-21.48.02|42.56.44
+MG|Senador Firmino|-20.54.43|43.05.48
+MG|Senador José Bento|-22.09.52|46.10.44
+MG|Senador Modestino Gonçalves|-17.56.48|43.13.30
+MG|Senhora de Oliveira|-20.47.38|43.20.40
+MG|Senhora do Porto|-18.53.32|43.05.03
+MG|Senhora dos Remédios|-21.01.41|43.34.57
+MG|Sericita|-20.28.26|42.28.55
+MG|Seritinga|-21.54.33|44.31.09
+MG|Serra Azul de Minas|-18.21.43|43.10.12
+MG|Serra da Saudade|-19.26.16|45.47.45
+MG|Serra do Salitre|-19.06.41|46.41.23
+MG|Serra dos Aimorés|-17.46.57|40.14.51
+MG|Serrania|-21.32.53|46.02.23
+MG|Serranópolis de Minas|-15.49.43|42.52.17
+MG|Serranos|-21.53.25|44.30.36
+MG|Serro|-18.36.17|43.22.46
+MG|Sete Lagoas|-19.27.57|44.14.48
+MG|Setubinha|-17.43.32|42.16.22
+MG|Silveirânia|-21.09.32|43.12.55
+MG|Silvianópolis|-22.01.46|45.50.06
+MG|Simão Pereira|-21.57.49|43.18.43
+MG|Simonésia|-20.07.26|42.00.05
+MG|Sobrália|-19.14.05|42.05.54
+MG|Soledade de Minas|-22.03.36|45.02.42
+MG|Tabuleiro|-21.21.32|43.14.52
+MG|Taiobeiras|-15.48.28|42.13.59
+MG|Taparuba|-19.45.31|41.36.56
+MG|Tapira|-19.55.20|46.49.23
+MG|Tapiraí|-19.53.16|46.01.13
+MG|Taquaraçu de Minas|-19.40.11|43.41.14
+MG|Tarumirim|-19.16.51|42.00.24
+MG|Teixeiras|-20.39.04|42.51.24
+MG|Teófilo Otoni|-17.51.27|41.30.19
+MG|Timóteo|-19.34.57|42.38.40
+MG|Tiradentes|-21.06.37|44.10.41
+MG|Tiros|-19.00.14|45.57.52
+MG|Tocantins|-21.10.30|43.01.04
+MG|Tocos do Moji|-22.22.14|46.05.44
+MG|Toledo|-22.44.35|46.22.19
+MG|Tombos|-20.54.17|42.01.22
+MG|Três Corações|-21.41.49|45.15.12
+MG|Três Marias|-18.12.23|45.14.30
+MG|Três Pontas|-21.22.00|45.30.45
+MG|Tumiritinga|-18.58.45|41.38.43
+MG|Tupaciguara|-18.35.32|48.42.18
+MG|Turmalina|-17.17.08|42.43.48
+MG|Turvolândia|-21.52.32|45.47.13
+MG|Ubá|-21.07.12|42.56.34
+MG|Ubaí|-16.17.07|44.46.41
+MG|Ubaporanga|-19.38.07|42.06.20
+MG|Uberaba|-19.44.54|47.55.55
+MG|Uberlândia|-18.55.07|48.16.38
+MG|Umburatiba|-17.15.21|40.34.22
+MG|Unaí|-16.21.27|46.54.22
+MG|União de Minas|-19.31.49|50.20.09
+MG|Uruana de Minas|-16.03.51|46.15.15
+MG|Urucânia|-20.21.03|42.44.22
+MG|Urucuia|-16.07.57|45.44.32
+MG|Vargem Alegre|-19.36.30|42.17.54
+MG|Vargem Bonita|-20.19.36|46.21.58
+MG|Vargem Grande do Rio Pardo|-15.24.10|42.18.27
+MG|Varginha|-21.33.05|45.25.49
+MG|Varjão de MInas|-18.22.40|46.01.54
+MG|Várzea da Palma|-17.35.53|44.43.51
+MG|Varzelândia|-15.42.05|44.01.39
+MG|Vazante|-17.59.13|46.54.28
+MG|Verdelândia|-15.35.21|43.36.10
+MG|Veredinha|-17.23.58|42.44.08
+MG|Veríssimo|-19.39.48|48.18.30
+MG|Vermelho Novo|-20.02.10|42.16.01
+MG|Vespasiano|-19.41.31|43.55.24
+MG|Viçosa|-20.45.14|42.52.55
+MG|Vieiras|-20.51.57|42.14.37
+MG|Virgem da Lapa|-16.48.16|42.20.35
+MG|Virgínia|-22.20.00|45.05.30
+MG|Virginópolis|-18.49.22|42.42.14
+MG|Virgolândia|-18.28.33|42.18.24
+MG|Visconde do Rio Branco|-21.00.37|42.50.26
+MG|Volta Grande|-21.46.14|42.32.20
+MG|Wenceslau Braz|-22.32.04|45.21.46
+MS|Água Clara|-20.26.53|52.52.41
+MS|Alcinópolis|-18.19.27|53.42.22
+MS|Amambai|-23.06.15|55.13.33
+MS|Anastácio|-20.29.01|55.48.25
+MS|Anaurilândia|-22.11.15|52.43.04
+MS|Angélica|-22.09.12|53.46.16
+MS|Antônio João|-22.11.28|55.56.51
+MS|Aparecida do Taboado|-20.05.12|51.05.37
+MS|Aquidauana|-20.28.16|55.47.14
+MS|Aral Moreira|-22.56.02|55.38.07
+MS|Bandeirantes|-19.55.04|54.21.50
+MS|Bataguassu|-21.42.51|52.25.20
+MS|Bataiporã|-22.17.43|53.16.16
+MS|Bela Vista|-22.06.32|56.31.16
+MS|Bodoquena|-20.32.19|56.42.54
+MS|Bonito|-21.07.16|56.28.55
+MS|Brasilândia|-21.15.21|52.02.13
+MS|Caarapó|-22.38.03|54.49.20
+MS|Camapuã|-19.31.53|54.02.38
+MS|Caracol|-22.00.50|57.01.28
+MS|Cassilândia|-19.06.48|51.44.03
+MS|Chapadão do Sul|-18.47.39|52.37.22
+MS|Corguinho|-19.49.54|54.49.46
+MS|Coronel Sapucaia|-23.16.18|55.31.45
+MS|Corumbá|-19.00.33|57.39.12
+MS|Costa Rica|-18.32.38|53.07.45
+MS|Coxim|-18.30.24|54.45.36
+MS|Deodápolis|-22.16.32|54.09.54
+MS|Dois Irmãos do Buriti|-20.40.47|55.17.46
+MS|Douradina|-22.02.25|54.36.46
+MS|Dourados|-22.13.16|54.48.20
+MS|Eldorado|-23.47.13|54.17.01
+MS|Fátima do Sul|-22.22.27|54.30.50
+MS|Glória de Dourados|-22.25.03|54.13.57
+MS|Guia Lopes da Laguna|-21.27.28|56.06.51
+MS|Iguatemi|-23.40.49|54.33.40
+MS|Inocência|-19.43.32|51.55.48
+MS|Itaporã|-22.04.44|54.47.22
+MS|Itaquiraí|-23.28.28|54.11.06
+MS|Ivinhema|-22.18.17|53.48.55
+MS|Japorã|-23.53.28|54.24.15
+MS|Jaraguari|-20.08.30|54.23.58
+MS|Jardim|-21.28.49|56.08.17
+MS|Jateí|-22.28.55|54.18.09
+MS|Juti|-22.51.38|54.36.10
+MS|Ladário|-19.00.17|57.36.06
+MS|Laguna Carapã|-22.32.47|55.08.59
+MS|Maracaju|-21.36.52|55.10.06
+MS|Miranda|-20.14.26|56.22.42
+MS|Mundo Novo|-23.56.17|54.16.15
+MS|Naviraí|-23.03.54|54.11.26
+MS|Nioaque|-21.08.07|55.49.48
+MS|Nova Alvorada do Sul|-21.27.57|54.23.02
+MS|Nova Andradina|-22.14.00|53.20.35
+MS|Novo Horizonte do Sul|-22.40.20|53.51.38
+MS|Paranaíba|-19.40.38|51.11.27
+MS|Paranhos|-23.53.34|55.25.52
+MS|Pedro Gomes|-18.06.02|54.33.07
+MS|Ponta Porã|-22.32.10|55.43.32
+MS|Porto Murtinho|-21.41.56|57.52.57
+MS|Ribas do Rio Pardo|-20.26.35|53.45.33
+MS|Rio Brilhante|-21.48.07|54.32.47
+MS|Rio Negro|-19.26.58|54.59.13
+MS|Rio Verde de Mato Grosso|-18.55.05|54.50.39
+MS|Rochedo|-19.57.11|54.53.33
+MS|Santa Rita do Pardo|-21.18.10|52.49.50
+MS|São Gabriel do Oeste|-19.23.43|54.33.59
+MS|Selvíria|-20.22.02|51.25.08
+MS|Sete Quedas|-23.58.13|55.02.08
+MS|Sidrolândia|-20.55.55|54.57.41
+MS|Sonora|-17.34.37|54.45.28
+MS|Tacuru|-23.37.57|55.00.57
+MS|Taquarussu|-22.29.16|53.21.05
+MS|Terenos|-20.26.32|54.51.37
+MS|Três Lagoas|-20.45.04|51.40.42
+MS|Vicentina|-22.24.33|54.26.08
+MT|Acorizal|-15.12.17|56.21.57
+MT|Água Boa|-14.03.00|52.09.31
+MT|Alta Floresta|-09.52.32|56.05.10
+MT|Alto Araguaia|-17.18.53|53.12.55
+MT|Alto Boa Vista|-11.40.28|51.23.16
+MT|Alto Garças|-16.56.38|53.31.41
+MT|Alto Paraguai|-14.30.49|56.28.57
+MT|Alto Taquari|-17.49.34|53.16.56
+MT|Apiacás|-09.32.37|57.26.57
+MT|Araguaiana|-15.44.02|51.49.53
+MT|Araguainha|-16.51.22|53.01.57
+MT|Araputanga|-15.28.16|58.21.11
+MT|Arenápolis|-14.27.01|56.50.46
+MT|Aripuanã|-10.10.00|59.27.34
+MT|Barão de Melgaço|-16.11.40|55.58.03
+MT|Barra do Bugres|-15.04.21|57.10.52
+MT|Barra do Garças|-15.53.24|52.15.24
+MT|Brasnorte|-12.09.18|57.58.44
+MT|Cáceres|-16.04.14|57.40.44
+MT|Campinápolis|-14.30.56|52.53.41
+MT|Campo Novo do Parecis|-13.40.31|57.53.31
+MT|Campo Verde|-15.32.48|55.10.08
+MT|Campos de Júlio|-13.53.58|59.08.51
+MT|Cana Brava do Norte|-11.03.16|51.49.53
+MT|Canarana|-13.33.08|52.16.06
+MT|Carlinda|-09.57.29|55.49.56
+MT|Castanheira|-11.07.57|58.36.09
+MT|Chapada dos Guimarães|-15.27.38|55.44.59
+MT|Cláudia|-11.30.55|54.53.29
+MT|Cocalinho|-14.23.50|50.59.45
+MT|Colíder|-10.49.04|55.27.03
+MT|Comodoro|-13.39.47|59.47.09
+MT|Confresa|-10.38.38|51.34.08
+MT|Cotriguaçu|-09.57.27|58.24.49
+MT|Denise|-14.44.24|57.03.14
+MT|Diamantino|-14.24.31|56.26.46
+MT|Dom Aquino|-15.48.38|54.55.04
+MT|Feliz Natal|-12.23.10|54.55.11
+MT|Figueirópolis d'Oeste|-15.26.42|58.44.25
+MT|Gaúcha do Norte|-13.14.32|53.04.47
+MT|General Carneiro|-15.42.39|52.45.19
+MT|Glória d'Oeste|-15.46.06|58.13.04
+MT|Guarantã do Norte|-09.47.15|54.54.36
+MT|Guiratinga|-16.20.58|53.45.30
+MT|Indiavaí|-15.29.40|58.34.22
+MT|Itaúba|-11.03.42|55.16.35
+MT|Itiquira|-17.12.32|54.09.01
+MT|Jaciara|-15.57.55|54.58.06
+MT|Jangada|-15.14.08|56.29.21
+MT|Jauru|-15.20.31|58.51.59
+MT|Juara|-11.15.18|57.31.11
+MT|Juína|-11.22.42|58.44.28
+MT|Juruena|-10.19.05|58.21.32
+MT|Juscimeira|-16.03.02|54.53.04
+MT|Lambari d'Oeste|-15.19.24|58.00.13
+MT|Lucas do Rio Verde|-13.03.01|55.54.40
+MT|Luciara|-11.13.20|50.40.09
+MT|Marcelândia|-11.05.22|54.27.02
+MT|Matupá|-10.03.27|54.55.58
+MT|Mirassol d'Oeste|-15.40.30|58.05.45
+MT|Nobres|-14.43.13|56.19.39
+MT|Nortelândia|-14.27.17|56.48.10
+MT|Nossa Senhora do Livramento|-15.46.30|56.20.44
+MT|Nova Bandeirantes|-09.50.59|57.48.38
+MT|Nova Brasilândia|-14.57.25|54.57.56
+MT|Nova Canaã do Norte|-10.33.29|55.57.11
+MT|Nova Guarita|-10.18.47|55.24.30
+MT|Nova Lacerda|-14.28.34|59.36.31
+MT|Nova Marilândia|-14.21.52|56.58.08
+MT|Nova Maringá|-13.01.33|57.04.26
+MT|Nova Monte Verde|-09.58.56|57.32.05
+MT|Nova Mutum|-13.49.44|56.04.56
+MT|Nova Olímpia|-14.47.50|57.17.17
+MT|Nova Ubiratã|-12.59.26|55.15.17
+MT|Nova Xavantina|-14.40.24|52.21.11
+MT|Novo Horizonte do Norte|-11.24.48|57.21.07
+MT|Novo Mundo|-09.57.01|55.11.54
+MT|Novo São Joaquim|-14.54.21|53.01.06
+MT|Paranaíta|-09.39.53|56.28.36
+MT|Paranatinga|-14.25.54|54.03.04
+MT|Pedra Preta|-16.37.23|54.28.26
+MT|Peixoto de Azevedo|-10.13.23|54.58.47
+MT|Planalto da Serra|-10.26.21|55.16.36
+MT|Poconé|-16.15.24|56.37.22
+MT|Pontal do Araguaia|-15.50.43|52.00.33
+MT|Ponte Branca|-16.45.51|52.50.00
+MT|Pontes e Lacerda|-15.13.34|59.20.07
+MT|Porto Alegre do Norte|-10.52.37|51.37.57
+MT|Porto dos Gaúchos|-11.32.07|57.24.52
+MT|Porto Esperidião|-15.51.10|58.27.37
+MT|Porto Estrela|-15.19.28|57.13.39
+MT|Poxoréo|-15.50.14|54.23.21
+MT|Primavera do Leste|-15.33.32|54.17.46
+MT|Querência|-12.35.49|52.11.59
+MT|Reserva do Cabaçal|-15.04.47|58.27.59
+MT|Ribeirão Cascalheira|-12.56.30|51.49.27
+MT|Ribeirãozinho|-16.29.07|52.41.32
+MT|Rio Branco|-15.14.27|58.06.56
+MT|Rondonópolis|-16.28.15|54.38.08
+MT|Rosário Oeste|-14.50.10|56.25.39
+MT|Salto do Céu|-15.07.47|58.07.36
+MT|Santa Carmem|-11.54.46|55.13.34
+MT|Santa Terezinha|-10.28.11|50.30.11
+MT|Santo Afonso|-14.29.51|57.00.07
+MT|Santo Antônio do Leverger|-15.51.56|56.04.36
+MT|São Félix do Araguaia|-11.37.02|50.40.10
+MT|São José do Povo|-16.27.54|54.15.17
+MT|São José do Rio Claro|-13.26.48|56.43.17
+MT|São José do Xingu|-10.48.16|52.44.39
+MT|São José dos Quatro Marcos|-15.37.17|58.10.35
+MT|São Pedro da Cipa|-16.00.02|54.55.17
+MT|Sapezal|-12.59.22|58.45.51
+MT|Sinop|-11.51.51|55.30.09
+MT|Sorriso|-12.32.43|55.42.41
+MT|Tabaporã|-11.13.40|56.48.50
+MT|Tangará da Serra|-14.37.10|57.29.09
+MT|Tapurah|-12.47.06|56.32.30
+MT|Terra Nova do Norte|-10.31.01|55.13.51
+MT|Tesouro|-16.04.45|53.33.09
+MT|Torixoreu|-16.11.58|52.33.20
+MT|União do Sul|-11.31.59|54.21.12
+MT|Várzea Grande|-15.38.48|56.07.57
+MT|Vera|-12.18.21|55.19.01
+MT|Vila Bela da Santíssima Trindade|-15.00.29|59.57.02
+MT|Vila Rica|-10.00.42|51.06.59
+PA|Abaetetuba|-01.43.05|48.52.57
+PA|Abel Figueiredo|-04.57.13|48.23.36
+PA|Acará|-01.57.39|48.11.48
+PA|Afuá|-00.09.24|50.23.12
+PA|Água Azul do Norte|-06.47.28|50.28.01
+PA|Alenquer|-01.56.30|54.44.18
+PA|Almeirim|-01.31.24|52.34.54
+PA|Altamira|-03.12.12|52.12.23
+PA|Anajás|-00.59.12|49.56.24
+PA|Ananindeua|-01.21.56|48.22.20
+PA|Anapu|-03.28.20|51.11.52
+PA|Augusto Corrêa|-01.01.18|46.38.06
+PA|Aurora do Pará|-02.08.02|47.33.32
+PA|Aveiro|-03.36.20|55.19.54
+PA|Bagre|-01.53.59|50.09.52
+PA|Baião|-02.47.26|49.40.18
+PA|Bannach|-07.20.53|50.23.45
+PA|Barcarena|-01.30.21|48.37.33
+PA|Belterra|-02.38.11|54.56.14
+PA|Benevides|-01.21.41|48.14.41
+PA|Bom Jesus do Tocantins|-05.03.05|48.36.32
+PA|Bonito|-01.21.45|47.18.21
+PA|Bragança|-01.03.13|46.45.56
+PA|Brasil Novo|-03.18.17|53.32.08
+PA|Brejo Grande do Araguaia|-05.41.56|48.24.47
+PA|Breu Branco|-04.04.04|49.38.13
+PA|Breves|-01.40.56|50.28.49
+PA|Bujaru|-01.30.54|48.02.41
+PA|Cachoeira do Arari|-01.00.41|48.57.48
+PA|Cachoeira do Piriá|-01.45.35|46.32.42
+PA|Cametá|-02.14.40|49.29.45
+PA|Canaã dos Carajás|-06.29.49|49.52.42
+PA|Capanema|-01.11.45|47.10.51
+PA|Capitão Poço|-01.44.47|47.03.34
+PA|Castanhal|-01.17.38|47.55.35
+PA|Chaves|-00.09.36|49.59.18
+PA|Colares|-00.56.12|48.16.54
+PA|Conceição do Araguaia|-08.15.28|49.15.53
+PA|Concórdia do Pará|-02.00.06|47.56.59
+PA|Cumaru do Norte|-07.49.30|50.46.22
+PA|Curionópolis|-06.06.06|49.35.53
+PA|Curralinho|-01.48.49|49.47.43
+PA|Curuá|-01.53.17|55.07.00
+PA|Curuçá|-00.43.44|47.50.53
+PA|Dom Eliseu|-04.17.06|47.30.18
+PA|Eldorado dos Carajás|-06.06.15|49.21.19
+PA|Faro|-02.10.17|56.44.42
+PA|Floresta do Araguaia|-07.33.13|49.42.45
+PA|Garrafão do Norte|-01.56.03|47.03.09
+PA|Goianésia do Pará|-03.50.33|49.05.49
+PA|Gurupá|-01.24.18|51.38.24
+PA|Igarapé-Açu|-01.07.44|47.37.12
+PA|Igarapé-Miri|-01.58.30|48.57.35
+PA|Inhangapi|-01.25.47|47.55.11
+PA|Ipixuna do Pará|-02.33.28|47.29.42
+PA|Irituia|-01.46.16|47.26.17
+PA|Itaituba|-04.16.34|55.59.01
+PA|Itupiranga|-05.08.05|49.19.36
+PA|Jacareacanga|-06.13.20|57.45.10
+PA|Jacundá|-04.27.03|49.06.59
+PA|Juruti|-02.09.08|56.05.32
+PA|Limoeiro do Ajuru|-01.53.43|49.22.50
+PA|Mãe do Rio|-02.02.47|47.33.02
+PA|Magalhães Barata|-00.47.38|47.35.55
+PA|Marabá|-05.22.07|49.07.04
+PA|Maracanã|-00.35.42|47.34.55
+PA|Marapanim|-00.43.03|47.41.59
+PA|Marituba|-01.21.19|48.20.31
+PA|Medicilândia|-03.26.46|52.53.20
+PA|Melgaço|-01.48.16|50.42.44
+PA|Mocajuba|-02.35.03|49.30.26
+PA|Moju|-01.53.02|48.46.08
+PA|Monte Alegre|-02.00.28|54.04.09
+PA|Muaná|-01.31.42|49.13.00
+PA|Nova Esperança do Piriá|-02.16.04|46.58.03
+PA|Nova Ipixuna|-04.55.16|49.04.37
+PA|Nova Timboteua|-01.12.28|47.23.33
+PA|Novo Progresso|-07.08.52|55.22.52
+PA|Novo Repartimento|-04.19.50|49.47.47
+PA|Óbidos|-01.55.03|55.31.05
+PA|Oeiras do Pará|-02.00.11|49.51.16
+PA|Oriximiná|-01.45.56|55.51.58
+PA|Ourém|-01.33.07|47.06.52
+PA|Ourilândia do Norte|-06.45.17|51.05.02
+PA|Pacajá|-03.50.16|50.38.15
+PA|Palestina do Pará|-05.44.30|48.19.01
+PA|Paragominas|-02.59.45|47.21.10
+PA|Parauapebas|-06.04.03|49.54.08
+PA|Pau d'Arco|-07.49.59|50.02.40
+PA|Peixe-Boi|-01.11.31|47.18.44
+PA|Piçarra|-06.26.17|48.52.18
+PA|Placas|-03.52.04|54.13.12
+PA|Ponta de Pedras|-01.23.25|48.52.16
+PA|Portel|-01.56.08|50.49.16
+PA|Porto de Moz|-01.44.54|52.14.18
+PA|Prainha|-01.48.00|53.28.48
+PA|Primavera|-00.56.25|47.06.59
+PA|Quatipuru|-00.53.49|47.00.19
+PA|Redenção|-08.01.43|50.01.53
+PA|Rio Maria|-07.18.38|50.02.54
+PA|Rondon do Pará|-04.46.34|48.04.02
+PA|Rurópolis|-04.05.44|54.54.37
+PA|Salinópolis|-00.36.49|47.21.22
+PA|Salvaterra|-00.45.12|48.31.00
+PA|Santa Bárbara do Pará|-01.13.25|48.17.40
+PA|Santa Cruz do Arari|-00.39.48|49.10.30
+PA|Santa Isabel do Pará|-01.17.55|48.09.38
+PA|Santa Luzia do Pará|-01.31.25|46.53.51
+PA|Santa Maria das Barreiras|-08.52.18|49.42.46
+PA|Santa Maria do Pará|-01.21.01|47.34.32
+PA|Santana do Araguaia|-09.17.50|50.06.07
+PA|Santarém|-02.26.35|54.42.30
+PA|Santarém Novo|-00.55.44|47.23.49
+PA|Santo Antônio do Tauá|-01.09.07|48.07.46
+PA|São Caetano de Odivelas|-00.45.00|48.01.12
+PA|São Domingos do Araguaia|-05.32.16|48.44.00
+PA|São Domingos do Capim|-01.40.27|47.46.16
+PA|São Félix do Xingu|-06.38.41|51.59.42
+PA|São Francisco do Pará|-01.10.10|47.47.43
+PA|São Geraldo do Araguaia|-06.24.02|48.33.18
+PA|São João da Ponta|-00.50.59|47.55.12
+PA|São João de Pirabas|-00.46.29|47.10.38
+PA|São João do Araguaia|-05.21.30|48.47.29
+PA|São Miguel do Guamá|-01.37.36|47.29.00
+PA|São Sebastião da Boa Vista|-01.43.03|49.32.27
+PA|Sapucaia|-06.56.50|49.40.56
+PA|Senador José Porfírio|-02.35.27|51.57.15
+PA|Soure|-00.43.00|48.31.24
+PA|Tailândia|-02.56.50|48.57.11
+PA|Terra Alta|-01.02.28|47.54.27
+PA|Terra Santa|-02.06.15|56.29.13
+PA|Tomé-Açu|-02.25.08|48.09.08
+PA|Tracuateua|-01.04.34|46.54.11
+PA|Trairão|-04.34.28|55.56.37
+PA|Tucumã|-06.44.51|51.09.40
+PA|Tucuruí|-03.45.58|49.40.21
+PA|Ulianópolis|-03.44.31|47.29.41
+PA|Uruará|-03.43.03|53.44.12
+PA|Vigia|-00.51.30|48.08.30
+PA|Viseu|-01.11.48|46.08.24
+PA|Vitória do Xingu|-02.52.48|52.00.36
+PA|Xinguara|-07.05.42|49.56.45
+PB|Água Branca|-07.30.43|37.38.26
+PB|Aguiar|-07.05.31|38.10.14
+PB|Alagoa Grande|-07.09.30|35.37.48
+PB|Alagoa Nova|-07.04.15|35.45.30
+PB|Alagoinha|-06.57.00|35.32.42
+PB|Alcantil|-07.44.38|36.03.22
+PB|Algodão de Jandaíra|-06.54.19|36.00.25
+PB|Alhandra|-07.26.19|34.54.52
+PB|Amparo|-07.34.05|37.03.49
+PB|Aparecida|-06.47.04|38.05.12
+PB|Araçagi|-06.51.11|35.22.52
+PB|Arara|-06.49.42|35.45.30
+PB|Araruna|-06.33.30|35.44.30
+PB|Areia|-06.57.48|35.41.30
+PB|Areia de Baraúnas|-07.07.22|36.56.28
+PB|Areial|-07.03.41|35.55.33
+PB|Aroeiras|-07.32.43|35.42.27
+PB|Assunção|-07.04.28|36.43.52
+PB|Baía da Traição|-06.41.18|34.56.09
+PB|Bananeiras|-06.45.00|35.38.00
+PB|Baraúna|-06.38.34|36.15.13
+PB|Barra de Santa Rosa|-06.43.11|36.03.38
+PB|Barra de Santana|-07.31.13|35.59.59
+PB|Barra de São Miguel|-07.45.04|36.19.05
+PB|Bayeux|-07.07.30|34.55.56
+PB|Belém|-06.41.30|35.32.00
+PB|Belém do Brejo do Cruz|-06.11.19|37.32.09
+PB|Bernardino Batista|-06.27.07|38.33.03
+PB|Boa Ventura|-07.24.50|38.12.58
+PB|Boa Vista|-07.15.34|36.14.24
+PB|Bom Jesus|-06.48.57|38.39.22
+PB|Bom Sucesso|-06.26.42|37.55.46
+PB|Bonito de Santa Fé|-07.18.48|38.30.54
+PB|Boqueirão|-07.28.54|36.08.06
+PB|Borborema|-06.48.12|35.34.48
+PB|Brejo do Cruz|-06.20.55|37.29.54
+PB|Brejo dos Santos|-06.22.36|37.49.29
+PB|Caaporã|-07.30.56|34.54.30
+PB|Cabaceiras|-07.29.20|36.17.14
+PB|Cabedelo|-06.58.52|34.50.02
+PB|Cachoeira dos µndios|-06.55.37|38.40.27
+PB|Cacimba de Areia|-07.07.46|37.09.26
+PB|Cacimba de Dentro|-06.38.30|35.47.24
+PB|Cacimbas|-07.12.40|37.03.27
+PB|Caiçara|-06.36.54|35.28.07
+PB|Cajazeiras|-06.53.25|38.33.19
+PB|Cajazeirinhas|-06.57.40|37.48.22
+PB|Caldas Brandão|-07.06.09|35.19.35
+PB|Camalaú|-07.53.20|36.49.24
+PB|Campina Grande|-07.13.50|35.52.52
+PB|Capim|-06.54.58|35.10.18
+PB|Caraúbas|-07.43.36|36.29.32
+PB|Carrapateira|-07.02.20|38.20.37
+PB|Casserengue|-06.45.04|35.43.05
+PB|Catingueira|-07.07.32|37.36.32
+PB|Catolé do Rocha|-06.20.38|37.44.48
+PB|Caturité|-07.25.13|36.01.38
+PB|Conceição|-07.33.44|38.30.32
+PB|Condado|-06.54.35|37.36.03
+PB|Conde|-07.15.35|34.54.27
+PB|Congo|-07.47.49|36.39.35
+PB|Coremas|-07.00.52|37.56.45
+PB|Coxixola|-07.37.36|36.36.21
+PB|Cruz do Espírito Santo|-07.08.24|35.05.11
+PB|Cubati|-06.52.06|36.22.31
+PB|Cuité|-06.29.01|36.09.13
+PB|Cuité de Mamanguape|-06.54.53|35.15.07
+PB|Cuitegi|-06.53.36|35.31.24
+PB|Curral de Cima|-06.43.01|35.16.10
+PB|Curral Velho|-07.34.52|38.11.54
+PB|Damião|-06.36.10|35.56.12
+PB|Desterro|-07.17.26|37.05.38
+PB|Diamante|-07.25.40|38.15.51
+PB|Dona Inês|-06.36.12|35.17.30
+PB|Duas Estradas|-06.41.06|35.25.06
+PB|Emas|-07.06.28|37.42.56
+PB|Esperança|-07.01.59|35.51.26
+PB|Fagundes|-07.21.18|35.46.30
+PB|Frei Martinho|-06.24.11|36.27.20
+PB|Gado Bravo|-07.35.00|35.47.27
+PB|Guarabira|-06.51.17|35.29.24
+PB|Gurinhém|-07.07.26|35.25.28
+PB|Gurjão|-07.14.48|36.29.22
+PB|Ibiara|-07.30.05|38.24.17
+PB|Igaracy|-07.10.50|38.08.55
+PB|Imaculada|-07.23.23|37.30.33
+PB|Ingá|-07.16.51|35.36.16
+PB|Itabaiana|-07.19.43|35.19.57
+PB|Itaporanga|-07.18.16|38.09.01
+PB|Itapororoca|-06.49.47|35.14.50
+PB|Itatuba|-07.22.30|35.37.42
+PB|Jacaraú|-06.36.44|35.17.34
+PB|Jericó|-06.33.13|37.48.31
+PB|Juarez Távora|-07.10.18|35.35.00
+PB|Juazeirinho|-07.04.06|36.34.40
+PB|Junco do Seridó|-06.59.48|36.42.47
+PB|Juripiranga|-07.22.24|35.14.17
+PB|Juru|-07.32.13|37.49.07
+PB|Lagoa|-06.34.14|37.54.57
+PB|Lagoa de Dentro|-06.40.24|35.22.44
+PB|Lagoa Seca|-07.10.15|35.51.13
+PB|Lastro|-06.30.56|38.10.49
+PB|Livramento|-07.22.27|36.56.47
+PB|Logradouro|-06.36.60|35.24.08
+PB|Lucena|-06.54.01|34.52.08
+PB|Mãe d'Água|-07.15.31|37.25.37
+PB|Malta|-06.54.16|37.31.19
+PB|Mamanguape|-06.50.19|35.07.34
+PB|Manaíra|-07.42.22|38.09.16
+PB|Marcação|-06.46.12|35.00.53
+PB|Mari|-07.03.36|35.19.10
+PB|Marizópolis|-06.50.30|38.20.50
+PB|Massaranduba|-07.12.01|35.47.21
+PB|Mataraca|-06.36.05|35.03.04
+PB|Matinhas|-07.07.30|35.46.00
+PB|Mato Grosso|-06.32.02|37.43.30
+PB|Maturéia|-07.16.01|37.21.05
+PB|Mogeiro|-07.17.58|35.28.46
+PB|Montadas|-07.08.26|35.54.46
+PB|Monte Horebe|-07.12.54|38.35.11
+PB|Monteiro|-07.53.22|37.07.12
+PB|Mulungu|-07.01.28|35.27.43
+PB|Natuba|-07.38.29|35.33.00
+PB|Nazarezinho|-06.54.57|38.19.29
+PB|Nova Floresta|-06.27.19|36.12.12
+PB|Nova Olinda|-07.28.47|38.02.32
+PB|Nova Palmeira|-06.40.39|36.25.14
+PB|Olho d'Água|-07.13.40|37.45.02
+PB|Olivedos|-06.59.26|36.14.39
+PB|Ouro Velho|-07.37.24|37.08.58
+PB|Parari|-07.19.14|36.39.20
+PB|Passagem|-07.08.15|37.02.58
+PB|Patos|-07.01.28|37.16.48
+PB|Paulista|-06.35.38|37.37.27
+PB|Pedra Branca|-07.25.38|38.04.03
+PB|Pedra Lavrada|-06.45.28|36.28.15
+PB|Pedras de Fogo|-07.24.07|35.06.59
+PB|Pedro Régio|-06.38.00|35.17.50
+PB|Piancó|-07.11.53|37.55.45
+PB|Picuí|-06.30.38|36.20.49
+PB|Pilar|-07.16.02|35.15.36
+PB|Pilões|-06.42.00|35.36.54
+PB|Pilõezinhos|-06.51.24|35.31.24
+PB|Pirpirituba|-06.46.48|35.29.55
+PB|Pitimbu|-07.28.14|34.48.31
+PB|Pocinhos|-07.04.36|36.03.40
+PB|Poço Dantas|-06.24.14|38.28.09
+PB|Poço de José de Moura|-06.34.30|38.30.43
+PB|Pombal|-06.46.13|37.48.06
+PB|Prata|-07.41.27|37.04.49
+PB|Princesa Isabel|-07.44.12|37.59.36
+PB|Puxinanã|-07.09.40|35.57.38
+PB|Queimadas|-07.21.30|35.53.54
+PB|Quixaba|-07.01.53|37.08.55
+PB|Remígio|-07.49.15|38.09.10
+PB|Riachão|-06.32.36|35.37.44
+PB|Riachão do Bacamarte|-07.14.53|35.39.46
+PB|Riachão do Poço|-07.09.08|35.15.50
+PB|Riacho de Santo Antônio|-07.41.34|36.09.25
+PB|Riacho dos Cavalos|-06.26.16|37.39.04
+PB|Rio Tinto|-06.48.11|35.04.50
+PB|Salgadinho|-07.06.10|36.50.43
+PB|Salgado de São Félix|-07.21.25|35.26.26
+PB|Santa Cecília|-07.44.22|35.52.46
+PB|Santa Cruz|-06.31.59|38.03.43
+PB|Santa Helena|-06.43.13|38.38.17
+PB|Santa Inês|-07.37.14|38.33.13
+PB|Santa Luzia|-06.52.20|36.55.07
+PB|Santa Rita|-07.06.50|34.58.41
+PB|Santa Teresinha|-07.02.20|37.26.43
+PB|Santana de Mangueira|-07.33.18|38.19.56
+PB|Santana dos Garrotes|-07.23.02|37.59.09
+PB|Santarém|-06.29.23|38.28.32
+PB|Santo André|-07.13.06|36.37.59
+PB|São Bento|-06.29.10|37.27.02
+PB|São Bento de Pombal|-06.54.04|37.43.45
+PB|São Domingos de Pombal|-06.48.52|37.56.30
+PB|São Domingos do Cariri|-07.38.10|36.25.58
+PB|São Francisco|-06.37.08|38.05.40
+PB|São João do Cariri|-07.23.27|36.31.58
+PB|São João do Rio do Peixe|-06.43.45|38.26.56
+PB|São João do Tigre|-08.04.45|36.50.52
+PB|São José da Lagoa Tapada|-06.56.26|38.09.44
+PB|São José de Caiana|-07.14.55|38.18.03
+PB|São José de Espinharas|-06.50.50|37.19.33
+PB|São José de Piranhas|-07.07.14|38.30.07
+PB|São José de Princesa|-07.44.18|38.05.39
+PB|São José do Bonfim|-07.09.45|37.18.32
+PB|São José do Brejo do Cruz|-06.12.46|37.21.08
+PB|São José do Sabugi|-06.46.32|36.47.56
+PB|São José dos Cordeiros|-07.23.27|36.48.28
+PB|São José dos Ramos|-07.15.04|35.23.03
+PB|São Mamede|-06.55.36|37.05.44
+PB|São Miguel de Taipu|-07.14.59|35.12.35
+PB|São Sebastião de Lagoa de Roça|-07.06.54|35.51.56
+PB|São Sebastião do Umbuzeiro|-08.09.08|37.00.37
+PB|Sapé|-07.05.47|35.13.58
+PB|Seridó|-06.56.03|36.24.08
+PB|Serra Branca|-07.29.00|36.39.54
+PB|Serra da Raiz|-06.41.12|35.26.38
+PB|Serra Grande|-07.12.55|38.22.11
+PB|Serra Redonda|-07.10.42|35.40.30
+PB|Serraria|-06.50.00|35.37.30
+PB|Sertãozinho|-06.45.05|35.26.32
+PB|Sobrado|-07.08.43|35.14.11
+PB|Solânea|-06.45.18|35.32.24
+PB|Soledade|-07.03.26|36.21.46
+PB|Sossêgo|-06.46.10|36.15.12
+PB|Sousa|-06.45.33|38.13.41
+PB|Sumé|-07.40.18|36.52.48
+PB|Tacima|-06.29.18|35.38.14
+PB|Taperoá|-07.12.27|36.49.36
+PB|Tavares|-07.38.09|37.52.42
+PB|Teixeira|-07.13.22|37.15.15
+PB|Tenório|-06.56.31|36.37.46
+PB|Triunfo|-06.34.43|38.35.49
+PB|Uiraúna|-06.31.06|38.24.44
+PB|Umbuzeiro|-07.41.44|35.39.49
+PB|Várzea|-06.46.19|36.59.31
+PB|Vieirópolis|-06.32.39|38.16.40
+PB|Vista Serrana|-06.44.18|37.34.00
+PB|Zabelê|-08.04.32|37.05.54
+PE|Abreu e Lima|-07.54.42|34.54.10
+PE|Afogados da Ingazeira|-07.45.03|37.38.21
+PE|Afrânio|-08.30.54|41.00.18
+PE|Agrestina|-08.27.29|35.56.41
+PE|Água Preta|-08.42.27|35.31.50
+PE|Águas Belas|-09.06.41|37.07.23
+PE|Alagoinha|-08.27.59|36.46.33
+PE|Aliança|-07.36.12|35.13.51
+PE|Altinho|-08.29.23|36.03.34
+PE|Amaraji|-08.22.59|35.27.09
+PE|Angelim|-08.53.25|36.17.09
+PE|Araçoiaba|-07.47.25|35.05.27
+PE|Araripina|-07.34.34|40.29.54
+PE|Arcoverde|-08.25.08|37.03.14
+PE|Barra de Guabiraba|-08.25.12|35.39.29
+PE|Barreiros|-08.49.06|35.11.11
+PE|Belém de Maria|-08.37.32|35.49.48
+PE|Belém de São Francisco|-08.45.14|38.57.57
+PE|Belo Jardim|-08.20.08|36.25.27
+PE|Betânia|-08.16.29|38.02.03
+PE|Bezerros|-08.14.00|35.47.49
+PE|Bodocó|-07.46.42|39.56.28
+PE|Bom Conselho|-09.10.11|36.40.47
+PE|Bom Jardim|-07.47.45|35.35.14
+PE|Bonito|-08.28.13|35.43.43
+PE|Brejão|-09.01.49|36.34.07
+PE|Brejinho|-07.20.58|37.17.10
+PE|Brejo da Madre de Deus|-08.08.45|36.22.16
+PE|Buenos Aires|-07.43.32|35.19.38
+PE|Buíque|-08.37.23|37.09.21
+PE|Cabo de Santo Agostinho|-08.17.12|35.02.06
+PE|Cabrobó|-08.30.51|39.18.36
+PE|Cachoeirinha|-08.29.11|36.13.59
+PE|Caetés|-08.46.23|36.37.21
+PE|Calçado|-08.44.32|36.20.02
+PE|Calumbi|-07.56.29|38.09.00
+PE|Camaragibe|-08.01.18|34.58.52
+PE|Camocim de São Félix|-08.21.31|35.45.43
+PE|Camutanga|-07.24.25|35.16.28
+PE|Canhotinho|-08.52.56|36.11.28
+PE|Capoeiras|-08.44.05|36.37.36
+PE|Carnaíba|-07.48.19|37.47.38
+PE|Carnaubeira da Penha|-08.19.09|38.44.41
+PE|Carpina|-07.51.03|35.15.17
+PE|Caruaru|-08.17.00|35.58.34
+PE|Casinhas|-07.44.28|35.43.16
+PE|Catende|-08.40.00|35.43.00
+PE|Cedro|-07.43.18|39.14.20
+PE|Chã de Alegria|-08.00.04|35.12.46
+PE|Chã Grande|-08.14.18|35.27.42
+PE|Condado|-07.35.09|35.06.21
+PE|Correntes|-09.07.44|36.19.49
+PE|Cortês|-08.28.13|35.32.28
+PE|Cumaru|-08.00.22|35.41.50
+PE|Cupira|-08.37.00|35.57.00
+PE|Custódia|-08.05.15|37.38.35
+PE|Dormentes|-08.26.50|40.46.16
+PE|Escada|-08.21.33|35.13.25
+PE|Exu|-07.30.43|39.43.27
+PE|Feira Nova|-07.57.03|35.23.21
+PE|Fernando de Noronha (Distrito Estadual)|-03.50.25|32.24.39
+PE|Ferreiros|-07.26.51|35.14.39
+PE|Flores|-07.52.05|37.58.29
+PE|Floresta|-08.36.04|38.34.07
+PE|Frei Miguelinho|-07.56.23|35.54.44
+PE|Gameleira|-08.35.04|35.23.12
+PE|Garanhuns|-08.53.25|36.29.34
+PE|Glória do Goitá|-08.00.06|35.17.34
+PE|Goiana|-07.33.38|35.00.09
+PE|Granito|-07.42.58|39.36.53
+PE|Gravatá|-08.12.04|35.33.53
+PE|Iati|-09.02.45|36.50.46
+PE|Ibimirim|-08.32.26|37.41.25
+PE|Ibirajuba|-08.34.50|36.10.46
+PE|Igarassu|-07.50.03|34.54.23
+PE|Iguaraci|-07.50.07|37.30.55
+PE|Inajá|-08.54.06|37.49.26
+PE|Ingazeira|-07.40.34|37.27.35
+PE|Ipojuca|-08.23.56|35.03.50
+PE|Ipubi|-07.39.07|40.08.56
+PE|Itacuruba|-08.43.38|38.41.00
+PE|Itaíba|-08.56.51|37.25.22
+PE|Itamaracá|-07.44.52|34.49.32
+PE|Itambé|-07.24.37|35.06.46
+PE|Itapetim|-07.22.42|37.11.25
+PE|Itapissuma|-07.46.35|34.53.32
+PE|Itaquitinga|-07.40.04|35.06.06
+PE|Jaboatão dos Guararapes|-08.06.46|35.00.53
+PE|Jaqueira|-08.43.36|35.47.36
+PE|Jataúba|-07.59.24|36.29.47
+PE|Jatobá|-09.10.59|38.16.08
+PE|João Alfredo|-07.51.21|35.35.18
+PE|Joaquim Nabuco|-08.37.28|35.32.00
+PE|Jucati|-08.42.23|36.29.20
+PE|Jupi|-08.42.42|36.24.54
+PE|Jurema|-08.43.05|36.08.09
+PE|Lagoa do Carro|-07.50.41|35.19.11
+PE|Lagoa do Itaenga|-07.56.10|35.17.25
+PE|Lagoa do Ouro|-09.07.39|36.27.30
+PE|Lagoa dos Gatos|-08.39.30|35.54.00
+PE|Lagoa Grande|-08.59.49|40.16.19
+PE|Lajedo|-08.39.49|36.19.12
+PE|Limoeiro|-07.52.29|35.27.01
+PE|Macaparana|-07.33.17|35.27.11
+PE|Machados|-07.40.56|35.31.22
+PE|Manari|-08.57.50|37.37.42
+PE|Maraial|-08.46.57|35.48.32
+PE|Mirandiba|-08.07.13|38.43.46
+PE|Moreilândia|-07.37.51|39.33.04
+PE|Moreno|-08.07.07|35.05.32
+PE|Nazaré da Mata|-07.44.30|35.13.40
+PE|Olinda|-08.00.32|34.51.19
+PE|Orobó|-07.44.42|35.36.08
+PE|Orocó|-08.33.12|39.27.48
+PE|Ouricuri|-07.52.57|40.04.54
+PE|Palmares|-08.41.00|35.35.30
+PE|Palmeirina|-09.00.16|36.19.33
+PE|Panelas|-08.39.49|36.00.21
+PE|Paranatama|-08.55.15|36.39.29
+PE|Parnamirim|-08.05.26|39.34.42
+PE|Passira|-07.59.42|35.34.50
+PE|Paudalho|-07.53.48|35.10.47
+PE|Paulista|-07.56.27|34.52.23
+PE|Pedra|-08.29.49|36.56.27
+PE|Pesqueira|-08.21.28|36.41.47
+PE|Petrolândia|-08.58.45|38.13.10
+PE|Petrolina|-09.23.55|40.30.03
+PE|Poção|-08.11.11|36.42.18
+PE|Pombos|-08.08.29|35.23.45
+PE|Primavera|-08.19.53|35.21.15
+PE|Quipapá|-08.49.40|36.00.42
+PE|Quixabá|-07.43.13|37.50.54
+PE|Riacho das Almas|-08.08.02|35.51.23
+PE|Ribeirão|-08.30.52|35.22.40
+PE|Rio Formoso|-08.39.49|35.09.31
+PE|Sairé|-08.19.39|35.42.20
+PE|Salgadinho|-07.56.11|35.37.58
+PE|Salgueiro|-08.04.27|39.07.09
+PE|Saloá|-08.58.33|36.41.15
+PE|Sanharó|-08.21.38|36.33.56
+PE|Santa Cruz|-08.14.24|40.20.05
+PE|Santa Cruz da Baixa Verde|-07.49.14|38.09.10
+PE|Santa Cruz do Capibaribe|-07.57.27|36.12.17
+PE|Santa Filomena|-08.09.45|40.36.56
+PE|Santa Maria da Boa Vista|-08.48.28|39.49.32
+PE|Santa Maria do Cambucá|-07.49.45|35.52.50
+PE|Santa Terezinha|-07.22.40|37.28.48
+PE|São Benedito do Sul|-08.48.30|35.57.06
+PE|São Bento do Una|-08.31.22|36.26.40
+PE|São Caitano|-08.19.33|36.08.34
+PE|São João|-08.52.32|36.22.00
+PE|São Joaquim do Monte|-08.25.57|35.48.16
+PE|São José da Coroa Grande|-08.53.52|35.08.52
+PE|São José do Belmonte|-07.51.41|38.45.35
+PE|São José do Egito|-07.28.44|37.16.28
+PE|São Lourenço da Mata|-08.00.08|35.01.06
+PE|São Vicente Ferrer|-07.35.28|35.29.29
+PE|Serra Talhada|-07.59.31|38.17.54
+PE|Serrita|-07.56.00|39.17.45
+PE|Sertânia|-08.04.25|37.15.52
+PE|Sirinhaém|-08.35.27|35.06.58
+PE|Solidão|-07.36.01|37.39.07
+PE|Surubim|-07.49.59|35.45.17
+PE|Tabira|-07.35.27|37.32.22
+PE|Tacaimbó|-08.18.58|36.17.36
+PE|Tacaratu|-09.06.19|38.08.57
+PE|Tamandaré|-08.45.35|35.06.17
+PE|Taquaritinga do Norte|-07.54.11|36.02.39
+PE|Terezinha|-09.03.22|36.37.22
+PE|Terra Nova|-08.13.47|39.22.32
+PE|Timbaúba|-07.30.19|35.19.06
+PE|Toritama|-08.00.24|36.03.24
+PE|Tracunhaém|-07.48.17|35.14.24
+PE|Trindade|-07.45.43|40.16.04
+PE|Triunfo|-07.50.17|38.06.06
+PE|Tupanatinga|-08.45.12|37.20.23
+PE|Tuparetama|-07.36.08|37.18.41
+PE|Venturosa|-08.34.29|36.52.27
+PE|Verdejante|-07.55.32|38.58.18
+PE|Vertente do Lério|-07.46.17|35.51.00
+PE|Vertentes|-07.54.10|35.59.18
+PE|Vicência|-07.39.25|35.19.36
+PE|Vitória de Santo Antão|-08.07.05|35.17.29
+PE|Xexéu|-08.48.08|35.37.37
+PI|Acauã|-08.12.54|41.04.54
+PI|Agricolândia|-05.47.56|42.40.08
+PI|Água Branca|-05.53.32|42.38.10
+PI|Alagoinha do Piauí|-07.00.27|40.56.20
+PI|Alegrete do Piauí|-07.14.34|40.51.27
+PI|Alto Longá|-05.15.04|42.12.37
+PI|Altos|-05.02.17|42.27.36
+PI|Alvorada do Gurguéia|-08.25.28|43.46.38
+PI|Amarante|-06.14.28|42.51.17
+PI|Angical do Piauí|-06.05.08|42.44.21
+PI|Anísio de Abreu|-09.11.22|43.02.45
+PI|Antônio Almeida|-07.13.09|44.11.51
+PI|Aroazes|-06.07.08|41.47.35
+PI|Arraial|-06.39.17|42.31.54
+PI|Assunção do Piauí|-05.51.56|41.02.22
+PI|Avelino Lopes|-10.08.12|43.56.55
+PI|Baixa Grande do Ribeiro|-07.51.01|45.12.49
+PI|Barra d'Alcântara|-06.31.00|42.06.52
+PI|Barras|-04.14.40|42.17.40
+PI|Barreiras do Piauí|-09.55.31|45.28.30
+PI|Barro Duro|-05.49.01|42.30.47
+PI|Batalha|-04.01.30|42.04.30
+PI|Bela Vista do Piauí|-07.59.20|41.52.06
+PI|Belém do Piauí|-07.22.34|40.58.18
+PI|Beneditinos|-05.27.21|42.21.37
+PI|Bertolínia|-07.38.28|43.57.05
+PI|Betânia do Piauí|-08.08.54|40.47.44
+PI|Boa Hora|-04.24.40|42.05.10
+PI|Bocaina|-06.56.33|41.19.21
+PI|Bom Jesus|-09.04.28|44.21.31
+PI|Bom Princípio do Piauí|-03.11.27|41.38.39
+PI|Bonfim do Piauí|-09.09.57|42.52.27
+PI|Boqueirão do Piauí|-04.29.12|42.04.26
+PI|Brasileira|-04.07.54|41.46.52
+PI|Brejo do Piauí|-08.12.50|42.49.32
+PI|Buriti dos Lopes|-03.10.30|41.52.01
+PI|Buriti dos Montes|-05.18.43|41.05.50
+PI|Cabeceiras do Piauí|-04.28.35|42.18.33
+PI|Cajazeiras do Piauí|-06.45.58|42.23.30
+PI|Cajueiro da Praia|-02.55.40|41.20.10
+PI|Caldeirão Grande do Piauí|-07.19.55|40.38.14
+PI|Campinas do Piauí|-07.39.37|41.52.54
+PI|Campo Alegre do Fidalgo|-08.22.32|41.50.08
+PI|Campo Grande do Piauí|-07.07.54|41.02.10
+PI|Campo Largo do Piauí|-03.48.44|42.37.43
+PI|Campo Maior|-04.49.40|42.10.07
+PI|Canavieira|-07.41.17|43.43.14
+PI|Canto do Buriti|-08.06.36|42.56.40
+PI|Capitão de Campos|-04.27.24|41.56.33
+PI|Capitão Gervásio Oliveira|-08.29.25|41.49.11
+PI|Caracol|-09.16.43|43.19.48
+PI|Caraúbas do Piauí|-03.28.33|41.50.35
+PI|Caridade do Piauí|-07.43.59|40.59.23
+PI|Castelo do Piauí|-05.19.20|41.33.09
+PI|Caxingó|-03.25.03|41.53.46
+PI|Cocal|-03.28.19|41.33.27
+PI|Cocal de Telha|-04.33.32|41.58.20
+PI|Cocal dos Alves|-03.43.43|41.26.56
+PI|Coivaras|-05.05.22|42.12.12
+PI|Colônia do Gurguéia|-08.10.55|43.47.31
+PI|Colônia do Piauí|-07.13.52|42.10.41
+PI|Conceição do Canindé|-07.52.40|41.35.49
+PI|Coronel José Dias|-08.48.59|42.30.45
+PI|Corrente|-10.26.36|45.09.44
+PI|Cristalândia do Piauí|-10.39.11|45.11.06
+PI|Cristino Castro|-08.49.04|44.13.27
+PI|Curimatá|-10.02.11|44.18.22
+PI|Currais|-09.00.25|44.24.39
+PI|Curral Novo do Piauí|-07.49.56|40.54.04
+PI|Curralinhos|-05.35.00|42.46.40
+PI|Demerval Lobão|-05.21.30|42.40.35
+PI|Dirceu Arcoverde|-09.20.17|42.25.40
+PI|Dom Expedito Lopes|-06.57.34|41.38.28
+PI|Dom Inocêncio|-09.00.08|41.58.25
+PI|Domingos Mourão|-04.15.14|41.16.13
+PI|Elesbão Veloso|-06.12.07|42.08.25
+PI|Eliseu Martins|-08.05.48|43.39.49
+PI|Esperantina|-03.54.06|42.14.01
+PI|Fartura do Piauí|-09.00.51|42.41.11
+PI|Flores do Piauí|-07.47.28|42.55.38
+PI|Floresta do Piauí|-07.28.08|41.47.38
+PI|Floriano|-06.46.01|43.01.21
+PI|Francinópolis|-06.23.45|42.15.43
+PI|Francisco Ayres|-06.37.23|42.41.34
+PI|Francisco Macedo|-07.19.50|40.47.18
+PI|Francisco Santos|-06.59.34|41.08.16
+PI|Fronteiras|-07.05.17|40.36.59
+PI|Geminiano|-07.09.28|41.21.40
+PI|Gilbués|-09.49.54|45.20.38
+PI|Guadalupe|-06.47.13|43.34.09
+PI|Guaribas|-09.23.54|43.41.12
+PI|Hugo Napoleão|-05.59.19|42.33.22
+PI|Ilha Grande|-02.51.30|41.49.17
+PI|Inhuma|-06.40.06|41.42.28
+PI|Ipiranga do Piauí|-06.49.42|41.44.26
+PI|Isaías Coelho|-07.44.16|41.40.34
+PI|Itainópolis|-07.26.49|41.28.42
+PI|Itaueira|-07.36.12|43.01.32
+PI|Jacobina do Piauí|-07.56.07|41.12.36
+PI|Jaicós|-07.21.33|41.08.16
+PI|Jardim do Mulato|-06.05.56|42.37.49
+PI|Jatobá do Piauí|-04.46.16|41.49.04
+PI|Jerumenha|-07.05.16|43.30.35
+PI|João Costa|-08.30.39|42.24.49
+PI|Joaquim Pires|-03.30.30|42.11.52
+PI|Joca Marques|-03.28.41|42.25.42
+PI|José de Freitas|-04.45.23|42.34.32
+PI|Juazeiro do Piauí|-05.10.20|41.42.12
+PI|Júlio Borges|-10.19.22|44.14.18
+PI|Jurema|-09.13.50|43.07.40
+PI|Lagoa Alegre|-04.30.56|42.37.29
+PI|Lagoa de São Francisco|-04.23.30|41.36.04
+PI|Lagoa do Barro do Piauí|-08.28.31|41.31.42
+PI|Lagoa do Piauí|-05.24.54|42.38.36
+PI|Lagoa do Sítio|-06.30.48|41.35.03
+PI|Lagoinha do Piauí|-05.49.52|42.37.24
+PI|Landri Sales|-07.15.57|43.55.49
+PI|Luís Correia|-02.52.45|41.40.01
+PI|Luzilândia|-03.27.28|42.22.13
+PI|Madeiro|-03.28.58|42.30.16
+PI|Manoel Emídio|-08.00.46|43.52.18
+PI|Marcolândia|-07.26.33|40.39.40
+PI|Marcos Parente|-07.07.14|43.53.40
+PI|Massapê do Piauí|-07.27.46|41.07.32
+PI|Matias Olímpio|-03.42.57|42.33.20
+PI|Miguel Alves|-04.09.56|42.53.43
+PI|Miguel Leão|-05.40.50|42.44.19
+PI|Milton Brandão|-04.41.04|41.25.20
+PI|Monsenhor Gil|-05.33.51|42.36.28
+PI|Monsenhor Hipólito|-06.59.47|41.01.47
+PI|Monte Alegre do Piauí|-09.45.14|45.18.14
+PI|Morro Cabeça no Tempo|-09.43.30|43.54.02
+PI|Morro do Chapéu do Piauí|-03.44.35|42.18.43
+PI|Murici dos Portelas|-03.19.08|42.05.38
+PI|Nazaré do Piauí|-06.58.24|42.40.19
+PI|Nossa Senhora de Nazaré|-04.37.50|42.10.22
+PI|Nossa Senhora dos Remédios|-03.58.46|42.37.14
+PI|Nova Santa Rita|-08.05.14|42.03.08
+PI|Novo Oriente do Piauí|-06.26.57|41.56.19
+PI|Novo Santo Antônio|-05.17.18|41.56.00
+PI|Oeiras|-07.01.31|42.07.52
+PI|Olho d'Água do Piauí|-05.50.29|42.34.30
+PI|Padre Marcos|-07.21.18|40.54.16
+PI|Paes Landim|-07.46.40|42.15.20
+PI|Pajeú do Piauí|-07.51.22|42.49.19
+PI|Palmeira do Piauí|-08.43.37|44.14.08
+PI|Palmeirais|-05.58.40|43.03.48
+PI|Paquetá|-07.06.16|41.42.14
+PI|Parnaguá|-10.13.39|44.38.21
+PI|Parnaíba|-02.54.17|41.46.36
+PI|Passagem Franca do Piauí|-05.51.30|42.26.23
+PI|Patos do Piauí|-07.40.03|41.14.37
+PI|Paulistana|-08.08.37|41.08.59
+PI|Pavussu|-07.57.57|43.13.21
+PI|Pedro II|-04.25.29|41.27.31
+PI|Pedro Laurentino|-08.04.06|42.17.06
+PI|Picos|-07.04.37|41.28.01
+PI|Pimenteiras|-06.14.43|41.25.09
+PI|Pio IX|-06.50.15|40.34.45
+PI|Piracuruca|-03.55.41|41.42.33
+PI|Piripiri|-04.16.24|41.46.37
+PI|Porto|-03.53.36|42.42.36
+PI|Porto Alegre do Piauí|-06.58.02|44.10.54
+PI|Prata do Piauí|-05.40.02|42.12.24
+PI|Queimada Nova|-08.34.46|41.25.10
+PI|Redenção do Gurguéia|-09.29.12|44.35.11
+PI|Regeneração|-06.14.16|42.41.18
+PI|Riacho Frio|-10.07.31|44.57.09
+PI|Ribeira do Piauí|-07.41.26|42.42.46
+PI|Ribeiro Gonçalves|-07.33.30|45.14.32
+PI|Rio Grande do Piauí|-07.46.31|43.08.32
+PI|Santa Cruz do Piauí|-07.11.07|41.46.03
+PI|Santa Cruz dos Milagres|-05.48.01|41.57.34
+PI|Santa Filomena|-09.06.44|45.55.20
+PI|Santa Luz|-08.57.14|44.07.46
+PI|Santa Rosa do Piauí|-06.47.57|42.17.17
+PI|Santana do Piauí|-06.56.52|41.31.07
+PI|Santo Antônio de Lisboa|-06.58.53|41.14.03
+PI|Santo Antônio dos Milagres|-06.02.49|42.42.35
+PI|Santo Inácio do Piauí|-07.25.47|41.54.39
+PI|São Braz do Piauí|-09.13.19|43.00.37
+PI|São Félix do Piauí|-05.55.57|42.06.50
+PI|São Francisco de Assis do Piauí|-08.14.16|41.41.10
+PI|São Francisco do Piauí|-07.15.05|42.32.36
+PI|São Gonçalo do Gurguéia|-10.01.49|45.18.10
+PI|São Gonçalo do Piauí|-05.59.36|42.42.10
+PI|São João da Canabrava|-06.49.00|41.20.35
+PI|São João da Fronteira|-03.57.20|41.15.27
+PI|São João da Serra|-05.30.51|41.53.57
+PI|São João da Varjota|-06.24.47|41.51.52
+PI|São João do Arraial|-03.49.08|42.26.46
+PI|São João do Piauí|-08.21.29|42.14.48
+PI|São José do Divino|-03.48.41|41.49.58
+PI|São José do Peixe|-07.29.37|42.33.49
+PI|São José do Piauí|-06.52.18|41.28.31
+PI|São Julião|-07.05.05|40.49.32
+PI|São Lourenço do Piauí|-09.10.09|42.32.41
+PI|São Luis do Piauí|-06.49.30|41.19.26
+PI|São Miguel da Baixa Grande|-05.51.52|42.11.10
+PI|São Miguel do Fidalgo|-07.35.10|42.22.12
+PI|São Miguel do Tapuio|-05.30.13|41.19.24
+PI|São Pedro do Piauí|-05.55.46|42.43.07
+PI|São Raimundo Nonato|-09.00.55|42.41.58
+PI|Sebastião Barros|-10.49.02|44.50.02
+PI|Sebastião Leal|-07.33.56|44.03.50
+PI|Sigefredo Pacheco|-04.54.50|41.44.00
+PI|Simões|-07.35.56|40.49.04
+PI|Simplício Mendes|-07.51.14|41.54.37
+PI|Socorro do Piauí|-07.51.56|42.29.29
+PI|Sussuapara|-07.02.36|41.23.02
+PI|Tamboril do Piauí|-08.24.00|42.54.49
+PI|Tanque do Piauí|-06.36.00|42.16.56
+PI|União|-04.35.09|42.51.51
+PI|Uruçuí|-07.13.46|44.33.22
+PI|Valença do Piauí|-06.24.27|41.44.44
+PI|Várzea Branca|-09.14.20|42.57.50
+PI|Várzea Grande|-06.32.41|42.14.47
+PI|Vera Mendes|-07.36.12|41.28.58
+PI|Vila Nova do Piauí|-07.08.08|40.56.24
+PI|Wall Ferraz|-07.13.58|41.54.36
+PR|Abatiá|-23.18.13|50.18.45
+PR|Adrianópolis|-24.39.26|48.59.28
+PR|Agudos do Sul|-25.59.33|49.20.07
+PR|Almirante Tamandaré|-25.19.29|49.18.36
+PR|Altamira do Paraná|-24.47.51|52.42.47
+PR|Altãnia|-23.52.28|53.54.06
+PR|Alto Paraná|-23.07.44|52.19.08
+PR|Alto Piquiri|-24.01.41|53.26.26
+PR|Alvorada do Sul|-22.46.49|51.13.52
+PR|Amaporã|-23.05.45|52.47.15
+PR|Ampére|-25.54.54|53.28.22
+PR|Anahy|-24.43.01|53.05.03
+PR|Andirá|-23.03.02|50.13.44
+PR|Ângulo|-23.11.41|51.54.55
+PR|Antonina|-25.25.43|48.42.43
+PR|Antônio Olinto|-25.59.10|50.11.50
+PR|Apucarana|-23.33.03|51.27.39
+PR|Arapongas|-23.25.10|51.25.28
+PR|Arapoti|-24.09.28|49.49.36
+PR|Arapuã|-24.18.58|51.47.13
+PR|Araruna|-23.55.54|52.29.47
+PR|Araucária|-25.35.35|49.24.37
+PR|Ariranha do Ivaí|-24.23.11|51.35.07
+PR|Assaí|-23.22.24|50.50.29
+PR|Assis Chateaubriand|-24.25.12|53.31.17
+PR|Astorga|-23.13.57|51.39.56
+PR|Atalaia|-23.09.04|52.03.16
+PR|Balsa Nova|-25.35.02|49.38.08
+PR|Bandeirantes|-23.06.36|50.22.03
+PR|Barbosa Ferraz|-24.01.48|52.00.42
+PR|Barra do Jacaré|-23.06.54|50.10.53
+PR|Barracão|-26.15.15|53.38.00
+PR|Bela Vista da Caroba|-25.52.52|53.39.53
+PR|Bela Vista do Paraíso|-22.59.48|51.11.26
+PR|Bituruna|-26.09.41|51.33.09
+PR|Boa Esperança|-24.14.32|52.47.19
+PR|Boa Esperança do Iguaçu|-25.38.09|53.12.44
+PR|Boa Ventura de São Roque|-24.52.08|51.37.39
+PR|Boa Vista da Aparecida|-25.26.08|53.24.29
+PR|Bocaiúva do Sul|-25.12.22|49.06.54
+PR|Bom Jesus do Sul|-26.11.34|53.35.49
+PR|Bom Sucesso|-23.42.35|51.45.52
+PR|Bom Sucesso do Sul|-26.04.33|52.50.03
+PR|Borrazópolis|-23.56.28|51.35.15
+PR|Braganey|-24.48.59|53.07.18
+PR|Brasilândia do Sul|-24.11.49|53.31.29
+PR|Cafeara|-22.47.33|51.42.58
+PR|Cafelândia|-24.37.04|53.19.12
+PR|Cafezal do Sul|-23.54.08|53.30.45
+PR|Califórnia|-23.39.00|51.21.18
+PR|Cambará|-23.02.47|50.04.25
+PR|Cambé|-23.16.33|51.16.42
+PR|Cambira|-23.34.58|51.34.42
+PR|Campina da Lagoa|-24.35.30|52.47.56
+PR|Campina do Simão|-25.04.46|51.49.37
+PR|Campina Grande do Sul|-25.18.20|49.03.19
+PR|Campo Bonito|-25.01.52|52.59.33
+PR|Campo do Tenente|-25.58.41|49.40.58
+PR|Campo Largo|-25.27.31|49.31.42
+PR|Campo Magro|-25.22.07|49.27.05
+PR|Campo Mourão|-24.02.44|52.22.59
+PR|Cândido de Abreu|-24.34.01|51.20.00
+PR|Candói|-25.34.20|52.03.21
+PR|Cantagalo|-25.22.28|52.07.35
+PR|Capanema|-25.40.19|53.48.32
+PR|Capitão Leônidas Marques|-25.28.45|53.36.51
+PR|Carambeí|-24.55.04|50.05.50
+PR|Carlópolis|-23.25.30|49.43.15
+PR|Cascavel|-24.57.21|53.27.19
+PR|Castro|-24.47.28|50.00.43
+PR|Catanduvas|-25.12.11|53.09.24
+PR|Centenário do Sul|-22.49.16|51.35.43
+PR|Cerro Azul|-24.49.25|49.15.40
+PR|Céu Azul|-25.08.48|53.50.55
+PR|Chopinzinho|-25.51.21|52.31.24
+PR|Cianorte|-23.39.48|52.36.18
+PR|Cidade Gaúcha|-23.22.49|52.56.41
+PR|Clevelândia|-26.23.45|52.28.15
+PR|Colombo|-25.17.30|49.13.27
+PR|Colorado|-22.50.15|51.58.23
+PR|Congonhinhas|-23.33.04|50.33.13
+PR|Conselheiro Mairinck|-23.37.47|50.10.07
+PR|Contenda|-25.40.32|49.32.05
+PR|Corbélia|-24.47.56|53.18.24
+PR|Cornélio Procópio|-23.10.52|50.38.48
+PR|Coronel Domingos Soares|-26.13.40|52.01.55
+PR|Coronel Vivida|-25.58.47|52.34.04
+PR|Corumbataí do Sul|-24.06.04|52.07.11
+PR|Cruz Machado|-26.01.03|51.20.48
+PR|Cruzeiro do Iguaçu|-25.36.56|53.07.40
+PR|Cruzeiro do Oeste|-23.47.06|53.04.24
+PR|Cruzeiro do Sul|-22.57.43|52.09.38
+PR|Cruzmaltina|-24.00.48|51.27.33
+PR|Curiúva|-24.01.57|50.27.30
+PR|Diamante do Norte|-22.39.23|52.51.35
+PR|Diamante do Sul|-25.02.35|52.40.48
+PR|Diamante d'Oeste|-24.56.34|54.06.12
+PR|Dois Vizinhos|-25.44.01|53.03.26
+PR|Douradina|-23.22.51|53.17.30
+PR|Doutor Camargo|-23.33.21|52.13.05
+PR|Doutor Ulysses|-24.34.05|49.25.11
+PR|Enéas Marques|-25.56.32|53.09.52
+PR|Engenheiro Beltrão|-23.47.50|52.16.09
+PR|Entre Rios do Oeste|-24.42.16|54.14.03
+PR|Esperança Nova|-23.43.26|53.48.39
+PR|Espigão Alto do Iguaçu|-25.25.28|52.50.08
+PR|Farol|-24.05.59|52.37.24
+PR|Faxinal|-24.00.01|51.19.10
+PR|Fazenda Rio Grande|-25.39.27|49.18.29
+PR|Fênix|-23.54.58|51.58.45
+PR|Fernandes Pinheiro|-25.24.48|50.32.51
+PR|Figueira|-23.50.57|50.24.11
+PR|Flor da Serra do Sul|-26.15.37|53.18.13
+PR|Floraí|-23.19.01|52.18.13
+PR|Floresta|-23.35.56|52.04.52
+PR|Florestópolis|-22.51.48|51.23.14
+PR|Flórida|-23.05.14|51.57.13
+PR|Formosa do Oeste|-24.17.34|53.18.45
+PR|Foz do Iguaçu|-25.32.52|54.35.17
+PR|Foz do Jordão|-25.38.30|52.06.10
+PR|Francisco Alves|-24.03.57|53.50.52
+PR|Francisco Beltrão|-26.04.52|53.03.18
+PR|General Carneiro|-26.25.39|51.18.56
+PR|Godoy Moreira|-24.10.36|51.55.27
+PR|Goioerê|-24.11.05|53.01.39
+PR|Goioxim|-25.11.41|51.59.33
+PR|Grandes Rios|-24.08.47|51.30.23
+PR|Guaíra|-24.04.48|54.15.21
+PR|Guairaçá|-22.56.04|52.41.08
+PR|Guamiranga|-25.11.29|50.48.17
+PR|Guapirama|-23.30.58|50.02.23
+PR|Guaporema|-23.20.35|52.46.43
+PR|Guaraci|-22.58.23|51.38.59
+PR|Guaraniaçu|-25.06.03|52.52.41
+PR|Guarapuava|-25.23.43|51.27.29
+PR|Guaraqueçaba|-25.18.24|48.19.44
+PR|Guaratuba|-25.52.58|48.34.29
+PR|Honório Serpa|-26.08.28|52.23.13
+PR|Ibaiti|-23.50.55|50.11.16
+PR|Ibema|-25.06.23|53.00.44
+PR|Ibiporã|-23.16.09|51.02.53
+PR|Icaraíma|-23.23.44|53.36.50
+PR|Iguaraçu|-23.11.49|51.49.39
+PR|Iguatu|-24.38.39|53.08.05
+PR|Imbaú|-24.26.42|50.45.39
+PR|Imbituva|-25.13.48|50.36.16
+PR|Inácio Martins|-25.34.16|51.04.44
+PR|Inajá|-22.44.57|52.11.53
+PR|Indianópolis|-23.28.35|52.41.46
+PR|Ipiranga|-25.01.26|50.35.03
+PR|Iporã|-24.00.11|53.42.15
+PR|Iracema do Oeste|-24.25.42|53.21.17
+PR|Irati|-25.28.02|50.39.04
+PR|Iretama|-24.25.26|52.06.21
+PR|Itaguajé|-22.37.05|51.57.58
+PR|Itaipulândia|-25.08.14|54.18.08
+PR|Itambaracá|-23.01.04|50.24.23
+PR|Itambé|-23.39.40|51.59.25
+PR|Itapejara d'Oeste|-25.57.55|52.48.59
+PR|Itaperuçu|-25.13.12|49.20.52
+PR|Itaúna do Sul|-22.43.50|52.53.14
+PR|Ivaí|-25.00.39|50.51.32
+PR|Ivaiporã|-24.14.52|51.41.05
+PR|Ivaté|-23.24.33|53.22.09
+PR|Ivatuba|-23.37.07|52.13.17
+PR|Jaboti|-23.44.36|50.04.33
+PR|Jacarezinho|-23.09.38|49.58.10
+PR|Jaguapitã|-23.06.46|51.31.55
+PR|Jaguariaíva|-24.15.04|49.42.21
+PR|Jandaia do Sul|-23.36.11|51.38.36
+PR|Janiópolis|-24.08.31|52.46.54
+PR|Japira|-23.48.47|50.08.19
+PR|Japurá|-23.28.12|52.33.12
+PR|Jardim Alegre|-24.10.45|51.41.32
+PR|Jardim Olinda|-22.32.59|52.02.11
+PR|Jataizinho|-23.15.15|50.58.48
+PR|Jesuítas|-24.23.06|53.23.15
+PR|Joaquim Távora|-23.29.58|49.54.17
+PR|Jundiaí do Sul|-23.26.12|50.14.51
+PR|Juranda|-24.25.13|52.50.35
+PR|Jussara|-23.37.17|52.28.10
+PR|Kaloré|-23.49.01|51.40.05
+PR|Lapa|-25.46.11|49.42.57
+PR|Laranjal|-24.53.12|52.28.10
+PR|Laranjeiras do Sul|-25.24.28|52.24.58
+PR|Leópolis|-23.04.48|50.45.04
+PR|Lidianópolis|-24.06.34|51.39.09
+PR|Lindoeste|-25.15.36|53.34.34
+PR|Loanda|-22.55.23|53.08.14
+PR|Lobato|-23.00.30|51.57.02
+PR|Londrina|-23.18.37|51.09.46
+PR|Luiziana|-24.17.10|52.16.33
+PR|Lunardelli|-24.04.46|51.44.15
+PR|Lupionópolis|-22.45.19|51.39.26
+PR|Mallet|-25.52.40|50.49.16
+PR|Mamborê|-24.19.10|52.31.48
+PR|Mandaguaçu|-23.20.50|52.05.43
+PR|Mandaguari|-23.32.51|51.40.15
+PR|Mandirituba|-25.46.44|49.19.34
+PR|Manfrinópolis|-26.08.40|53.18.39
+PR|Mangueirinha|-25.56.28|52.10.32
+PR|Manoel Ribas|-24.30.59|51.40.04
+PR|Marechal Cândido Rondon|-24.33.22|54.03.24
+PR|Maria Helena|-23.36.59|53.12.18
+PR|Marialva|-23.29.06|51.47.30
+PR|Marilândia do Sul|-23.44.41|51.18.28
+PR|Marilena|-22.44.09|53.02.24
+PR|Mariluz|-24.00.08|53.08.46
+PR|Maringá|-23.25.31|51.56.19
+PR|Mariópolis|-26.21.17|52.33.31
+PR|Maripá|-24.25.06|53.49.48
+PR|Marmeleiro|-26.08.58|53.01.34
+PR|Marquinho|-25.06.48|52.15.15
+PR|Marumbi|-23.42.22|51.38.22
+PR|Matelândia|-25.14.27|53.59.47
+PR|Matinhos|-25.49.03|48.32.34
+PR|Mato Rico|-24.42.19|52.08.46
+PR|Mauá da Serra|-23.54.05|51.13.46
+PR|Medianeira|-25.17.43|54.05.38
+PR|Mercedes|-24.27.14|54.09.42
+PR|Mirador|-23.15.27|52.46.35
+PR|Miraselva|-22.57.58|51.29.05
+PR|Missal|-25.05.31|54.14.51
+PR|Moreira Sales|-24.03.44|53.00.25
+PR|Morretes|-25.28.37|48.50.04
+PR|Munhoz de Melo|-23.08.53|51.46.26
+PR|Nossa Senhora das Graças|-22.54.49|51.47.40
+PR|Nova Aliança do Ivaí|-23.10.36|52.36.07
+PR|Nova América da Colina|-23.19.50|50.43.03
+PR|Nova Aurora|-24.31.46|53.15.20
+PR|Nova Cantu|-24.40.23|52.34.10
+PR|Nova Esperança|-23.11.01|52.12.17
+PR|Nova Esperança do Sudoeste|-25.54.26|53.15.45
+PR|Nova Fátima|-23.25.56|50.33.50
+PR|Nova Laranjeiras|-25.18.25|52.32.29
+PR|Nova Londrina|-22.45.57|52.59.06
+PR|Nova Olímpia|-23.28.19|53.05.19
+PR|Nova Prata do Iguaçu|-25.37.57|53.20.48
+PR|Nova Santa Bárbara|-23.35.07|50.35.07
+PR|Nova Santa Rosa|-24.27.59|53.57.12
+PR|Nova Tebas|-24.26.17|51.56.43
+PR|Novo Itacolomi|-23.45.50|51.30.25
+PR|Ortigueira|-24.12.30|50.56.58
+PR|Ourizona|-23.24.18|52.11.56
+PR|Ouro Verde do Oeste|-24.46.26|53.54.06
+PR|Paiçandu|-23.27.27|52.02.55
+PR|Palmas|-26.29.03|51.59.26
+PR|Palmeira|-25.25.46|50.00.23
+PR|Palmital|-24.53.35|52.12.10
+PR|Palotina|-24.17.02|53.50.24
+PR|Paraíso do Norte|-23.16.51|52.36.08
+PR|Paranacity|-22.55.48|52.09.04
+PR|Paranaguá|-25.31.12|48.30.33
+PR|Paranapoema|-22.38.01|52.05.52
+PR|Paranavaí|-23.04.23|52.27.55
+PR|Pato Bragado|-24.37.35|54.13.29
+PR|Pato Branco|-26.13.43|52.40.14
+PR|Paula Freitas|-26.12.30|50.56.17
+PR|Paulo Frontin|-26.02.23|50.50.09
+PR|Peabiru|-23.54.46|52.20.35
+PR|Perobal|-23.53.46|53.24.35
+PR|Pérola|-23.48.17|53.41.01
+PR|Pérola d'Oeste|-25.49.27|53.44.24
+PR|Piên|-26.05.53|49.25.45
+PR|Pinhais|-25.26.41|49.11.33
+PR|Pinhal de São Bento|-26.01.49|53.28.59
+PR|Pinhalão|-23.47.33|50.03.21
+PR|Pinhão|-25.41.44|51.39.35
+PR|Piraí do Sul|-24.31.34|49.56.55
+PR|Piraquara|-25.26.30|49.03.48
+PR|Pitanga|-24.45.26|51.45.41
+PR|Pitangueiras|-23.13.50|51.35.08
+PR|Planaltina do Paraná|-23.00.24|52.54.50
+PR|Planalto|-25.42.58|53.45.58
+PR|Ponta Grossa|-25.05.42|50.09.43
+PR|Pontal do Paraná|-25.40.25|48.30.40
+PR|Porecatu|-22.45.21|51.22.45
+PR|Porto Amazonas|-25.32.41|49.53.25
+PR|Porto Barreiro|-25.32.50|52.24.30
+PR|Porto Rico|-22.46.20|53.16.01
+PR|Porto Vitória|-26.09.40|51.13.54
+PR|Prado Ferreira|-23.02.22|51.26.32
+PR|Pranchita|-26.01.11|53.44.25
+PR|Presidente Castelo Branco|-23.16.41|52.09.06
+PR|Primeiro de Maio|-22.51.02|51.01.42
+PR|Prudentópolis|-25.12.47|50.58.40
+PR|Quarto Centenário|-24.16.46|53.04.35
+PR|Quatiguá|-23.34.02|49.54.49
+PR|Quatro Barras|-25.21.56|49.04.37
+PR|Quatro Pontes|-24.34.30|53.58.37
+PR|Quedas do Iguaçu|-25.26.59|52.54.29
+PR|Querência do Norte|-23.05.01|53.29.04
+PR|Quinta do Sol|-23.51.08|52.07.47
+PR|Quitandinha|-25.52.21|49.29.52
+PR|Ramilândia|-25.07.13|54.01.31
+PR|Rancho Alegre|-23.04.12|50.54.47
+PR|Rancho Alegre d'Oeste|-24.18.24|52.57.16
+PR|Realeza|-25.46.08|53.31.57
+PR|Rebouças|-25.37.14|50.41.34
+PR|Renascença|-26.09.29|52.58.08
+PR|Reserva|-24.39.01|50.51.02
+PR|Reserva do Iguaçu|-25.50.20|52.01.41
+PR|Ribeirão Claro|-23.11.39|49.45.29
+PR|Ribeirão do Pinhal|-23.24.27|50.21.24
+PR|Rio Azul|-25.43.58|50.47.47
+PR|Rio Bom|-23.45.44|51.24.38
+PR|Rio Bonito do Iguaçu|-25.29.26|52.31.33
+PR|Rio Branco do Ivaí|-24.19.27|51.18.45
+PR|Rio Branco do Sul|-25.11.24|49.18.51
+PR|Rio Negro|-26.06.21|49.47.51
+PR|Rolândia|-23.18.35|51.22.09
+PR|Roncador|-24.36.10|52.16.30
+PR|Rondon|-23.24.39|52.45.41
+PR|Rosário do Ivaí|-24.16.42|51.16.29
+PR|Sabáudia|-23.19.03|51.33.09
+PR|Salgado Filho|-26.10.13|53.21.41
+PR|Salto do Itararé|-23.36.05|49.37.33
+PR|Salto do Lontra|-25.47.02|53.18.31
+PR|Santa Amélia|-23.15.57|50.25.27
+PR|Santa Cecília do Pavão|-23.31.02|50.47.01
+PR|Santa Cruz de Monte Castelo|-22.57.12|53.17.50
+PR|Santa Fé|-23.02.15|51.48.19
+PR|Santa Felicidade|-25.23.37|49.21.00
+PR|Santa Helena|-24.51.37|54.19.58
+PR|Santa Inês|-22.38.15|51.54.09
+PR|Santa Isabel do Ivaí|-23.00.10|53.11.48
+PR|Santa Izabel do Oeste|-25.49.16|53.29.04
+PR|Santa Lúcia|-25.24.25|53.33.57
+PR|Santa Maria do Oeste|-24.56.21|51.51.45
+PR|Santa Mariana|-23.09.03|50.31.07
+PR|Santa Mônica|-23.06.30|53.06.31
+PR|Santa Tereza do Oeste|-25.03.08|53.37.59
+PR|Santa Terezinha de Itaipu|-25.21.44|54.29.17
+PR|Santana do Itararé|-23.45.18|49.37.45
+PR|Santo Antônio da Platina|-23.17.42|50.04.38
+PR|Santo Antônio do Caiuá|-22.44.05|52.20.32
+PR|Santo Antônio do Paraíso|-23.29.37|50.38.44
+PR|Santo Antônio do Sudoeste|-26.04.25|53.43.31
+PR|Santo Inácio|-22.41.52|51.47.38
+PR|São Carlos do Ivaí|-23.18.55|52.28.33
+PR|São Jerônimo da Serra|-23.43.39|50.44.28
+PR|São João|-25.49.40|52.43.31
+PR|São João do Caiuá|-22.51.07|52.20.13
+PR|São João do Ivaí|-23.58.48|51.49.05
+PR|São João do Triunfo|-25.41.00|50.17.50
+PR|São Jorge do Ivaí|-23.25.58|52.17.35
+PR|São Jorge do Patrocínio|-23.45.43|53.52.44
+PR|São Jorge d'Oeste|-25.42.20|52.55.06
+PR|São José da Boa Vista|-23.54.57|49.39.08
+PR|São José das Palmeiras|-24.50.15|54.03.49
+PR|São José dos Pinhais|-25.32.05|49.12.23
+PR|São Manoel do Paraná|-23.24.12|52.38.38
+PR|São Mateus do Sul|-25.52.27|50.22.58
+PR|São Miguel do Iguaçu|-25.20.53|54.14.16
+PR|São Pedro do Iguaçu|-24.56.08|53.51.19
+PR|São Pedro do Ivaí|-23.51.55|51.51.23
+PR|São Pedro do Paraná|-22.49.26|53.13.12
+PR|São Sebastião da Amoreira|-23.27.55|50.45.40
+PR|São Tomé|-23.32.16|52.35.27
+PR|Sapopema|-23.54.39|50.34.49
+PR|Sarandi|-23.26.37|51.52.26
+PR|Saudade do Iguaçu|-25.41.40|52.37.08
+PR|Sengés|-24.06.46|49.27.49
+PR|Serranópolis do Iguaçu|-25.22.48|54.03.06
+PR|Sertaneja|-23.02.13|50.50.18
+PR|Sertanópolis|-23.03.31|51.02.11
+PR|Siqueira Campos|-23.41.20|49.50.02
+PR|Sulina|-25.42.07|52.43.20
+PR|Tamarana|-23.43.24|51.05.50
+PR|Tamboara|-23.12.01|52.28.07
+PR|Tapejara|-23.43.59|52.52.24
+PR|Tapira|-23.19.22|53.04.05
+PR|Teixeira Soares|-25.22.06|50.27.38
+PR|Telêmaco Borba|-24.19.26|50.36.56
+PR|Terra Boa|-23.46.05|52.26.39
+PR|Terra Rica|-22.42.34|52.37.01
+PR|Terra Roxa|-24.09.24|54.05.49
+PR|Tibagi|-24.30.34|50.24.49
+PR|Tijucas do Sul|-25.55.41|49.11.56
+PR|Toledo|-24.42.49|53.44.35
+PR|Tomazina|-23.46.42|49.56.59
+PR|Três Barras do Paraná|-25.25.08|53.10.51
+PR|Tunas do Paraná|-24.58.28|49.05.09
+PR|Tuneiras do Oeste|-23.52.14|52.52.34
+PR|Tupãssi|-24.35.16|53.30.42
+PR|Turvo|-25.02.34|51.31.47
+PR|Ubiratã|-24.32.43|52.59.16
+PR|Umuarama|-23.45.59|53.19.30
+PR|União da Vitória|-26.13.48|51.05.11
+PR|Uniflor|-23.05.13|52.09.26
+PR|Uraí|-23.11.51|50.47.47
+PR|Ventania|-24.14.45|50.14.34
+PR|Vera Cruz do Oeste|-25.03.28|53.52.37
+PR|Verê|-25.52.53|52.54.28
+PR|Vila Alta|-23.30.30|53.43.40
+PR|Virmond|-25.22.52|52.11.58
+PR|Vitorino|-26.16.37|52.47.02
+PR|Wenceslau Braz|-23.52.26|49.48.10
+PR|Xambrê|-23.44.10|53.29.24
+RJ|Angra dos Reis|-23.00.24|44.19.05
+RJ|Aperibé|-21.37.15|42.06.10
+RJ|Araruama|-22.52.22|42.20.35
+RJ|Areal|-22.13.50|43.06.20
+RJ|Armação de Búzios|-22.44.49|41.52.54
+RJ|Arraial do Cabo|-22.57.58|42.01.40
+RJ|Barra do Piraí|-22.28.12|43.49.32
+RJ|Barra Mansa|-22.32.39|44.10.17
+RJ|Belford Roxo|-22.45.51|43.23.58
+RJ|Bom Jardim|-22.09.07|42.25.10
+RJ|Bom Jesus do Itabapoana|-21.08.02|41.40.47
+RJ|Cabo Frio|-22.52.46|42.01.07
+RJ|Cachoeiras de Macacu|-22.27.45|42.39.11
+RJ|Cambuci|-21.34.31|41.54.40
+RJ|Campos dos Goytacazes|-21.45.15|41.19.28
+RJ|Cantagalo|-21.58.52|42.22.05
+RJ|Carapebus|-22.11.14|41.39.40
+RJ|Cardoso Moreira|-21.29.18|41.36.56
+RJ|Carmo|-21.56.01|42.36.31
+RJ|Casimiro de Abreu|-22.28.50|42.12.15
+RJ|Comendador Levy Gasparian|-22.01.43|43.12.18
+RJ|Conceição de Macabu|-22.05.07|41.52.06
+RJ|Cordeiro|-22.01.43|42.21.39
+RJ|Duas Barras|-22.03.04|42.31.18
+RJ|Duque de Caxias|-22.47.08|43.18.42
+RJ|Engenheiro Paulo de Frontin|-22.32.59|43.40.42
+RJ|Guapimirim|-22.32.14|42.58.55
+RJ|Iguaba Grande|-22.50.21|42.13.44
+RJ|Itaboraí|-22.44.40|42.51.34
+RJ|Itaguaí|-22.51.08|43.46.31
+RJ|Italva|-21.25.15|41.41.27
+RJ|Itaocara|-21.40.09|42.04.34
+RJ|Itaperuna|-21.12.18|41.53.16
+RJ|Itatiaia|-22.29.46|44.33.48
+RJ|Japeri|-22.38.35|43.39.12
+RJ|Laje do Muriaé|-21.12.23|42.07.21
+RJ|Macaé|-22.22.15|41.47.13
+RJ|Macuco|-21.59.02|42.15.10
+RJ|Magé|-22.39.10|43.02.26
+RJ|Mangaratiba|-22.57.35|44.02.26
+RJ|Maricá|-22.55.10|42.49.07
+RJ|Mendes|-22.31.36|43.43.58
+RJ|Miguel Pereira|-22.27.14|43.28.08
+RJ|Miracema|-21.24.44|42.11.48
+RJ|Natividade|-21.02.32|41.58.24
+RJ|Nilópolis|-22.48.27|43.24.50
+RJ|Niterói|-22.53.00|43.06.13
+RJ|Nova Friburgo|-22.16.55|42.31.52
+RJ|Nova Iguaçu|-22.45.33|43.27.04
+RJ|Paracambi|-22.36.39|43.42.33
+RJ|Paraíba do Sul|-22.09.43|43.17.34
+RJ|Parati|-23.13.04|44.42.47
+RJ|Paty do Alferes|-22.25.43|43.25.07
+RJ|Petrópolis|-22.30.18|43.10.43
+RJ|Pinheiral|-22.30.46|44.00.02
+RJ|Piraí|-22.37.45|43.53.53
+RJ|Porciúncula|-20.57.46|42.02.27
+RJ|Porto Real|-22.25.11|44.17.25
+RJ|Quatis|-22.24.26|44.15.29
+RJ|Queimados|-22.42.58|43.33.19
+RJ|Quissamã|-22.06.24|41.28.20
+RJ|Resende|-22.28.08|44.26.48
+RJ|Rio Bonito|-22.42.31|42.36.35
+RJ|Rio Claro|-22.43.23|44.08.08
+RJ|Rio das Flores|-22.10.03|43.35.08
+RJ|Rio das Ostras|-22.31.37|41.56.42
+RJ|Santa Maria Madalena|-21.57.19|42.00.29
+RJ|Santo Antônio de Pádua|-21.32.22|42.10.49
+RJ|São Fidélis|-21.38.46|41.44.49
+RJ|São Francisco de Itabapoana|-21.18.07|40.57.41
+RJ|São Gonçalo|-22.49.37|43.03.14
+RJ|São João da Barra|-21.38.25|41.03.04
+RJ|São João de Meriti|-22.48.14|43.22.20
+RJ|São José de Ubá|-21.21.27|41.56.33
+RJ|São José do Vale do Rio Preto|-22.09.05|42.55.28
+RJ|São Pedro da Aldeia|-22.50.21|42.06.10
+RJ|São Sebastião do Alto|-21.57.26|42.08.05
+RJ|Sapucaia|-21.59.42|42.54.52
+RJ|Saquarema|-22.55.12|42.30.37
+RJ|Seropédica|-22.44.38|43.42.27
+RJ|Silva Jardim|-22.39.03|42.23.30
+RJ|Sumidouro|-22.02.59|42.40.29
+RJ|Tanguá|-22.43.49|42.42.51
+RJ|Teresópolis|-22.24.44|42.57.56
+RJ|Trajano de Morais|-22.03.48|42.03.59
+RJ|Três Rios|-22.07.00|43.12.33
+RJ|Valença|-22.14.44|43.42.01
+RJ|Varre-Sai|-20.55.52|41.52.07
+RJ|Vassouras|-22.24.14|43.39.45
+RJ|Volta Redonda|-22.31.23|44.06.15
+RN|Acari|-06.26.08|36.38.20
+RN|Açu|-05.34.36|36.54.31
+RN|Afonso Bezerra|-05.29.54|36.30.20
+RN|Água Nova|-06.12.33|38.17.50
+RN|Alexandria|-06.24.45|38.00.57
+RN|Almino Afonso|-06.09.08|37.45.58
+RN|Alto do Rodrigues|-05.17.18|36.45.44
+RN|Angicos|-05.39.56|36.36.04
+RN|Antônio Martins|-06.12.46|37.54.20
+RN|Apodi|-05.39.51|37.47.56
+RN|Areia Branca|-04.57.22|37.08.13
+RN|Arês|-06.11.40|35.09.37
+RN|Augusto Severo|-05.51.50|37.18.36
+RN|Baía Formosa|-06.22.10|35.00.28
+RN|Baraúna|-05.04.48|37.37.00
+RN|Barcelona|-05.57.02|35.55.35
+RN|Bento Fernandes|-05.41.38|35.49.11
+RN|Bodó|-05.59.18|36.24.47
+RN|Bom Jesus|-05.59.02|35.34.53
+RN|Brejinho|-06.11.27|35.21.24
+RN|Caiçara do Norte|-05.03.52|36.03.21
+RN|Caiçara do Rio do Vento|-05.45.37|35.59.54
+RN|Caicó|-06.27.30|37.05.52
+RN|Campo Redondo|-06.14.29|36.10.57
+RN|Canguaretama|-06.22.48|35.07.44
+RN|Caraúbas|-05.47.33|37.33.24
+RN|Carnaúba dos Dantas|-06.33.20|36.35.42
+RN|Carnaubais|-05.20.54|36.50.04
+RN|Ceará-Mirim|-05.38.04|35.25.32
+RN|Cerro Corá|-06.02.44|36.20.45
+RN|Coronel Ezequiel|-06.22.57|36.12.53
+RN|Coronel João Pessoa|-06.15.35|38.26.37
+RN|Cruzeta|-06.24.42|36.47.23
+RN|Currais Novos|-06.15.39|36.31.04
+RN|Doutor Severiano|-06.05.40|38.22.29
+RN|Encanto|-06.06.38|38.18.19
+RN|Equador|-06.56.42|36.43.06
+RN|Espírito Santo|-06.19.56|35.18.34
+RN|Extremoz|-05.42.20|35.18.26
+RN|Felipe Guerra|-05.36.09|37.41.19
+RN|Fernando Pedroza|-05.41.50|36.31.52
+RN|Florânia|-06.07.38|36.49.05
+RN|Francisco Dantas|-06.04.42|38.07.10
+RN|Frutuoso Gomes|-06.09.30|37.50.23
+RN|Galinhos|-05.05.26|36.16.31
+RN|Goianinha|-06.15.53|35.12.45
+RN|Governador Dix-Sept Rosado|-05.27.32|37.31.15
+RN|Grossos|-04.58.47|37.09.17
+RN|Guamaré|-05.06.27|36.19.13
+RN|Ielmo Marinho|-05.49.27|35.33.10
+RN|Ipanguaçu|-05.29.54|36.51.18
+RN|Ipueira|-06.48.51|37.11.56
+RN|Itajá|-05.38.39|36.52.17
+RN|Itaú|-05.50.23|37.59.34
+RN|Jaçanã|-06.25.33|36.12.18
+RN|Jandaíra|-05.21.23|36.07.41
+RN|Janduís|-06.00.56|37.24.32
+RN|Januário Cicco|-06.09.30|35.36.02
+RN|Japi|-06.27.54|35.56.48
+RN|Jardim de Angicos|-05.39.13|35.58.08
+RN|Jardim de Piranhas|-06.22.43|37.21.07
+RN|Jardim do Seridó|-06.35.04|36.46.28
+RN|João Câmara|-05.32.15|35.49.11
+RN|João Dias|-06.16.28|37.47.46
+RN|José da Penha|-06.19.00|38.16.53
+RN|Jucurutu|-06.02.02|37.01.13
+RN|Lagoa d'Anta|-06.23.28|35.35.54
+RN|Lagoa de Pedras|-06.08.57|35.26.16
+RN|Lagoa de Velhos|-06.00.14|35.52.18
+RN|Lagoa Nova|-06.07.16|35.28.38
+RN|Lagoa Salgada|-06.07.15|35.28.38
+RN|Lajes|-05.42.00|36.14.41
+RN|Lajes Pintadas|-06.09.01|36.07.02
+RN|Lucrécia|-06.07.12|37.48.56
+RN|Luís Gomes|-06.24.50|38.23.19
+RN|Macaíba|-05.51.30|35.21.14
+RN|Macau|-05.06.54|36.38.04
+RN|Major Sales|-06.24.22|38.19.26
+RN|Marcelino Vieira|-06.17.39|38.10.02
+RN|Martins|-06.05.16|37.54.40
+RN|Maxaranguape|-05.31.02|35.15.23
+RN|Messias Targino|-06.04.44|37.30.50
+RN|Montanhas|-06.29.09|35.17.15
+RN|Monte Alegre|-06.04.04|35.19.56
+RN|Monte das Gameleiras|-06.26.29|35.46.57
+RN|Mossoró|-05.11.15|37.20.39
+RN|Nísia Floresta|-06.05.28|35.12.31
+RN|Nova Cruz|-06.28.41|35.26.02
+RN|Olho-d'Água do Borges|-05.57.23|37.42.20
+RN|Ouro Branco|-06.42.04|36.56.44
+RN|Paraná|-06.29.11|38.18.47
+RN|Paraú|-05.46.28|37.06.05
+RN|Parazinho|-05.13.23|35.50.18
+RN|Parelhas|-06.41.16|36.39.27
+RN|Parnamirim|-05.54.56|35.15.46
+RN|Passa e Fica|-06.26.08|35.38.36
+RN|Passagem|-06.16.44|35.22.39
+RN|Patu|-06.06.36|37.38.12
+RN|Pau dos Ferros|-06.06.33|38.12.16
+RN|Pedra Grande|-05.09.01|35.52.44
+RN|Pedra Preta|-05.34.57|36.06.17
+RN|Pedro Avelino|-05.31.18|36.23.17
+RN|Pedro Velho|-06.26.21|35.13.17
+RN|Pendências|-05.15.36|36.43.20
+RN|Pilões|-06.16.07|38.02.36
+RN|Poço Branco|-05.37.22|35.39.46
+RN|Portalegre|-06.01.26|37.59.16
+RN|Porto do Mangue|-05.04.04|36.46.54
+RN|Presidente Juscelino|-06.06.20|35.42.48
+RN|Pureza|-05.28.01|35.33.22
+RN|Rafael Fernandes|-06.11.41|38.13.33
+RN|Rafael Godeiro|-06.04.32|37.43.00
+RN|Riacho da Cruz|-05.56.11|37.56.47
+RN|Riacho de Santana|-06.15.48|38.18.56
+RN|Riachuelo|-05.48.54|35.49.30
+RN|Rio do Fogo|-05.16.22|35.22.59
+RN|Rodolfo Fernandes|-05.47.17|38.03.36
+RN|Ruy Barbosa|-05.52.53|35.56.05
+RN|Santa Cruz|-06.13.46|36.01.22
+RN|Santa Maria|-05.50.23|35.41.43
+RN|Santana do Matos|-05.57.27|36.39.20
+RN|Santana do Seridó|-06.46.14|36.44.00
+RN|Santo Antônio|-06.18.38|35.28.44
+RN|São Bento do Norte|-05.03.59|36.02.17
+RN|São Bento do Trairi|-06.20.30|36.05.14
+RN|São Fernando|-06.22.35|37.11.04
+RN|São Francisco do Oeste|-05.58.30|38.09.06
+RN|São Gonçalo do Amarante|-05.47.36|35.19.46
+RN|São João do Sabugi|-06.43.06|37.12.02
+RN|São José de Mipibu|-06.04.29|35.14.16
+RN|São José do Campestre|-06.18.56|35.42.50
+RN|São José do Seridó|-06.26.57|36.52.40
+RN|São Miguel|-06.12.43|38.29.49
+RN|São Miguel de Touros|-05.07.29|35.38.21
+RN|São Paulo do Potengi|-05.53.42|35.45.46
+RN|São Pedro|-05.53.53|35.38.04
+RN|São Rafael|-05.47.58|36.55.14
+RN|São Tomé|-05.58.21|36.04.31
+RN|São Vicente|-06.13.02|36.41.04
+RN|Senador Elói de Souza|-06.02.08|35.41.34
+RN|Senador Georgino Avelino|-06.09.46|35.07.21
+RN|Serra de São Bento|-06.25.02|35.42.16
+RN|Serra do Mel|-05.10.12|37.01.46
+RN|Serra Negra do Norte|-06.39.56|37.23.50
+RN|Serrinha|-06.16.34|35.29.56
+RN|Serrinha dos Pintos|-06.06.36|37.57.23
+RN|Severiano Melo|-05.46.38|37.57.28
+RN|Sítio Novo|-06.06.14|35.54.40
+RN|Taboleiro Grande|-05.55.48|38.02.42
+RN|Taipu|-05.37.18|35.35.48
+RN|Tangará|-06.11.58|35.48.06
+RN|Tenente Ananias|-06.27.54|38.10.47
+RN|Tenente Laurentino Cruz|-06.08.53|36.43.09
+RN|Tibau|-04.50.14|37.15.09
+RN|Tibau do Sul|-06.11.12|35.05.31
+RN|Timbaúba dos Batistas|-06.27.54|37.16.28
+RN|Touros|-05.11.56|35.27.39
+RN|Triunfo Potiguar|-05.52.01|37.11.19
+RN|Umarizal|-05.59.26|37.48.52
+RN|Upanema|-05.38.31|37.15.28
+RN|Várzea|-06.20.53|35.22.33
+RN|Venha-Ver|-06.19.35|38.29.03
+RN|Vera Cruz|-06.02.39|35.25.42
+RN|Viçosa|-05.59.40|37.56.40
+RN|Vila Flor|-06.18.52|35.04.38
+RO|Alta Floresta d'Oeste|-11.58.05|61.57.15
+RO|Alto Alegre do Parecis|-12.07.41|61.51.02
+RO|Alto Paraíso|-09.42.47|63.19.15
+RO|Alvorada d'Oeste|-11.20.29|62.17.11
+RO|Ariquemes|-09.54.48|63.02.27
+RO|Buritis|-10.12.42|63.49.43
+RO|Cabixi|-13.29.52|60.33.15
+RO|Cacaulândia|-10.20.21|62.53.43
+RO|Cacoal|-11.26.19|61.26.50
+RO|Campo Novo de Rondônia|-10.35.49|63.36.44
+RO|Candeias do Jamari|-08.48.35|63.41.44
+RO|Castanheiras|-11.25.03|61.56.19
+RO|Cerejeiras|-13.11.20|60.48.44
+RO|Chupinguaia|-12.33.08|60.53.59
+RO|Colorado do Oeste|-13.07.00|60.32.30
+RO|Corumbiara|-12.57.43|60.53.12
+RO|Costa Marques|-12.26.42|64.13.38
+RO|Cujubim|-09.21.46|62.35.07
+RO|Espigão d'Oeste|-11.31.29|61.00.46
+RO|Governador Jorge Teixeira|-10.31.30|62.38.38
+RO|Guajará-Mirim|-10.46.58|65.20.22
+RO|Jamari|-09.12.17|63.10.47
+RO|Jaru|-10.26.20|62.27.59
+RO|Ji-Paraná|-10.53.07|61.57.06
+RO|Machadinho d'Oeste|-09.26.38|61.58.53
+RO|Ministro Andreazza|-11.04.27|61.31.01
+RO|Mirante da Serra|-11.01.47|62.40.30
+RO|Monte Negro|-10.17.40|63.19.31
+RO|Nova Brasilândia d'Oeste|-11.43.11|62.18.57
+RO|Nova Mamoré|-10.24.07|65.19.36
+RO|Nova União|-10.54.15|62.33.40
+RO|Novo Horizonte do Oeste|-11.41.47|61.59.41
+RO|Ouro Preto do Oeste|-10.44.53|62.12.57
+RO|Parecis|-12.11.46|61.36.05
+RO|Pimenta Bueno|-11.40.21|61.11.37
+RO|Pimenteiras do Oeste|-13.28.57|61.02.48
+RO|Presidente Médici|-11.10.31|61.54.05
+RO|Primavera de Rondônia|-11.49.01|61.19.22
+RO|Rio Crespo|-09.42.18|62.53.59
+RO|Rolim de Moura|-11.48.13|61.48.12
+RO|Santa Luzia d'Oeste|-11.54.29|61.46.44
+RO|São Felipe d'Oeste|-11.54.09|61.30.08
+RO|São Francisco do Guaporé|-12.03.08|63.34.03
+RO|São Miguel do Guaporé|-11.41.37|62.42.41
+RO|Seringueiras|-11.47.53|63.01.52
+RO|Teixeirópolis|-10.55.03|62.14.58
+RO|Theobroma|-10.14.20|62.21.30
+RO|Urupá|-11.08.26|62.21.39
+RO|Vale do Anari|-09.51.47|62.11.08
+RO|Vale do Paraíso|-10.26.52|62.08.03
+RO|Vilhena|-12.44.26|60.08.45
+RR|Alto Alegre|02.53.45|61.29.51
+RR|Amajari|03.39.08|61.22.14
+RR|Bonfim|03.21.35|59.50.00
+RR|Cantá|02.36.37|60.35.51
+RR|Caracaraí|01.48.58|61.07.41
+RR|Caroebe|00.53.02|59.41.44
+RR|Iracema|02.10.56|61.02.28
+RR|Mucajaí|02.25.48|60.54.00
+RR|Normandia|03.52.52|59.37.22
+RR|Pacaraima|04.25.53|61.08.47
+RR|Rorainópolis|00.56.46|60.25.05
+RR|São João da Baliza|00.57.02|59.54.41
+RR|São Luiz|01.00.27|60.01.03
+RR|Uiramutã|04.35.44|60.10.04
+RS|Água Santa|-28.10.37|52.02.02
+RS|Agudo|-29.38.43|53.14.24
+RS|Ajuricaba|-28.14.22|53.46.15
+RS|Alecrim|-27.39.18|54.45.50
+RS|Alegrete|-29.46.59|55.47.31
+RS|Alegria|-27.49.58|54.03.41
+RS|Alpestre|-27.14.56|53.02.06
+RS|Alto Alegre|-28.46.26|52.59.26
+RS|Alto Feliz|-29.23.31|51.18.44
+RS|Alvorada|-29.59.24|51.05.01
+RS|Amaral Ferrador|-30.52.42|52.15.27
+RS|Ametista do Sul|-27.21.38|53.10.54
+RS|André da Rocha|-28.37.50|51.34.18
+RS|Anta Gorda|-28.58.13|52.00.17
+RS|Antônio Prado|-28.51.30|51.16.58
+RS|Arambaré|-30.54.54|51.29.52
+RS|Araricá|-29.36.49|50.55.30
+RS|Aratiba|-27.23.39|52.18.01
+RS|Arroio do Meio|-29.24.04|51.56.42
+RS|Arroio do Sal|-29.33.05|49.53.20
+RS|Arroio do Tigre|-29.19.58|53.05.36
+RS|Arroio dos Ratos|-30.04.38|51.43.45
+RS|Arroio Grande|-32.14.15|53.05.13
+RS|Arvorezinha|-28.52.20|52.10.31
+RS|Augusto Pestana|-28.31.01|53.59.32
+RS|Áurea|-27.41.50|52.02.58
+RS|Bagé|-31.19.53|54.06.25
+RS|Balneário Pinhal|-30.14.51|50.13.58
+RS|Barão|-29.22.37|51.29.44
+RS|Barão de Cotegipe|-27.37.15|52.22.47
+RS|Barão do Triunfo|-30.23.18|51.44.01
+RS|Barra do Guarita|-27.11.31|53.42.36
+RS|Barra do Quaraí|-30.12.26|57.33.17
+RS|Barra do Ribeiro|-30.17.28|51.18.04
+RS|Barra do Rio Azul|-27.24.32|52.24.35
+RS|Barra Funda|-27.55.23|53.02.21
+RS|Barracão|-27.40.18|51.27.38
+RS|Barros Cassal|-29.05.36|52.34.58
+RS|Benjamin Constant do Sul|-27.30.36|52.35.52
+RS|Bento Gonçalves|-29.10.17|51.31.09
+RS|Boa Vista das Missões|-27.39.47|53.18.51
+RS|Boa Vista do Buricá|-27.40.07|54.06.36
+RS|Boa Vista do Sul|-29.21.03|51.40.33
+RS|Bom Jesus|-28.40.04|50.25.00
+RS|Bom Princípio|-29.29.20|51.21.12
+RS|Bom Progresso|-27.32.37|53.51.57
+RS|Bom Retiro do Sul|-29.36.32|51.56.35
+RS|Boqueirão do Leão|-29.18.14|52.25.46
+RS|Bossoroca|-28.43.48|54.54.01
+RS|Braga|-27.36.50|53.44.22
+RS|Brochier|-29.32.43|51.35.10
+RS|Butiá|-30.07.11|51.57.44
+RS|Caçapava do Sul|-30.30.44|53.29.29
+RS|Cacequi|-29.53.01|54.49.30
+RS|Cachoeira do Sul|-30.02.21|52.53.38
+RS|Cachoeirinha|-29.57.04|51.05.38
+RS|Cacique Doble|-27.46.13|51.39.37
+RS|Caibaté|-28.17.16|54.38.18
+RS|Caiçara|-27.16.28|53.25.56
+RS|Camaquã|-30.51.04|51.48.44
+RS|Camargo|-28.35.14|52.12.07
+RS|Cambará do Sul|-29.02.52|50.08.41
+RS|Campestre da Serra|-28.47.41|51.05.34
+RS|Campina das Missões|-27.59.20|54.50.22
+RS|Campinas do Sul|-27.42.57|52.37.39
+RS|Campo Bom|-29.40.44|51.03.12
+RS|Campo Novo|-27.40.31|53.48.12
+RS|Campos Borges|-28.53.10|52.59.55
+RS|Candelária|-29.40.09|52.47.20
+RS|Cândido Godói|-27.57.07|54.45.07
+RS|Candiota|-31.33.29|53.40.21
+RS|Canela|-29.21.56|50.48.56
+RS|Canguçu|-31.23.42|52.40.32
+RS|Canoas|-29.55.04|51.11.01
+RS|Capão da Canoa|-29.44.44|50.00.35
+RS|Capão do Leão|-31.45.48|52.29.02
+RS|Capela de Santana|-29.42.00|51.19.29
+RS|Capitão|-29.16.08|51.59.22
+RS|Capivari do Sul|-30.08.42|50.30.53
+RS|Caraã|-29.47.24|50.26.06
+RS|Carazinho|-28.17.02|52.47.11
+RS|Carlos Barbosa|-29.17.51|51.30.13
+RS|Carlos Gomes|-27.43.04|51.54.49
+RS|Casca|-28.33.40|51.58.42
+RS|Caseiros|-28.16.07|51.41.23
+RS|Catuípe|-28.15.00|54.00.42
+RS|Caxias do Sul|-29.10.05|51.10.46
+RS|Centenário|-27.45.41|51.59.56
+RS|Cerrito|-31.51.23|52.48.46
+RS|Cerro Branco|-29.39.16|52.56.01
+RS|Cerro Grande|-27.36.22|53.10.00
+RS|Cerro Grande do Sul|-30.35.49|51.45.08
+RS|Cerro Largo|-28.08.55|54.44.17
+RS|Chapada|-28.03.19|53.04.04
+RS|Charqueadas|-29.57.17|51.37.31
+RS|Charrua|-27.57.08|52.00.54
+RS|Chiapeta|-27.55.22|53.56.29
+RS|Chuí|-33.41.28|53.27.24
+RS|Chuvisca|-30.45.27|51.58.40
+RS|Cidreira|-30.10.52|50.12.20
+RS|Ciríaco|-28.20.37|51.52.35
+RS|Colinas|-29.23.16|51.52.11
+RS|Colorado|-28.31.26|52.59.39
+RS|Condor|-28.12.28|53.29.14
+RS|Constantina|-27.44.05|52.59.32
+RS|Coqueiros do Sul|-28.07.08|52.46.57
+RS|Coronel Barros|-28.22.59|54.03.56
+RS|Coronel Bicaco|-27.42.56|53.42.05
+RS|Cotiporã|-28.59.40|51.41.45
+RS|Coxilha|-28.07.38|52.17.46
+RS|Crissiumal|-27.29.59|54.06.04
+RS|Cristal|-30.59.59|52.02.54
+RS|Cristal do Sul|-27.27.14|53.14.47
+RS|Cruz Alta|-28.38.19|53.36.23
+RS|Cruzeiro do Sul|-29.30.46|51.59.07
+RS|David Canabarro|-28.23.15|51.50.53
+RS|Derrubadas|-27.15.53|53.51.39
+RS|Dezesseis de Novembro|-28.13.31|55.02.45
+RS|Dilermano de Aguiar|-29.42.23|54.12.30
+RS|Dois Irmãos|-29.34.49|51.05.07
+RS|Dois Irmãos das Missões|-27.39.33|53.31.53
+RS|Dois Lajeados|-28.59.01|51.50.13
+RS|Dom Feliciano|-30.42.15|52.06.27
+RS|Dom Pedrito|-30.58.58|54.40.23
+RS|Dom Pedro de Alcântara|-29.22.10|49.50.59
+RS|Dona Francisca|-29.37.18|53.21.26
+RS|Doutor Maurício Cardoso|-27.30.21|54.21.39
+RS|Doutor Ricardo|-29.05.09|51.59.30
+RS|Eldorado do Sul|-30.05.02|51.36.58
+RS|Encantado|-29.14.10|51.52.11
+RS|Encruzilhada do Sul|-30.32.38|52.31.19
+RS|Engenho Velho|-27.42.29|52.54.46
+RS|Entre Rios do Sul|-27.31.41|52.43.57
+RS|Entre-Ijuís|-28.21.32|54.16.04
+RS|Erebango|-27.51.19|52.18.07
+RS|Erechim|-27.38.03|52.16.26
+RS|Ernestina|-28.29.56|52.34.24
+RS|Erval Grande|-27.23.26|52.34.14
+RS|Erval Seco|-27.32.57|53.30.15
+RS|Esmeralda|-28.03.13|51.11.25
+RS|Esperança do Sul|-27.21.19|53.59.32
+RS|Espumoso|-28.43.29|52.50.59
+RS|Estação|-27.54.39|52.15.36
+RS|Estância Velha|-29.38.54|51.10.26
+RS|Esteio|-29.51.41|51.10.45
+RS|Estrela|-29.30.07|51.57.59
+RS|Estrela Velha|-29.10.36|53.09.33
+RS|Eugênio de Castro|-28.31.34|54.08.57
+RS|Fagundes Varela|-28.52.51|51.41.51
+RS|Farroupilha|-29.13.30|51.20.52
+RS|Faxinal do Soturno|-29.34.29|53.26.41
+RS|Faxinalzinho|-27.25.27|52.40.23
+RS|Fazenda Vilanova|-29.35.22|51.49.30
+RS|Feliz|-29.27.03|51.18.23
+RS|Flores da Cunha|-29.01.44|51.10.54
+RS|Floriano Peixoto|-27.51.38|52.05.04
+RS|Fontoura Xavier|-28.58.58|52.20.45
+RS|Formigueiro|-30.00.01|53.29.57
+RS|Fortaleza dos Valos|-28.47.50|53.13.22
+RS|Frederico Westphalen|-27.21.33|53.23.40
+RS|Garibaldi|-29.15.22|51.32.01
+RS|Garruchos|-28.11.01|55.38.20
+RS|Gaurama|-27.35.03|52.05.39
+RS|General Câmara|-29.54.18|51.45.37
+RS|Gentil|-28.25.49|52.02.08
+RS|Getúlio Vargas|-27.53.25|52.13.39
+RS|Giruá|-28.01.42|54.20.59
+RS|Glorinha|-29.52.50|50.46.59
+RS|Gramado|-29.22.43|50.52.26
+RS|Gramado dos Loureiros|-27.26.38|52.55.03
+RS|Gramado Xavier|-29.16.05|52.34.44
+RS|Gravataí|-29.56.40|50.59.31
+RS|Guabiju|-28.32.27|51.41.25
+RS|Guaíba|-30.06.50|51.19.30
+RS|Guaporé|-28.50.44|51.53.25
+RS|Guarani das Missões|-28.08.27|54.33.29
+RS|Harmonia|-29.32.52|51.25.32
+RS|Herval|-32.01.25|53.23.44
+RS|Herveiras|-29.24.24|52.39.09
+RS|Horizontina|-27.37.33|54.18.28
+RS|Hulha Negra|-31.24.15|53.52.10
+RS|Humaitá|-27.33.47|53.58.27
+RS|Ibarama|-29.25.10|53.08.05
+RS|Ibiaçá|-28.03.25|51.51.17
+RS|Ibiraiaras|-28.22.12|51.38.11
+RS|Ibirapuitã|-28.37.29|52.30.41
+RS|Ibirubá|-28.37.39|53.05.23
+RS|Igrejinha|-29.34.28|50.47.25
+RS|Ijuí|-28.23.16|53.54.53
+RS|Ilópolis|-28.55.36|52.07.27
+RS|Imbé|-29.58.31|50.07.41
+RS|Imigrante|-29.21.19|51.46.37
+RS|Independência|-27.50.00|54.11.18
+RS|Inhacorá|-27.52.59|54.01.01
+RS|Ipê|-28.49.12|51.16.45
+RS|Ipiranga do Sul|-27.56.12|52.25.35
+RS|Iraí|-27.11.37|53.15.02
+RS|Itaara|-29.36.35|53.45.53
+RS|Itacurubi|-28.47.43|55.14.07
+RS|Itapuca|-28.46.47|52.10.20
+RS|Itaqui|-29.07.31|56.33.11
+RS|Itatiba do Sul|-27.23.12|52.27.10
+RS|Ivorá|-29.31.13|53.34.50
+RS|Ivoti|-29.35.28|51.09.38
+RS|Jaboticaba|-27.37.51|53.16.38
+RS|Jacutinga|-27.43.44|52.32.06
+RS|Jaguarão|-32.33.58|53.22.33
+RS|Jaguari|-29.29.51|54.41.24
+RS|Jaquirana|-28.53.05|50.21.28
+RS|Jari|-29.17.29|54.13.26
+RS|Jóia|-28.38.48|54.07.20
+RS|Júlio de Castilhos|-29.13.37|53.40.54
+RS|Lagoa dos Três Cantos|-28.34.15|52.51.28
+RS|Lagoa Vermelha|-28.12.31|51.31.33
+RS|Lagoão|-29.14.06|52.47.45
+RS|Lajeado|-29.28.01|51.57.41
+RS|Lajeado do Bugre|-27.41.22|53.10.54
+RS|Lavras do Sul|-30.48.47|53.53.42
+RS|Liberato Salzano|-27.36.00|53.04.22
+RS|Lindolfo Collor|-29.35.49|51.12.34
+RS|Linha Nova|-29.28.03|51.12.03
+RS|Maçambara|-29.08.34|56.03.54
+RS|Machadinho|-27.34.01|51.40.04
+RS|Mampituba|-29.12.41|49.56.05
+RS|Manoel Viana|-29.35.21|55.28.58
+RS|Maquiné|-29.40.30|50.12.26
+RS|Maratá|-29.32.56|51.33.14
+RS|Marau|-28.26.57|52.12.00
+RS|Marcelino Ramos|-27.27.42|51.54.23
+RS|Mariana Pimentel|-30.21.09|51.34.59
+RS|Mariano Moro|-27.21.14|52.08.50
+RS|Marques de Souza|-29.19.39|52.05.33
+RS|Mata|-29.33.56|54.27.37
+RS|Mato Castelhano|-28.16.42|52.11.30
+RS|Mato Leitão|-29.31.28|52.07.43
+RS|Maximiliano de Almeida|-27.37.56|51.48.12
+RS|Minas do Leão|-30.07.36|52.02.51
+RS|Miraguaí|-27.29.39|53.41.10
+RS|Montauri|-28.39.07|52.04.12
+RS|Monte Alegre dos Campos|-28.40.59|50.46.58
+RS|Monte Belo do Sul|-29.09.46|51.37.54
+RS|Montenegro|-29.41.19|51.27.40
+RS|Mormaço|-28.41.32|52.41.32
+RS|Morrinhos do Sul|-29.21.54|49.56.05
+RS|Morro Redondo|-31.35.18|52.37.55
+RS|Morro Reuter|-29.32.17|51.04.51
+RS|Mostardas|-31.06.25|50.55.16
+RS|Muçum|-29.09.53|51.52.04
+RS|Muitos Capões|-28.18.51|51.10.54
+RS|Muliterno|-28.19.46|51.46.03
+RS|Não-Me-Toque|-28.27.33|52.49.15
+RS|Nicolau Vergueiro|-28.32.09|52.27.51
+RS|Nonoai|-27.21.42|52.46.17
+RS|Nova Alvorada|-28.40.39|52.09.59
+RS|Nova Araçá|-28.39.34|51.44.42
+RS|Nova Bassano|-28.43.25|51.42.17
+RS|Nova Boa Vista|-27.59.39|52.58.44
+RS|Nova Bréscia|-29.12.52|52.01.39
+RS|Nova Candelária|-27.36.26|54.06.25
+RS|Nova Esperança do Sul|-29.24.35|54.49.45
+RS|Nova Hartz|-29.34.57|50.54.08
+RS|Nova Pádua|-29.01.43|51.18.24
+RS|Nova Palma|-29.28.18|53.28.08
+RS|Nova Petrópolis|-29.22.35|51.06.52
+RS|Nova Prata|-28.47.02|51.36.36
+RS|Nova Ramada|-28.03.51|53.41.50
+RS|Nova Roma do Sul|-28.59.25|51.24.29
+RS|Nova Santa Rita|-29.51.24|51.16.26
+RS|Novo Barreiro|-27.54.33|53.06.29
+RS|Novo Cabrais|-29.44.07|52.56.54
+RS|Novo Hamburgo|-29.40.42|51.07.50
+RS|Novo Machado|-27.34.25|54.30.19
+RS|Novo Tiradentes|-27.33.45|53.10.55
+RS|Osório|-29.53.12|50.16.11
+RS|Paim Filho|-27.42.38|51.45.38
+RS|Palmares do Sul|-30.15.28|50.30.35
+RS|Palmeira das Missões|-27.53.58|53.18.49
+RS|Palmitinho|-27.21.18|53.33.18
+RS|Panambi|-28.17.33|53.30.06
+RS|Pantano Grande|-30.11.29|52.22.25
+RS|Paraí|-28.35.39|51.47.08
+RS|Paraíso do Sul|-29.40.07|53.08.56
+RS|Pareci Novo|-29.38.18|51.23.51
+RS|Parobé|-29.37.43|50.50.05
+RS|Passa Sete|-29.27.12|52.57.41
+RS|Passo do Sobrado|-29.44.53|52.16.29
+RS|Passo Fundo|-28.15.46|52.24.24
+RS|Paverama|-29.33.06|51.43.49
+RS|Pedro Osório|-31.51.51|52.49.24
+RS|Pejuçara|-28.25.24|53.39.21
+RS|Pelotas|-31.46.19|52.20.33
+RS|Picada Café|-29.26.39|51.08.11
+RS|Pinhal|-27.30.39|53.12.54
+RS|Pinhal Grande|-29.20.46|53.18.24
+RS|Pinheirinho do Vale|-27.12.35|53.36.43
+RS|Pinheiro Machado|-31.34.42|53.22.52
+RS|Pirapó|-28.02.41|55.11.56
+RS|Piratini|-31.26.53|53.06.15
+RS|Planalto|-27.19.44|53.03.31
+RS|Poço das Antas|-29.26.58|51.40.15
+RS|Pontão|-28.03.33|52.40.38
+RS|Ponte Preta|-27.39.14|52.29.17
+RS|Portão|-29.42.06|51.14.31
+RS|Porto Lucena|-27.51.22|55.00.59
+RS|Porto Mauá|-27.34.31|54.40.05
+RS|Porto Vera Cruz|-27.44.10|54.54.02
+RS|Porto Xavier|-27.54.20|55.08.15
+RS|Pouso Novo|-29.10.15|52.12.27
+RS|Presidente Lucena|-29.31.10|51.10.41
+RS|Progresso|-29.14.39|52.18.44
+RS|Protásio Alves|-28.45.26|51.28.22
+RS|Putinga|-29.00.07|52.09.15
+RS|Quaraí|-30.23.15|56.27.05
+RS|Quevedos|-29.21.09|54.04.18
+RS|Quinze de Novembro|-28.44.54|53.05.37
+RS|Redentora|-27.39.52|53.38.16
+RS|Relvado|-29.06.41|52.04.18
+RS|Restinga Seca|-29.48.48|53.22.30
+RS|Rio dos µndios|-27.18.01|52.50.27
+RS|Rio Grande|-32.02.06|52.05.55
+RS|Rio Pardo|-29.59.23|52.22.41
+RS|Riozinho|-29.38.28|50.27.09
+RS|Roca Sales|-29.17.03|51.52.03
+RS|Rodeio Bonito|-27.28.14|53.10.08
+RS|Rolante|-29.39.02|50.34.33
+RS|Ronda Alta|-27.46.00|52.48.07
+RS|Rondinha|-27.49.41|52.54.35
+RS|Roque Gonzales|-28.07.53|55.01.32
+RS|Rosário do Sul|-30.15.30|54.54.51
+RS|Sagrada Família|-27.42.25|53.08.08
+RS|Saldanha Marinho|-28.23.36|53.05.41
+RS|Salto do Jacuí|-29.05.18|53.12.45
+RS|Salvador das Missões|-28.07.35|54.50.07
+RS|Salvador do Sul|-29.26.18|51.30.41
+RS|Sananduva|-27.56.59|51.48.24
+RS|Santa Bárbara do Sul|-28.21.30|53.14.50
+RS|Santa Clara do Sul|-29.28.08|52.05.15
+RS|Santa Cruz do Sul|-29.43.03|52.25.33
+RS|Santa Maria|-29.41.03|53.48.25
+RS|Santa Maria do Herval|-29.29.53|50.59.34
+RS|Santa Rosa|-27.52.15|54.28.53
+RS|Santa Tereza|-29.10.08|51.44.07
+RS|Santa Vitória do Palmar|-33.31.08|53.22.05
+RS|Santana da Boa Vista|-30.52.19|53.06.55
+RS|Santana do Livramento|-30.53.27|55.31.58
+RS|Santiago|-29.11.30|54.52.02
+RS|Santo Ângelo|-28.17.57|54.15.47
+RS|Santo Antônio da Patrulha|-29.49.03|50.31.11
+RS|Santo Antônio das Missões|-28.30.41|55.13.40
+RS|Santo Antônio do Palma|-28.29.49|52.01.29
+RS|Santo Antônio do Planalto|-28.23.46|52.41.28
+RS|Santo Augusto|-27.51.03|53.46.38
+RS|Santo Cristo|-27.49.26|54.39.46
+RS|Santo Expedito do Sul|-27.54.30|51.38.41
+RS|São Borja|-28.39.38|56.00.16
+RS|São Domingos do Sul|-28.31.51|51.53.16
+RS|São Francisco de Assis|-29.33.01|55.07.52
+RS|São Francisco de Paula|-29.26.53|50.35.01
+RS|São Gabriel|-30.20.11|54.19.12
+RS|São Jerônimo|-29.57.33|51.43.20
+RS|São João da Urtiga|-27.49.13|51.49.39
+RS|São João do Polêsine|-29.36.50|53.26.44
+RS|São Jorge|-28.30.02|51.42.13
+RS|São José das Missões|-27.46.48|53.07.18
+RS|São José do Herval|-29.02.39|52.17.43
+RS|São José do Hortêncio|-29.31.50|51.14.53
+RS|São José do Inhacorá|-27.43.29|54.07.45
+RS|São José do Norte|-32.00.53|52.02.30
+RS|São José do Ouro|-27.46.10|51.35.40
+RS|São José dos Ausentes|-28.44.54|50.03.57
+RS|São Leopoldo|-29.45.37|51.08.50
+RS|São Lourenço do Sul|-31.21.55|51.58.42
+RS|São Luiz Gonzaga|-28.24.30|54.57.39
+RS|São Marcos|-28.58.16|51.04.05
+RS|São Martinho|-27.42.26|53.58.07
+RS|São Martinho da Serra|-29.32.16|53.51.17
+RS|São Miguel das Missões|-28.33.46|54.33.15
+RS|São Nicolau|-28.10.57|55.16.02
+RS|São Paulo das Missões|-28.01.17|54.56.10
+RS|São Pedro da Serra|-29.25.16|51.30.48
+RS|São Pedro do Butiá|-28.07.28|54.53.14
+RS|São Pedro do Sul|-29.37.14|54.10.44
+RS|São Sebastião do Caí|-29.35.12|51.22.32
+RS|São Sepé|-30.09.38|53.33.55
+RS|São Valentim|-27.33.30|52.31.25
+RS|São Valentim do Sul|-29.02.49|51.45.54
+RS|São Valério do Sul|-27.47.14|53.56.13
+RS|São Vendelino|-29.22.08|51.22.37
+RS|São Vicente do Sul|-29.41.30|54.40.46
+RS|Sapiranga|-29.38.17|51.00.25
+RS|Sapucaia do Sul|-29.49.29|51.08.54
+RS|Sarandi|-27.56.38|52.55.23
+RS|Seberi|-27.28.41|53.24.09
+RS|Sede Nova|-27.38.05|53.56.44
+RS|Segredo|-29.20.29|52.58.45
+RS|Selbach|-28.37.43|52.57.09
+RS|Senador Salgado Filho|-28.01.51|54.32.35
+RS|Sentinela do Sul|-30.36.41|51.34.44
+RS|Serafina Corrêa|-28.42.42|51.56.06
+RS|Sério|-29.23.00|52.16.07
+RS|Sertão|-27.58.47|52.15.35
+RS|Sertão Santana|-30.27.37|51.36.12
+RS|Sete de Setembro|-28.07.52|54.27.48
+RS|Severiano de Almeida|-27.25.59|52.06.58
+RS|Silveira Martins|-29.38.33|53.35.08
+RS|Sinimbu|-29.32.19|52.31.18
+RS|Sobradinho|-29.25.17|53.01.43
+RS|Soledade|-28.49.06|52.30.37
+RS|Tabaí|-29.38.35|51.40.56
+RS|Tapejara|-28.04.05|52.00.50
+RS|Tapera|-28.37.34|52.52.12
+RS|Tapes|-30.40.24|51.23.45
+RS|Taquara|-29.39.02|50.46.50
+RS|Taquari|-29.47.59|51.51.52
+RS|Taquaruçu do Sul|-27.24.00|53.28.02
+RS|Tavares|-31.17.14|51.05.37
+RS|Tenente Portela|-27.22.16|53.45.30
+RS|Terra de Areia|-29.35.07|50.04.15
+RS|Teutônia|-29.26.53|51.48.23
+RS|Tiradentes do Sul|-27.23.51|54.05.02
+RS|Toropi|-29.28.42|54.13.41
+RS|Torres|-29.20.07|49.43.37
+RS|Tramandaí|-29.59.05|50.08.01
+RS|Travesseiro|-29.17.39|52.03.19
+RS|Três Arroios|-27.29.53|52.08.56
+RS|Três Cachoeiras|-29.27.20|49.55.28
+RS|Três Coroas|-29.31.01|50.46.40
+RS|Três de Maio|-27.46.24|54.14.24
+RS|Três Forquilhas|-29.32.13|50.03.52
+RS|Três Palmeiras|-27.36.53|52.50.37
+RS|Três Passos|-27.27.20|53.55.55
+RS|Trindade do Sul|-27.31.13|52.53.00
+RS|Triunfo|-29.56.36|51.43.05
+RS|Tucunduva|-27.39.25|54.26.25
+RS|Tunas|-29.06.11|52.57.22
+RS|Tupanci do Sul|-27.55.31|51.32.11
+RS|Tupanciretã|-29.04.50|53.50.09
+RS|Tupandi|-29.28.35|51.25.16
+RS|Tuparendi|-27.45.23|54.28.54
+RS|Turuçu|-31.25.18|52.10.42
+RS|Ubiretama|-28.02.46|54.40.50
+RS|União da Serra|-28.47.43|52.02.13
+RS|Unistalda|-29.02.50|55.09.01
+RS|Uruguaiana|-29.45.17|57.05.18
+RS|Vacaria|-28.30.44|50.56.02
+RS|Vale do Sol|-29.36.13|52.40.59
+RS|Vale Real|-29.23.54|51.15.13
+RS|Vale Verde|-29.47.13|52.11.03
+RS|Vanini|-28.28.42|51.50.42
+RS|Venâncio Aires|-29.36.23|52.11.31
+RS|Vera Cruz|-29.42.53|52.30.20
+RS|Veranópolis|-28.56.10|51.32.58
+RS|Vespasiano Correa|-29.04.03|51.51.33
+RS|Viadutos|-27.34.10|52.01.13
+RS|Viamão|-30.04.52|51.01.24
+RS|Vicente Dutra|-27.09.43|53.24.19
+RS|Victor Graeff|-28.33.37|52.44.54
+RS|Vila Flores|-28.51.46|51.32.00
+RS|Vila Lângaro|-28.06.26|52.08.39
+RS|Vila Maria|-28.32.05|52.09.13
+RS|Vila Nova do Sul|-30.20.38|53.52.58
+RS|Vista Alegre|-27.22.01|53.29.25
+RS|Vista Alegre do Prata|-28.48.31|51.47.25
+RS|Vista Gaúcha|-27.28.45|53.31.25
+RS|Vitória das Missões|-28.21.04|54.29.47
+RS|Xangri-lá|-29.48.03|50.02.37
+SC|Abdon Batista|-27.36.40|51.01.21
+SC|Abelardo Luz|-26.33.53|52.19.42
+SC|Agrolândia|-27.24.42|49.49.32
+SC|Agronômica|-27.15.54|49.42.40
+SC|Água Doce|-26.59.52|51.33.22
+SC|Águas de Chapecó|-27.04.13|52.59.12
+SC|Águas Frias|-26.52.48|52.51.33
+SC|Águas Mornas|-27.41.38|48.49.25
+SC|Alfredo Wagner|-27.42.01|49.20.01
+SC|Alto Bela Vista|-27.27.27|51.52.44
+SC|Anchieta|-26.32.04|53.19.53
+SC|Angelina|-27.34.07|48.59.07
+SC|Anita Garibaldi|-27.41.21|51.07.48
+SC|Anitápolis|-27.54.07|49.07.43
+SC|Antônio Carlos|-27.31.01|48.46.03
+SC|Apiúna|-27.02.08|49.23.23
+SC|Arabutã|-27.09.37|52.08.30
+SC|Araquari|-26.22.12|48.43.20
+SC|Araranguá|-28.56.05|49.29.09
+SC|Armazém|-28.15.43|49.01.03
+SC|Arroio Trinta|-26.55.58|51.20.21
+SC|Arvoredo|-27.04.28|52.27.21
+SC|Ascurra|-26.57.19|49.22.32
+SC|Atalanta|-27.25.12|49.46.52
+SC|Aurora|-27.18.54|49.38.15
+SC|Balneário Arroio do Silva|-28.59.02|49.24.46
+SC|Balneário Barra do Sul|-26.27.20|48.36.43
+SC|Balneário Camboriú|-26.59.26|48.38.05
+SC|Balneário Gaivota|-29.09.24|49.34.46
+SC|Bandeirante|-26.46.07|53.38.18
+SC|Barra Bonita|-26.39.16|53.26.24
+SC|Barra Velha|-26.37.56|48.41.05
+SC|Bela Vista do Toldo|-26.16.24|50.27.52
+SC|Belmonte|-26.50.29|53.34.32
+SC|Benedito Novo|-26.46.58|49.21.52
+SC|Biguaçu|-27.29.39|48.39.20
+SC|Blumenau|-26.55.10|49.03.58
+SC|Bocaina do Sul|-27.44.40|49.56.40
+SC|Bom Jardim da Serra|-28.20.13|49.37.29
+SC|Bom Jesus|-26.44.02|52.23.39
+SC|Bom Jesus do Oeste|-26.41.23|53.05.54
+SC|Bom Retiro|-27.47.50|49.29.21
+SC|Bombinhas|-27.07.54|48.31.40
+SC|Botuverá|-27.11.58|49.04.29
+SC|Braço do Norte|-28.16.30|49.09.56
+SC|Braço do Trombudo|-27.21.28|49.53.08
+SC|Brunópolis|-27.18.21|50.52.06
+SC|Brusque|-27.05.53|48.55.03
+SC|Caçador|-26.46.31|51.00.54
+SC|Caibi|-27.04.18|53.14.52
+SC|Calmon|-26.35.59|51.05.50
+SC|Camboriú|-27.01.31|48.39.16
+SC|Campo Alegre|-26.11.33|49.15.56
+SC|Campo Belo do Sul|-27.53.57|50.45.39
+SC|Campo Erê|-26.23.39|53.04.41
+SC|Campos Novos|-27.24.06|51.13.30
+SC|Canelinha|-27.15.54|48.46.04
+SC|Canoinhas|-26.10.38|50.23.24
+SC|Capão Alto|-27.56.13|50.30.43
+SC|Capinzal|-27.20.37|51.36.43
+SC|Capivari de Baixo|-28.26.41|48.57.28
+SC|Catanduvas|-27.04.14|51.39.42
+SC|Caxambu do Sul|-27.09.40|52.52.43
+SC|Celso Ramos|-27.38.04|51.20.11
+SC|Cerro Negro|-27.47.43|50.52.33
+SC|Chapadão do Lageado|-27.35.26|49.33.14
+SC|Chapecó|-27.05.47|52.37.06
+SC|Cocal do Sul|-28.36.04|49.19.33
+SC|Concórdia|-27.14.03|52.01.40
+SC|Cordilheira Alta|-26.59.04|52.36.12
+SC|Coronel Freitas|-26.54.31|52.42.11
+SC|Coronel Martins|-26.30.44|52.40.09
+SC|Correia Pinto|-27.35.05|50.21.40
+SC|Corupá|-26.25.31|49.14.35
+SC|Criciúma|-28.40.39|49.22.11
+SC|Cunha Porã|-26.53.37|53.10.05
+SC|Cunhataí|-26.58.10|53.05.36
+SC|Curitibanos|-27.16.58|50.35.04
+SC|Descanso|-26.49.34|53.30.06
+SC|Dionísio Cerqueira|-26.15.18|53.38.23
+SC|Dona Emma|-26.59.05|49.43.32
+SC|Doutor Pedrinho|-26.42.52|49.29.00
+SC|Entre Rios|-26.43.25|52.33.38
+SC|Ermo|-28.58.57|49.38.37
+SC|Erval Velho|-27.16.32|51.26.31
+SC|Faxinal dos Guedes|-26.51.10|52.15.37
+SC|Flor do Sertão|-26.46.39|53.20.51
+SC|Formosa do Sul|-26.38.49|52.47.39
+SC|Forquilhinha|-28.44.51|49.28.20
+SC|Fraiburgo|-27.01.34|50.55.17
+SC|Frei Rogério|-27.10.29|50.48.17
+SC|Galvão|-26.27.18|52.41.09
+SC|Garopaba|-28.01.24|48.36.48
+SC|Garuva|-26.01.36|48.51.18
+SC|Gaspar|-26.55.53|48.57.32
+SC|Governador Celso Ramos|-27.18.53|48.33.33
+SC|Grão Pará|-28.11.06|49.12.53
+SC|Gravatal|-28.19.52|49.02.07
+SC|Guabiruba|-27.05.09|48.58.52
+SC|Guaraciaba|-26.35.57|53.31.05
+SC|Guaramirim|-26.28.23|49.00.10
+SC|Guarujá do Sul|-26.23.07|53.31.40
+SC|Guatambú|-27.07.55|52.47.14
+SC|Herval d'Oeste|-27.11.37|51.29.41
+SC|Ibiam|-27.10.53|51.14.13
+SC|Ibicaré|-27.05.31|51.21.54
+SC|Ibirama|-27.03.25|49.31.04
+SC|Içara|-28.42.48|49.18.00
+SC|Ilhota|-26.53.59|48.49.38
+SC|Imaruí|-28.20.29|48.49.12
+SC|Imbituba|-28.14.24|48.40.13
+SC|Imbuia|-27.29.34|49.25.26
+SC|Indaial|-26.53.52|49.13.54
+SC|Iomerê|-27.00.15|51.14.32
+SC|Ipira|-27.24.13|51.46.23
+SC|Iporã do Oeste|-26.59.18|53.32.07
+SC|Ipuaçu|-26.37.53|52.27.18
+SC|Ipumirim|-27.04.36|52.08.08
+SC|Iraceminha|-26.49.21|53.16.28
+SC|Irani|-27.01.29|51.54.06
+SC|Irati|-26.39.23|52.53.32
+SC|Irineópolis|-26.14.19|50.47.59
+SC|Itá|-27.17.26|52.19.23
+SC|Itaiópolis|-26.20.11|49.54.23
+SC|Itajaí|-26.54.28|48.39.43
+SC|Itapema|-27.05.25|48.36.41
+SC|Itapiranga|-27.10.10|53.42.44
+SC|Itapoá|-26.07.01|48.36.58
+SC|Ituporanga|-27.24.52|49.36.09
+SC|Jaborá|-27.10.33|51.44.01
+SC|Jacinto Machado|-28.59.51|49.45.49
+SC|Jaguaruna|-28.36.54|49.01.32
+SC|Jaraguá do Sul|-26.29.10|49.04.00
+SC|Jardinópolis|-26.43.18|52.51.35
+SC|Joaçaba|-27.10.41|51.30.17
+SC|Joinville|-26.18.16|48.50.44
+SC|José Boiteux|-26.57.30|49.37.41
+SC|Jupiá|-26.23.54|52.43.40
+SC|Lacerdópolis|-27.15.36|51.33.21
+SC|Lages|-27.48.58|50.19.34
+SC|Laguna|-28.28.57|48.46.51
+SC|Lajeado Grande|-26.51.29|52.34.02
+SC|Laurentino|-27.13.00|49.43.59
+SC|Lauro Muller|-28.23.34|49.23.48
+SC|Lebon Régis|-26.55.44|50.41.43
+SC|Leoberto Leal|-27.30.25|49.17.13
+SC|Lindóia do Sul|-27.03.12|52.04.00
+SC|Lontras|-27.09.58|49.32.31
+SC|Luiz Alves|-26.43.14|48.55.58
+SC|Luzerna|-27.07.58|51.28.02
+SC|Macieira|-26.51.20|51.22.41
+SC|Mafra|-26.06.41|49.48.19
+SC|Major Gercino|-27.25.05|48.57.05
+SC|Major Vieira|-26.22.04|50.19.41
+SC|Maracajá|-28.50.48|49.27.10
+SC|Maravilha|-26.45.39|53.10.21
+SC|Marema|-26.48.08|52.37.31
+SC|Massaranduba|-26.36.38|49.00.30
+SC|Matos Costa|-26.28.23|51.08.54
+SC|Meleiro|-28.49.43|49.38.09
+SC|Mirim Doce|-27.11.47|50.04.36
+SC|Modelo|-26.46.42|53.03.19
+SC|Mondaí|-27.06.10|53.24.07
+SC|Monte Carlo|-27.13.22|50.58.47
+SC|Monte Castelo|-26.27.44|50.13.52
+SC|Morro da Fumaça|-28.39.03|49.12.36
+SC|Morro Grande|-28.48.02|49.43.15
+SC|Navegantes|-26.53.56|48.39.15
+SC|Nova Erechim|-26.54.09|52.54.21
+SC|Nova Itaberaba|-26.56.23|52.48.44
+SC|Nova Trento|-27.17.09|48.55.47
+SC|Nova Veneza|-28.38.12|49.29.52
+SC|Novo Horizonte|-26.26.40|52.50.01
+SC|Orleans|-28.21.32|49.17.29
+SC|Otacílio Costa|-27.28.59|50.07.19
+SC|Ouro|-27.20.29|51.37.05
+SC|Ouro Verde|-26.41.40|52.18.43
+SC|Paial|-27.15.08|52.29.53
+SC|Painel|-27.55.44|50.06.18
+SC|Palhoça|-27.38.43|48.40.04
+SC|Palma Sola|-26.20.51|53.16.42
+SC|Palmeira|-27.34.58|50.09.34
+SC|Palmitos|-27.04.03|53.09.40
+SC|Papanduva|-26.22.13|50.08.40
+SC|Paraíso|-26.36.50|53.40.19
+SC|Passo de Torres|-29.20.06|49.43.22
+SC|Passos Maia|-26.46.48|52.03.34
+SC|Paulo Lopes|-27.57.42|48.41.01
+SC|Pedras Grandes|-28.26.09|49.11.06
+SC|Penha|-26.46.10|48.38.45
+SC|Peritiba|-27.22.23|51.54.14
+SC|Petrolândia|-27.32.07|49.41.53
+SC|Piçarras|-26.45.50|48.40.18
+SC|Pinhalzinho|-26.50.53|52.59.31
+SC|Pinheiro Preto|-27.03.02|51.13.51
+SC|Piratuba|-27.25.11|51.46.19
+SC|Planalto Alegre|-27.04.13|52.51.56
+SC|Pomerode|-26.44.26|49.10.37
+SC|Ponte Alta|-27.29.03|50.22.49
+SC|Ponte Alta do Norte|-27.09.30|50.27.52
+SC|Ponte Serrada|-26.52.18|52.00.57
+SC|Porto Belo|-27.09.28|48.33.11
+SC|Porto União|-26.14.17|51.04.42
+SC|Pouso Redondo|-27.15.29|49.56.02
+SC|Praia Grande|-29.11.48|49.57.01
+SC|Presidente Castelo Branco|-27.13.23|51.48.26
+SC|Presidente Getúlio|-27.03.02|49.37.22
+SC|Presidente Nereu|-27.16.38|49.23.25
+SC|Princesa|-26.26.31|53.35.54
+SC|Quilombo|-26.43.34|52.43.14
+SC|Rancho Queimado|-27.40.21|49.01.18
+SC|Rio das Antas|-26.53.55|51.04.28
+SC|Rio do Campo|-26.56.56|50.08.29
+SC|Rio do Sul|-27.12.51|49.38.35
+SC|Rio d'Oeste|-27.11.33|49.47.48
+SC|Rio dos Cedros|-26.44.18|49.16.27
+SC|Rio Fortuna|-28.07.52|49.06.19
+SC|Rio Negrinho|-26.15.16|49.31.06
+SC|Rio Rufino|-27.51.38|49.46.45
+SC|Riqueza|-27.04.01|53.19.18
+SC|Rodeio|-26.55.22|49.21.59
+SC|Romelândia|-26.40.34|53.18.52
+SC|Salete|-26.58.48|49.59.59
+SC|Saltinho|-26.36.33|53.03.22
+SC|Salto Veloso|-26.54.19|51.24.23
+SC|Sangão|-28.38.16|49.07.45
+SC|Santa Cecília|-26.57.39|50.25.37
+SC|Santa Helena|-26.56.15|53.37.09
+SC|Santa Rosa de Lima|-28.02.21|49.07.40
+SC|Santa Rosa do Sul|-29.08.10|49.42.00
+SC|Santa Terezinha|-26.46.43|50.00.29
+SC|Santa Terezinha do Progresso|-26.37.08|53.12.06
+SC|Santiago do Sul|-26.38.22|52.41.05
+SC|Santo Amaro da Imperatriz|-27.41.17|48.46.43
+SC|São Bento do Sul|-26.15.01|49.22.43
+SC|São Bernardino|-26.28.12|52.57.52
+SC|São Bonifácio|-27.54.05|48.55.45
+SC|São Carlos|-27.04.39|53.00.14
+SC|São Cristovão do Sul|-27.16.00|50.26.26
+SC|São Domingos|-26.33.29|52.31.54
+SC|São Francisco do Sul|-26.14.36|48.38.17
+SC|São João Batista|-27.16.34|48.50.58
+SC|São João do Itaperiú|-26.37.04|48.46.05
+SC|São João do Oeste|-27.05.53|53.35.38
+SC|São João do Sul|-29.13.24|49.48.36
+SC|São Joaquim|-28.17.38|49.55.54
+SC|São José|-27.36.55|48.37.39
+SC|São José do Cedro|-26.27.18|53.29.39
+SC|São José do Cerrito|-27.39.47|50.34.48
+SC|São Lourenço d'Oeste|-26.21.33|52.51.04
+SC|São Ludgero|-28.19.33|49.10.36
+SC|São Martinho|-28.09.53|48.58.46
+SC|São Miguel da Boa Vista|-26.41.25|53.15.05
+SC|São Miguel d'Oeste|-26.43.31|53.31.05
+SC|São Pedro de Alcântara|-27.33.58|48.48.19
+SC|Saudades|-26.55.27|53.00.11
+SC|Schroeder|-26.24.45|49.04.23
+SC|Seara|-27.08.58|52.18.38
+SC|Serra Alta|-26.43.45|53.02.32
+SC|Siderópolis|-28.35.52|49.25.28
+SC|Sombrio|-29.06.50|49.37.00
+SC|Sul Brasil|-26.44.10|52.57.53
+SC|Taió|-27.06.59|49.59.53
+SC|Tangará|-27.06.17|51.14.50
+SC|Tigrinhos|-26.41.16|53.09.29
+SC|Tijucas|-27.14.29|48.38.01
+SC|Timbé do Sul|-28.49.49|49.50.50
+SC|Timbó|-26.49.24|49.16.18
+SC|Timbó Grande|-26.36.54|50.40.27
+SC|Três Barras|-26.06.23|50.19.20
+SC|Treviso|-28.30.56|49.27.27
+SC|Treze de Maio|-28.33.32|49.08.52
+SC|Treze Tílias|-27.00.06|51.24.23
+SC|Trombudo Central|-27.17.57|49.47.25
+SC|Tubarão|-28.28.00|49.00.25
+SC|Tunápolis|-26.58.08|53.38.21
+SC|Turvo|-28.55.34|49.40.45
+SC|União do Oeste|-26.45.40|52.51.19
+SC|Urubici|-28.00.54|49.35.30
+SC|Urupema|-27.57.10|49.52.23
+SC|Urussanga|-28.31.04|49.19.15
+SC|Vargeão|-26.51.49|52.09.18
+SC|Vargem|-27.29.21|50.58.30
+SC|Vargem Bonita|-27.00.24|51.44.24
+SC|Vidal Ramos|-27.23.31|49.21.21
+SC|Videira|-27.00.30|51.09.06
+SC|Vitor Meireles|-26.52.51|49.49.58
+SC|Witmarsum|-26.55.34|49.47.45
+SC|Xanxerê|-26.52.37|52.24.15
+SC|Xavantina|-27.04.07|52.20.31
+SC|Xaxim|-26.57.42|52.32.05
+SC|Zortéa|-27.27.05|51.33.19
+SE|Amparo de São Francisco|-10.08.02|36.55.47
+SE|Aquidabã|-10.16.53|37.01.07
+SE|Arauá|-11.15.44|37.37.11
+SE|Areia Branca|-10.45.28|37.18.55
+SE|Barra dos Coqueiros|-10.54.32|37.02.19
+SE|Boquim|-11.08.49|37.37.14
+SE|Brejo Grande|-10.25.46|36.27.58
+SE|Campo do Brito|-10.44.00|37.29.36
+SE|Canhoba|-10.08.18|36.59.05
+SE|Canindé de São Francisco|-09.39.36|37.47.22
+SE|Capela|-10.30.12|37.03.10
+SE|Carira|-10.21.39|37.42.04
+SE|Carmópolis|-10.38.53|36.59.20
+SE|Cedro de São João|-10.15.06|36.53.04
+SE|Cristinápolis|-11.28.32|37.45.19
+SE|Cumbe|-10.21.18|37.10.59
+SE|Divina Pastora|-10.41.19|37.08.54
+SE|Estância|-11.16.06|37.26.18
+SE|Feira Nova|-10.15.51|37.18.47
+SE|Frei Paulo|-10.32.58|37.32.04
+SE|Gararu|-09.58.03|37.05.00
+SE|General Maynard|-10.41.20|36.59.02
+SE|Gracho Cardoso|-10.13.36|37.11.54
+SE|Ilha das Flores|-10.26.11|36.32.24
+SE|Indiaroba|-11.31.09|37.30.42
+SE|Itabaiana|-10.41.06|37.25.31
+SE|Itabaianinha|-11.16.26|37.47.24
+SE|Itabi|-10.07.35|37.06.11
+SE|Itaporanga d'Ajuda|-10.59.53|37.18.38
+SE|Japaratuba|-10.35.36|36.56.25
+SE|Japoatã|-10.20.48|36.48.04
+SE|Lagarto|-10.55.02|37.39.00
+SE|Laranjeiras|-10.48.23|37.10.12
+SE|Macambira|-10.39.59|37.32.27
+SE|Malhada dos Bois|-10.20.58|36.55.27
+SE|Malhador|-10.39.28|37.18.17
+SE|Maruim|-10.44.15|37.04.54
+SE|Moita Bonita|-10.34.39|37.20.34
+SE|Monte Alegre de Sergipe|-10.01.38|37.33.44
+SE|Muribeca|-10.25.38|36.57.33
+SE|Neópolis|-10.19.12|36.34.46
+SE|Nossa Senhora Aparecida|-10.26.33|37.29.21
+SE|Nossa Senhora da Glória|-10.13.06|37.25.13
+SE|Nossa Senhora das Dores|-10.29.30|37.11.36
+SE|Nossa Senhora de Lourdes|-10.04.46|37.03.28
+SE|Nossa Senhora do Socorro|-10.51.18|37.07.34
+SE|Pacatuba|-10.27.12|36.39.05
+SE|Pedra Mole|-10.37.00|37.41.13
+SE|Pedrinhas|-11.11.30|37.40.26
+SE|Pinhão|-10.34.02|37.43.22
+SE|Pirambu|-10.44.16|36.51.22
+SE|Poço Redondo|-09.48.18|37.41.04
+SE|Poço Verde|-10.42.30|38.11.00
+SE|Porto da Folha|-09.55.02|37.16.42
+SE|Propriá|-10.12.40|36.50.25
+SE|Riachão do Dantas|-11.04.08|37.43.30
+SE|Riachuelo|-10.43.42|37.11.14
+SE|Ribeirópolis|-10.32.22|37.25.00
+SE|Rosário do Catete|-10.41.46|37.01.50
+SE|Salgado|-11.01.55|37.28.30
+SE|Santa Luzia do Itanhy|-11.21.03|37.26.54
+SE|Santa Rosa de Lima|-10.38.47|37.11.38
+SE|Santana do São Francisco|-10.17.28|36.36.29
+SE|Santo Amaro das Brotas|-10.47.20|37.03.16
+SE|São Cristóvão|-11.00.53|37.12.23
+SE|São Domingos|-10.47.29|37.34.04
+SE|São Francisco|-10.20.00|36.53.16
+SE|São Miguel do Aleixo|-10.23.17|37.22.52
+SE|Simão Dias|-10.44.18|37.48.40
+SE|Siriri|-10.36.14|37.06.46
+SE|Telha|-10.12.30|36.53.02
+SE|Tobias Barreto|-11.11.02|37.59.54
+SE|Tomar do Geru|-11.22.24|37.50.26
+SE|Umbaúba|-11.23.00|37.39.28
+SP|Adamantina|-21.41.07|51.04.21
+SP|Adolfo|-21.14.06|49.38.37
+SP|Aguaí|-22.03.34|46.58.43
+SP|Águas da Prata|-21.56.12|46.43.00
+SP|Águas de Lindóia|-22.28.35|46.37.58
+SP|Águas de Santa Bárbara|-22.52.50|49.14.20
+SP|Águas de São Pedro|-22.35.58|47.52.34
+SP|Agudos|-22.28.09|48.59.15
+SP|Alambari|-23.33.03|47.53.55
+SP|Alfredo Marcondes|-21.57.19|51.24.46
+SP|Altair|-20.31.25|49.03.32
+SP|Altinópolis|-21.01.32|47.22.26
+SP|Alto Alegre|-21.34.50|50.09.49
+SP|Alumínio|-23.32.06|47.15.43
+SP|Álvares Florence|-20.19.15|49.54.38
+SP|Álvares Machado|-22.04.46|51.28.19
+SP|Álvaro de Carvalho|-22.05.21|49.43.08
+SP|Alvinlândia|-22.26.39|49.45.47
+SP|Americana|-22.44.21|47.19.53
+SP|Américo Brasiliense|-21.43.28|48.06.06
+SP|Américo de Campos|-20.17.57|49.43.54
+SP|Amparo|-22.42.04|46.45.52
+SP|Analândia|-22.07.35|47.39.47
+SP|Andradina|-20.53.46|51.22.46
+SP|Angatuba|-23.29.23|48.24.46
+SP|Anhembi|-22.47.22|48.07.38
+SP|Anhumas|-22.17.43|51.23.14
+SP|Aparecida|-22.50.49|45.13.47
+SP|Aparecida d'Oeste|-20.26.58|50.52.47
+SP|Apiaí|-24.30.34|48.50.33
+SP|Araçariguama|-23.26.19|47.03.41
+SP|Araçatuba|-21.12.32|50.25.58
+SP|Araçoiaba da Serra|-23.30.19|47.36.51
+SP|Aramina|-20.05.25|47.47.09
+SP|Arandu|-23.08.04|49.03.14
+SP|Arapeí|-22.40.26|44.26.52
+SP|Araraquara|-21.47.40|48.10.32
+SP|Araras|-22.21.25|47.23.03
+SP|Arco-Íris|-21.46.21|50.27.54
+SP|Arealva|-22.01.43|48.54.40
+SP|Areias|-22.34.47|44.41.49
+SP|Areiópolis|-22.40.05|48.39.54
+SP|Ariranha|-21.11.16|48.47.13
+SP|Artur Nogueira|-22.34.23|47.10.21
+SP|Arujá|-23.23.46|46.19.15
+SP|Aspásia|-20.09.32|50.43.38
+SP|Assis|-22.39.42|50.24.44
+SP|Atibaia|-23.07.01|46.33.01
+SP|Auriflama|-20.41.08|50.33.17
+SP|Avaí|-22.08.48|49.19.59
+SP|Avanhandava|-21.27.39|49.56.59
+SP|Avaré|-23.05.55|48.55.33
+SP|Bady Bassitt|-20.55.05|49.26.43
+SP|Balbinos|-21.53.59|49.21.24
+SP|Bálsamo|-20.44.07|49.35.01
+SP|Bananal|-22.41.01|44.19.24
+SP|Barão de Antonina|-23.37.37|49.33.41
+SP|Barbosa|-21.16.00|49.56.57
+SP|Bariri|-22.04.28|48.44.25
+SP|Barra Bonita|-22.29.41|48.33.29
+SP|Barra do Chapéu|-24.28.23|49.01.28
+SP|Barra do Turvo|-24.45.23|48.30.17
+SP|Barretos|-20.33.26|48.34.04
+SP|Barrinha|-21.11.37|48.09.50
+SP|Barueri|-23.30.38|46.52.34
+SP|Bastos|-21.55.19|50.44.02
+SP|Batatais|-20.53.28|47.35.06
+SP|Bauru|-22.18.53|49.03.38
+SP|Bebedouro|-20.56.58|48.28.45
+SP|Bento de Abreu|-21.16.14|50.48.43
+SP|Bernardino de Campos|-23.00.47|49.28.27
+SP|Bertioga|-23.51.16|46.08.19
+SP|Bilac|-21.24.12|50.28.14
+SP|Birigui|-21.17.19|50.20.24
+SP|Biritiba-Mirim|-23.34.21|46.02.19
+SP|Boa Esperança do Sul|-21.59.33|48.23.27
+SP|Bocaina|-22.08.10|48.31.05
+SP|Bofete|-23.06.08|48.15.28
+SP|Boituva|-23.17.00|47.40.20
+SP|Bom Jesus dos Perdões|-23.08.06|46.27.55
+SP|Bom Sucesso de Itararé|-24.19.04|49.08.38
+SP|Borá|-22.16.11|50.32.04
+SP|Boracéia|-22.11.35|48.46.44
+SP|Borborema|-21.37.11|49.04.25
+SP|Borebi|-22.34.10|48.58.16
+SP|Botucatu|-22.53.09|48.26.42
+SP|Bragança Paulista|-22.57.07|46.32.31
+SP|Braúna|-21.29.57|50.18.56
+SP|Brejo Alegre|-21.09.59|50.11.07
+SP|Brodósqui|-20.59.29|47.39.31
+SP|Brotas|-22.17.03|48.07.36
+SP|Buri|-23.47.51|48.35.34
+SP|Buritama|-21.03.58|50.08.50
+SP|Buritizal|-20.11.28|47.42.30
+SP|Cabrália Paulista|-22.27.20|49.20.15
+SP|Cabreúva|-23.18.27|47.07.58
+SP|Caçapava|-23.06.03|45.42.25
+SP|Cachoeira Paulista|-22.39.54|45.00.34
+SP|Caconde|-21.31.46|46.38.38
+SP|Cafelândia|-21.48.09|49.36.36
+SP|Caiabu|-22.00.44|51.14.08
+SP|Caieiras|-23.21.51|46.44.26
+SP|Caiuá|-21.49.54|51.59.54
+SP|Cajamar|-23.21.22|46.52.37
+SP|Cajati|-24.44.10|48.07.22
+SP|Cajobi|-20.52.47|48.48.34
+SP|Cajuru|-21.16.31|47.18.15
+SP|Campina do Monte Alegre|-23.35.31|48.28.38
+SP|Campinas|-22.54.20|47.03.39
+SP|Campo Limpo Paulista|-23.12.23|46.47.04
+SP|Campos do Jordão|-22.44.22|45.35.29
+SP|Campos Novos Paulista|-22.36.11|50.00.09
+SP|Cananéia|-25.00.53|47.55.36
+SP|Canas|-22.42.13|45.03.19
+SP|Cândido Mota|-22.44.47|50.23.13
+SP|Cândido Rodrigues|-21.19.31|48.37.51
+SP|Canitar|-23.00.23|49.47.00
+SP|Capâo Bonito|-24.00.21|48.20.58
+SP|Capela do Alto|-23.28.14|47.44.05
+SP|Capivari|-22.59.42|47.30.28
+SP|Caraguatatuba|-23.37.13|45.24.47
+SP|Carapicuíba|-23.31.21|46.50.08
+SP|Cardoso|-20.04.55|49.54.51
+SP|Casa Branca|-21.46.26|47.05.11
+SP|Cássia dos Coqueiros|-21.16.58|47.10.11
+SP|Castilho|-20.52.20|51.29.15
+SP|Catanduva|-21.08.16|48.58.22
+SP|Catiguá|-21.02.58|49.03.30
+SP|Cedral|-20.54.10|49.16.06
+SP|Cerqueira César|-23.02.08|49.09.58
+SP|Cerquilho|-23.09.54|47.44.37
+SP|Cesário Lange|-23.13.36|47.57.11
+SP|Charqueada|-22.30.35|47.46.41
+SP|Chavantes|-23.02.20|49.42.34
+SP|Cidade Ademar|00.00.00|00.00.00
+SP|Cidade Dutra|00.00.00|00.00.00
+SP|Cidade Kemel|-23.30.31|46.21.21
+SP|Cidade Lider|00.00.00|00.00.00
+SP|Cidade Tiradentes|00.00.00|00.00.00
+SP|Clementina|-21.33.35|50.26.57
+SP|Colina|-20.42.48|48.32.27
+SP|Colômbia|-20.10.33|48.41.20
+SP|Conchal|-22.19.49|47.10.21
+SP|Conchas|-23.00.55|48.00.38
+SP|Cordeirópolis|-22.28.55|47.27.24
+SP|Coroados|-21.21.07|50.16.53
+SP|Coronel Macedo|-23.37.52|49.18.49
+SP|Corumbataí|-22.13.12|47.37.33
+SP|Cosmópolis|-22.38.45|47.11.46
+SP|Cosmorama|-20.28.40|49.46.40
+SP|Cotia|-23.36.14|46.55.09
+SP|Cravinhos|-21.20.25|47.43.46
+SP|Cristais Paulista|-20.23.50|47.25.13
+SP|Cruzália|-22.44.08|50.47.37
+SP|Cruzeiro|-22.34.34|44.57.46
+SP|Cubatão|-23.53.42|46.25.31
+SP|Cunha|-23.04.28|44.57.35
+SP|Descalvado|-21.54.14|47.37.10
+SP|Diadema|-23.41.10|46.37.22
+SP|Dirce Reis|-20.27.58|50.36.22
+SP|Divinolândia|-21.39.41|46.44.21
+SP|Dobrada|-21.31.00|48.23.38
+SP|Dois Córregos|-22.21.58|48.22.49
+SP|Dolcinópolis|-20.07.23|50.30.48
+SP|Dourado|-22.06.00|48.19.03
+SP|Dracena|-21.28.57|51.31.58
+SP|Duartina|-22.24.52|49.24.14
+SP|Dumont|-21.14.11|47.58.24
+SP|Echaporã|-22.25.46|50.12.02
+SP|Eldorado|-24.31.12|48.06.29
+SP|Elias Fausto|-23.02.34|47.22.26
+SP|Elisiário|-21.09.56|49.06.42
+SP|Embaúba|-20.58.57|48.50.08
+SP|Embu|-23.38.56|46.51.08
+SP|Embu-Guaçu|-23.49.56|46.48.41
+SP|Emilianópolis|-21.49.59|51.28.59
+SP|Engenheiro Coelho|-22.29.18|47.12.54
+SP|Espírito Santo do Pinhal|-22.06.57|46.40.58
+SP|Espírito Santo do Turvo|-22.41.32|49.25.49
+SP|Estiva Gerbi|-22.16.17|46.56.41
+SP|Estrela do Norte|-22.29.17|51.39.37
+SP|Estrela d'Oeste|-20.17.16|50.24.03
+SP|Euclides da Cunha Paulista|-22.33.41|52.35.25
+SP|Fartura|-23.23.18|49.30.36
+SP|Fernando Prestes|-21.15.52|48.41.07
+SP|Fernandópolis|-20.17.02|50.14.47
+SP|Fernão|-22.21.31|49.31.15
+SP|Ferraz de Vasconcelos|-23.32.27|46.22.07
+SP|Flora Rica|-21.40.33|51.23.03
+SP|Floreal|-20.40.36|50.08.43
+SP|Flórida Paulista|-21.36.53|51.10.25
+SP|Florínia|-22.54.12|50.44.16
+SP|Franca|-20.32.19|47.24.03
+SP|Francisco Morato|-23.16.54|46.44.43
+SP|Franco da Rocha|-23.19.18|46.43.37
+SP|Gabriel Monteiro|-21.31.52|50.33.17
+SP|Gália|-22.17.29|49.33.10
+SP|Garça|-22.12.38|49.39.22
+SP|Gastão Vidigal|-20.47.55|50.11.13
+SP|Gavião Peixoto|-21.50.20|48.29.41
+SP|General Salgado|-20.38.54|50.21.38
+SP|Getulina|-21.47.55|49.55.43
+SP|Glicério|-21.22.34|50.12.21
+SP|Guaiçara|-21.37.19|49.47.55
+SP|Guaimbê|-21.54.36|49.53.48
+SP|Guaíra|-20.19.06|48.18.38
+SP|Guapiaçu|-20.47.42|49.13.13
+SP|Guapiara|-24.11.06|48.31.58
+SP|Guará|-20.25.42|47.49.27
+SP|Guaraçaí|-21.01.42|51.12.24
+SP|Guaraci|-20.29.55|48.56.41
+SP|Guarani d'Oeste|-20.04.29|50.20.22
+SP|Guarantã|-21.53.42|49.35.23
+SP|Guararapes|-21.15.39|50.38.34
+SP|Guararema|-23.24.54|46.02.06
+SP|Guaratinguetá|-22.48.59|45.11.33
+SP|Guareí|-23.22.22|48.11.03
+SP|Guariba|-21.21.36|48.13.42
+SP|Guarujá|-23.59.35|46.15.23
+SP|Guarulhos|-23.27.46|46.32.00
+SP|Guatapará|-21.29.48|48.02.16
+SP|Guzolândia|-20.38.59|50.39.43
+SP|Herculândia|-22.00.13|50.23.07
+SP|Holambra|-22.37.59|47.03.20
+SP|Hortolândia|-22.51.30|47.13.12
+SP|Iacanga|-21.53.24|49.01.29
+SP|Iacri|-21.51.30|50.41.22
+SP|Iaras|-22.52.15|49.09.46
+SP|Ibaté|-21.57.17|47.59.48
+SP|Ibirá|-21.04.49|49.14.27
+SP|Ibirarema|-22.49.03|50.04.21
+SP|Ibitinga|-21.45.28|48.49.44
+SP|Ibiúna|-23.39.23|47.13.21
+SP|Icém|-20.20.30|49.11.42
+SP|Iepê|-22.39.38|51.04.34
+SP|Igaraçu do Tietê|-22.30.33|48.33.28
+SP|Igarapava|-20.02.18|47.44.49
+SP|Igaratá|-23.12.16|46.09.22
+SP|Iguape|-24.42.29|47.33.19
+SP|Ilha Comprida|-24.44.28|47.32.24
+SP|Ilha Solteira|-20.25.58|51.20.33
+SP|Ilhabela|-23.46.41|45.21.29
+SP|Indaiatuba|-23.05.25|47.13.05
+SP|Indiana|-22.10.28|51.15.06
+SP|Indiaporã|-19.58.48|50.17.23
+SP|Inúbia Paulista|-21.46.11|50.57.43
+SP|Ipauçu|-23.03.24|49.37.35
+SP|Iperó|-23.21.01|47.41.19
+SP|Ipeúna|-22.26.09|47.43.08
+SP|Ipiguá|-20.39.24|49.23.14
+SP|Iporanga|-24.35.08|48.35.35
+SP|Ipuã|-20.26.17|48.00.44
+SP|Iracemápolis|-22.34.50|47.31.07
+SP|Irapuã|-21.16.46|49.24.32
+SP|Irapuru|-21.34.15|51.20.42
+SP|Itaberá|-23.51.43|49.08.14
+SP|Itaí|-23.25.04|49.05.26
+SP|Itajobi|-21.19.05|49.03.16
+SP|Itaju|-21.58.52|48.48.17
+SP|Itanhaém|-24.10.59|46.47.20
+SP|Itaóca|-24.38.24|48.50.34
+SP|Itapecerica da Serra|-23.43.01|46.50.57
+SP|Itapetininga|-23.35.30|48.03.11
+SP|Itapeva|-23.58.56|48.52.32
+SP|Itapevi|-23.32.56|46.56.03
+SP|Itapira|-22.26.10|46.49.18
+SP|Itapirapuã Paulista|-24.34.26|49.10.05
+SP|Itápolis|-21.35.44|48.48.46
+SP|Itaporanga|-23.42.28|49.29.23
+SP|Itapuí|-22.14.00|48.43.09
+SP|Itapura|-20.38.46|51.30.32
+SP|Itaquaquecetuba|-23.29.10|46.20.54
+SP|Itararé|-24.06.45|49.19.54
+SP|Itariri|-24.17.21|47.10.28
+SP|Itatiba|-23.00.21|46.50.20
+SP|Itatinga|-23.06.06|48.36.57
+SP|Itirapina|-22.15.10|47.49.22
+SP|Itirapuã|-20.38.27|47.13.09
+SP|Itobi|-21.44.13|46.58.30
+SP|Itu|-23.15.51|47.17.57
+SP|Itupeva|-23.09.11|47.03.28
+SP|Ituverava|-20.20.22|47.46.50
+SP|Jaborandi|-20.41.17|48.24.45
+SP|Jaboticabal|-21.15.17|48.19.20
+SP|Jacareí|-23.18.19|45.57.57
+SP|Jaci|-20.52.56|49.34.12
+SP|Jacupiranga|-24.41.33|48.00.08
+SP|Jaguariúna|-22.42.20|46.59.09
+SP|Jales|-20.16.08|50.32.45
+SP|Jambeiro|-23.15.13|45.41.16
+SP|Jandira|-23.31.39|46.54.09
+SP|Jardinópolis|-21.01.04|47.45.50
+SP|Jarinu|-23.06.05|46.43.42
+SP|Jaú|-22.17.47|48.33.28
+SP|Jeriquara|-20.18.40|47.35.21
+SP|Joanópolis|-22.55.49|46.16.32
+SP|João Ramalho|-22.15.01|50.46.04
+SP|José Bonifácio|-21.03.10|49.41.18
+SP|Júlio Mesquita|-22.00.32|49.47.14
+SP|Jumirim|-23.05.12|47.47.03
+SP|Jundiaí|-23.11.11|46.53.03
+SP|Junqueirópolis|-21.30.53|51.26.01
+SP|Juquiá|-24.19.15|47.38.05
+SP|Juquitiba|-23.55.54|47.04.06
+SP|Lagoinha|-23.05.26|45.11.25
+SP|Laranjal Paulista|-23.02.59|47.50.12
+SP|Lavínia|-21.10.06|51.02.23
+SP|Lavrinhas|-22.34.15|44.54.08
+SP|Leme|-22.11.08|47.23.25
+SP|Lençóis Paulista|-22.35.55|48.48.01
+SP|Limeira|-22.33.53|47.24.06
+SP|Lindóia|-22.31.23|46.39.00
+SP|Lins|-21.40.43|49.44.33
+SP|Lorena|-22.43.51|45.07.29
+SP|Lourdes|-20.58.01|50.13.27
+SP|Louveira|-23.05.11|46.57.02
+SP|Lucélia|-21.43.13|51.01.08
+SP|Lucianópolis|-22.25.52|49.31.21
+SP|Luís Antônio|-21.33.18|47.42.16
+SP|Luiziânia|-21.40.33|50.19.36
+SP|Lupércio|-22.24.54|49.49.02
+SP|Lutécia|-22.20.24|50.23.32
+SP|Macatuba|-22.30.08|48.42.41
+SP|Macaubal|-20.48.21|49.57.50
+SP|Macedônia|-20.08.45|50.11.40
+SP|Magda|-20.38.38|50.13.34
+SP|Mairinque|-23.32.45|47.11.00
+SP|Mairiporã|-23.19.07|46.35.12
+SP|Manduri|-23.00.12|49.19.19
+SP|Marabá Paulista|-22.06.29|51.57.45
+SP|Maracaí|-22.36.38|50.40.02
+SP|Marapoama|-21.15.33|49.07.44
+SP|Mariápolis|-21.47.56|51.10.53
+SP|Marília|-22.12.50|49.56.45
+SP|Marinópolis|-20.26.26|50.49.23
+SP|Martinópolis|-22.08.45|51.10.15
+SP|Matão|-21.36.12|48.21.57
+SP|Mauá|-23.40.04|46.27.41
+SP|Mendonça|-21.10.00|49.34.51
+SP|Meridiano|-20.21.33|50.10.24
+SP|Mesópolis|-19.57.59|50.38.17
+SP|Miguelópolis|-20.10.46|48.01.55
+SP|Mineiros do Tietê|-22.24.34|48.27.02
+SP|Mira Estrela|-19.58.46|50.08.14
+SP|Miracatu|-24.16.53|47.27.35
+SP|Mirandopólis|-21.08.01|51.06.06
+SP|Mirante do Paranapanema|-22.17.31|51.54.23
+SP|Mirassol|-20.49.09|49.31.16
+SP|Mirassolândia|-20.37.00|49.27.50
+SP|Mococa|-21.28.04|47.00.17
+SP|Mogi Guaçu|-22.22.20|46.56.32
+SP|Moji das Cruzes|-23.31.22|46.11.18
+SP|Moji-Mirim|-22.25.55|46.57.28
+SP|Mombuca|-22.55.45|47.33.58
+SP|Monções|-20.51.01|50.05.30
+SP|Mongaguá|-24.05.35|46.37.15
+SP|Monte Alegre do Sul|-22.40.55|46.40.51
+SP|Monte Alto|-21.15.40|48.29.47
+SP|Monte Aprazível|-20.46.21|49.42.51
+SP|Monte Azul Paulista|-20.54.26|48.38.29
+SP|Monte Castelo|-21.17.58|51.34.07
+SP|Monte Mor|-22.56.48|47.18.57
+SP|Monteiro Lobato|-22.57.24|45.50.23
+SP|Morro Agudo|-20.43.53|48.03.28
+SP|Morungaba|-22.52.48|46.47.30
+SP|Motuca|-21.30.29|48.09.04
+SP|Murutinga do Sul|-20.59.36|51.16.39
+SP|Nantes|-22.37.14|51.14.13
+SP|Narandiba|-22.24.26|51.31.28
+SP|Natividade da Serra|-23.22.32|45.26.31
+SP|Nazaré Paulista|-23.10.52|46.23.42
+SP|Neves Paulista|-20.50.46|49.37.47
+SP|Nhandeara|-20.41.39|50.02.18
+SP|Nipoã|-20.54.48|49.46.40
+SP|Nova Aliança|-21.00.57|49.29.46
+SP|Nova Campina|-24.07.15|48.54.13
+SP|Nova Canaã Paulista|-20.23.09|50.56.57
+SP|Nova Castilho|-20.45.47|50.20.35
+SP|Nova Europa|-21.46.42|48.33.39
+SP|Nova Granada|-20.32.02|49.18.51
+SP|Nova Guataporanga|-21.20.04|51.38.38
+SP|Nova Independência|-21.06.14|51.29.24
+SP|Nova Luzitânia|-20.51.22|50.15.42
+SP|Nova Odessa|-22.46.39|47.17.45
+SP|Novais|-20.59.32|48.55.07
+SP|Novo Horizonte|-21.28.05|49.13.15
+SP|Nuporanga|-20.43.51|47.43.50
+SP|Ocauçu|-22.26.20|49.55.22
+SP|Óleo|-22.56.29|49.20.31
+SP|Olímpia|-20.44.14|48.54.53
+SP|Onda Verde|-20.36.00|49.17.43
+SP|Oriente|-22.09.10|50.05.27
+SP|Orindiúva|-20.10.56|49.21.05
+SP|Orlândia|-20.43.13|47.53.12
+SP|Osasco|-23.31.57|46.47.30
+SP|Oscar Bressane|-22.19.06|50.16.53
+SP|Osvaldo Cruz|-21.47.48|50.52.43
+SP|Ourinhos|-22.58.44|49.52.14
+SP|Ouro Verde|-21.29.22|51.42.01
+SP|Ouroeste|-20.00.02|50.22.20
+SP|Pacaembu|-21.33.44|51.15.38
+SP|Palestina|-20.23.24|49.25.59
+SP|Palmares Paulista|-21.04.59|48.48.03
+SP|Palmeira d'Oeste|-20.24.59|50.45.43
+SP|Palmital|-22.47.20|50.13.03
+SP|Panorama|-21.21.23|51.51.35
+SP|Paraguaçu Paulista|-22.24.46|50.34.33
+SP|Paraibuna|-23.23.10|45.39.44
+SP|Paraíso|-21.00.59|48.46.25
+SP|Paranapanema|-23.23.19|48.43.22
+SP|Paranapuã|-21.46.05|50.46.18
+SP|Parapuã|-21.46.05|50.46.18
+SP|Pardinho|-23.04.52|48.22.25
+SP|Pariquera-Açu|-24.42.54|47.52.52
+SP|Parisi|-20.18.13|50.00.53
+SP|Patrocínio Paulista|-20.38.22|47.16.54
+SP|Paulicéia|-21.19.04|51.49.50
+SP|Paulínia|-22.45.40|47.09.15
+SP|Paulistânia|-22.34.42|49.24.10
+SP|Paulo de Faria|-20.01.51|49.23.00
+SP|Pederneiras|-22.21.06|48.46.30
+SP|Pedra Bela|-22.47.35|46.26.35
+SP|Pedranópolis|-20.14.51|50.06.37
+SP|Pedregulho|-20.15.25|47.28.36
+SP|Pedreira|-22.44.31|46.54.05
+SP|Pedrinhas Paulista|-22.48.54|50.47.38
+SP|Pedro de Toledo|-24.16.29|47.13.58
+SP|Penápolis|-21.25.11|50.04.39
+SP|Pereira Barreto|-20.38.18|51.06.33
+SP|Pereiras|-23.04.34|47.58.33
+SP|Peruíbe|-24.19.12|46.59.54
+SP|Piacatu|-21.35.32|50.35.57
+SP|Piedade|-23.42.43|47.25.40
+SP|Pilar do Sul|-23.48.47|47.42.59
+SP|Pindamonhangaba|-22.55.26|45.27.42
+SP|Pindorama|-21.11.09|48.54.26
+SP|Pinhalzinho|-22.46.46|46.35.26
+SP|Piquerobi|-21.52.03|51.43.43
+SP|Piquete|-22.36.49|45.10.34
+SP|Piracaia|-23.03.14|46.21.29
+SP|Piracicaba|-22.43.31|47.38.57
+SP|Piraju|-23.11.37|49.23.02
+SP|Pirajuí|-21.59.55|49.27.26
+SP|Pirangi|-21.05.29|48.39.28
+SP|Pirapora do Bom Jesus|-23.23.49|47.00.08
+SP|Pirapozinho|-22.16.31|51.30.00
+SP|Pirassununga|-21.59.46|47.25.33
+SP|Piratininga|-22.24.46|49.08.05
+SP|Pitangueiras|-21.00.34|48.13.18
+SP|Planalto|-21.02.04|49.55.45
+SP|Platina|-22.38.16|50.12.14
+SP|Poá|-23.31.41|46.20.41
+SP|Poloni|-20.47.07|49.49.25
+SP|Pompéia|-22.06.31|50.10.18
+SP|Pongaí|-21.44.11|49.22.00
+SP|Pontal|-21.01.21|48.02.14
+SP|Pontalinda|-20.26.27|50.31.24
+SP|Pontes Gestal|-20.10.00|49.42.12
+SP|Populina|-19.55.58|50.32.15
+SP|Porangaba|-23.10.33|48.07.30
+SP|Porto Feliz|-23.12.53|47.31.26
+SP|Porto Ferreira|-21.51.14|47.28.45
+SP|Potim|-22.50.34|45.15.05
+SP|Potirendaba|-21.02.34|49.22.38
+SP|Pracinha|-21.51.04|51.05.12
+SP|Pradópolis|-21.21.34|48.03.56
+SP|Praia Grande|-24.00.21|46.24.10
+SP|Pratânia|-22.48.30|48.39.58
+SP|Presidente Alves|-22.06.00|49.26.17
+SP|Presidente Bernardes|-22.00.22|51.33.11
+SP|Presidente Epitácio|-21.45.48|52.06.56
+SP|Presidente Prudente|-22.07.32|51.23.20
+SP|Presidente Venceslau|-21.52.34|51.50.38
+SP|Promissão|-21.32.12|49.51.29
+SP|Quadra|-23.17.58|48.03.17
+SP|Quatá|-22.14.51|50.41.54
+SP|Queiroz|-21.47.56|50.14.25
+SP|Queluz|-22.32.13|44.46.26
+SP|Quintana|-22.04.21|50.18.27
+SP|Rafard|-23.00.42|47.31.37
+SP|Rancharia|-22.13.45|50.53.35
+SP|Redenção da Serra|-23.16.01|45.32.12
+SP|Regente Feijó|-22.13.17|51.18.10
+SP|Reginópolis|-21.53.17|49.13.31
+SP|Registro|-24.29.15|47.50.37
+SP|Restinga|-20.36.12|47.28.58
+SP|Ribeira|-24.39.25|49.00.32
+SP|Ribeirão Bonito|-22.04.00|48.10.34
+SP|Ribeirão Branco|-24.13.15|48.45.56
+SP|Ribeirão Corrente|-20.27.25|47.35.25
+SP|Ribeirão do Sul|-22.47.03|49.56.01
+SP|Ribeirão dos Índios|-21.58.33|51.39.05
+SP|Ribeirão Grande|-24.05.57|48.21.55
+SP|Ribeirão Pires|-23.42.38|46.24.48
+SP|Ribeirão Preto|-21.10.39|47.48.37
+SP|Rifaina|-20.04.50|47.25.17
+SP|Rincão|-21.35.13|48.04.15
+SP|Rinópolis|-21.43.33|50.43.20
+SP|Rio Claro|-22.24.41|47.33.41
+SP|Rio das Pedras|-22.50.36|47.36.22
+SP|Rio Grande da Serra|-23.44.39|46.23.54
+SP|Riolândia|-19.58.51|49.40.55
+SP|Riversul|-23.49.42|49.25.45
+SP|Rosana|-22.34.47|53.03.33
+SP|Roseira|-22.53.53|45.18.19
+SP|Rubiácea|-21.18.02|50.43.36
+SP|Rubinéia|-20.10.46|51.00.08
+SP|Sabino|-21.27.35|49.34.42
+SP|Sagres|-21.53.01|50.57.22
+SP|Sales|-21.20.28|49.29.07
+SP|Sales Oliveira|-20.46.19|47.50.17
+SP|Salesópolis|-23.31.56|45.50.47
+SP|Salmourão|-21.37.27|50.51.38
+SP|Saltinho|-22.50.48|47.40.37
+SP|Salto|-23.12.03|47.17.13
+SP|Salto de Pirapora|-23.38.56|47.34.24
+SP|Salto Grande|-22.53.34|49.59.08
+SP|Sandovalina|-22.27.22|51.45.47
+SP|Santa Adélia|-21.14.34|48.48.15
+SP|Santa Albertina|-20.01.55|50.43.40
+SP|Santa Bárbara d'Oeste|-22.45.13|47.24.49
+SP|Santa Branca|-23.23.48|45.53.02
+SP|Santa Clara d'Oeste|-20.05.38|50.55.35
+SP|Santa Cruz da Conceição|-22.08.25|47.27.07
+SP|Santa Cruz da Esperança|-21.17.27|47.25.47
+SP|Santa Cruz das Palmeiras|-21.49.37|47.14.55
+SP|Santa Cruz do Rio Pardo|-22.53.56|49.37.57
+SP|Santa Ernestina|-21.27.46|48.23.27
+SP|Santa Fé do Sul|-20.12.40|50.55.33
+SP|Santa Gertrudes|-22.27.24|47.31.49
+SP|Santa Isabel|-23.18.56|46.13.17
+SP|Santa Lúcia|-21.41.06|48.05.03
+SP|Santa Maria da Serra|-22.34.02|48.09.38
+SP|Santa Mercedes|-21.21.03|51.45.19
+SP|Santa Rita do Passa Quatro|-21.42.37|47.28.41
+SP|Santa Rita d'Oeste|-20.08.37|50.49.48
+SP|Santa Rosa de Viterbo|-21.28.22|47.21.47
+SP|Santa Salete|-20.14.41|50.41.18
+SP|Santana da Ponte Pensa|-20.15.11|50.47.50
+SP|Santana de Parnaíba|-23.26.39|46.55.04
+SP|Santo Anastácio|-21.50.18|51.36.37
+SP|Santo André|-23.39.50|46.32.18
+SP|Santo Antônio da Alegria|-21.05.13|47.09.04
+SP|Santo Antônio de Posse|-22.36.22|46.55.10
+SP|Santo Antônio do Aracanguá|-20.56.12|50.29.44
+SP|Santo Antônio do Jardim|-22.11.34|46.44.48
+SP|Santo Antônio do Pinhal|-22.49.38|45.39.45
+SP|Santo Expedito|-21.51.02|51.23.32
+SP|Santópolis do Aguapeí|-21.38.15|50.30.01
+SP|Santos|-23.57.39|46.20.01
+SP|São Bento do Sapucaí|-22.41.20|45.43.51
+SP|São Bernardo do Campo|-23.41.38|46.33.54
+SP|São Caetano do Sul|-23.37.23|46.33.04
+SP|São Carlos|-22.01.03|47.53.27
+SP|São Francisco|-20.21.33|50.41.48
+SP|São João da Boa Vista|-21.58.09|46.47.53
+SP|São João das Duas Pontes|-20.23.22|50.22.41
+SP|São João de Iracema|-20.30.48|50.21.08
+SP|São João do Pau d'Alho|-21.16.05|51.39.57
+SP|São Joaquim da Barra|-20.34.53|47.51.17
+SP|São José da Bela Vista|-20.35.35|47.38.24
+SP|São José do Barreiro|-22.38.42|44.34.40
+SP|São José do Rio Pardo|-21.35.44|46.53.19
+SP|São José do Rio Preto|-20.49.11|49.22.46
+SP|São José dos Campos|-23.10.46|45.53.13
+SP|São Lourenço da Serra|-23.51.09|46.56.33
+SP|São Luís do Paraitinga|-23.13.18|45.18.36
+SP|São Manuel|-22.43.52|48.34.14
+SP|São Miguel Arcanjo|-23.52.42|47.59.50
+SP|São Pedro|-22.32.55|47.54.50
+SP|São Pedro do Turvo|-22.44.49|49.44.23
+SP|São Roque|-23.31.45|47.08.07
+SP|São Sebastião|-23.45.36|45.24.35
+SP|São Sebastião da Grama|-21.42.38|46.49.15
+SP|São Simão|-21.28.45|47.33.03
+SP|São Vicente|-23.57.47|46.23.31
+SP|Sarapuí|-23.38.26|47.49.29
+SP|Sarutaiá|-23.16.23|49.28.49
+SP|Sebastianópolis do Sul|-20.39.18|49.55.16
+SP|Serra Azul|-21.18.39|47.33.56
+SP|Serra Negra|-22.36.44|46.42.02
+SP|Serrana|-21.12.41|47.35.44
+SP|Sertãozinho|-21.08.16|47.59.25
+SP|Sete Barras|-24.23.16|47.55.32
+SP|Severínia|-20.48.34|48.48.10
+SP|Silveiras|-22.39.52|44.51.10
+SP|Socorro|-22.35.29|46.31.44
+SP|Sorocaba|-23.30.06|47.27.29
+SP|Sud Mennucci|-20.41.27|50.55.26
+SP|Sumaré|-22.49.19|47.16.01
+SP|Suzanápolis|-20.30.05|51.01.29
+SP|Suzano|-23.32.33|46.18.39
+SP|Tabapuã|-20.57.51|49.01.54
+SP|Tabatinga|-21.43.00|48.41.15
+SP|Taboão da Serra|-23.37.34|46.47.30
+SP|Taciba|-22.23.23|51.17.05
+SP|Taguaí|-23.27.07|49.24.32
+SP|Taiaçu|-21.08.40|48.30.45
+SP|Taiúva|-21.07.26|48.27.06
+SP|Tambaú|-21.42.18|47.16.28
+SP|Tanabi|-20.37.35|49.38.57
+SP|Tapiraí|-23.57.49|47.30.26
+SP|Tapiratiba|-21.28.06|46.44.55
+SP|Taquaral|-21.04.19|48.24.37
+SP|Taquaritinga|-21.24.22|48.30.17
+SP|Taquarituba|-23.31.59|49.14.40
+SP|Taquarivaí|-23.55.28|48.41.35
+SP|Tarabai|-22.18.09|51.33.33
+SP|Tarumã|-22.44.48|50.34.38
+SP|Tatuí|-23.21.20|47.51.25
+SP|Taubaté|-23.01.35|45.33.19
+SP|Tejupá|-23.20.34|49.22.35
+SP|Teodoro Sampaio|-22.31.57|52.10.03
+SP|Terra Roxa|-20.47.20|48.19.47
+SP|Tietê|-23.06.07|47.42.53
+SP|Timburi|-23.12.19|49.36.24
+SP|Torre de Pedra|-23.14.40|48.11.41
+SP|Torrinha|-22.25.34|48.10.09
+SP|Trabiju|-22.02.30|48.20.08
+SP|Tremembé|-22.57.30|45.32.58
+SP|Três Fronteiras|-20.14.06|50.53.25
+SP|Tuiuti|-22.48.59|46.41.37
+SP|Tupã|-21.56.05|50.30.49
+SP|Tupi Paulista|-21.22.52|51.34.14
+SP|Turiúba|-20.56.00|50.06.27
+SP|Turmalina|-20.03.06|50.28.34
+SP|Ubarana|-21.09.56|49.43.03
+SP|Ubatuba|-23.26.02|45.04.16
+SP|Ubirajara|-22.31.36|49.39.47
+SP|Uchoa|-20.57.10|49.10.29
+SP|União Paulista|-20.53.14|49.53.50
+SP|Urânia|-20.14.46|50.38.35
+SP|Uru|-21.47.02|49.16.51
+SP|Urupês|-21.12.06|49.17.24
+SP|Valentim Gentil|-20.25.20|50.05.15
+SP|Valinhos|-22.58.14|46.59.45
+SP|Valparaíso|-21.13.40|50.52.06
+SP|Vargem|-22.53.20|46.24.49
+SP|Vargem Grande do Sul|-21.49.56|46.53.37
+SP|Vargem Grande Paulista|-23.36.12|47.01.35
+SP|Várzea Paulista|-23.12.41|46.49.42
+SP|Vera Cruz|-22.13.11|49.49.10
+SP|Vinhedo|-23.01.47|46.58.31
+SP|Viradouro|-20.52.23|48.17.49
+SP|Vista Alegre do Alto|-21.10.14|48.37.45
+SP|Vitória Brasil|-20.11.48|50.29.04
+SP|Votorantim|-23.32.48|47.26.16
+SP|Votuporanga|-20.25.22|49.58.22
+SP|Zacarias|-21.03.08|50.03.03
+TO|Abreulândia|-09.37.17|49.09.03
+TO|Aguiarnópolis|-06.33.45|47.27.59
+TO|Aliança do Tocantins|-11.18.22|48.56.09
+TO|Almas|-11.34.25|47.10.13
+TO|Alvorada|-12.28.48|49.07.29
+TO|Ananás|-06.21.55|48.04.22
+TO|Angico|-06.23.21|47.51.52
+TO|Aparecida do Rio Negro|-09.57.06|47.58.20
+TO|Aragominas|-07.09.35|48.31.39
+TO|Araguacema|-08.48.13|49.33.23
+TO|Araguaçu|-12.55.50|49.49.35
+TO|Araguaína|-07.11.28|48.12.26
+TO|Araguanã|-06.34.52|48.38.40
+TO|Araguatins|-05.39.04|48.07.28
+TO|Arapoema|-07.39.28|49.03.50
+TO|Arraias|-12.55.53|46.56.18
+TO|Augustinópolis|-05.27.59|47.53.15
+TO|Aurora do Tocantins|-12.42.47|46.24.28
+TO|Axixá do Tocantins|-05.36.59|47.47.10
+TO|Babaçulândia|-07.12.17|47.45.25
+TO|Bandeirantes do Tocantins|-07.45.23|48.35.01
+TO|Barra do Ouro|-07.41.22|47.40.58
+TO|Barrolândia|-09.50.08|48.43.31
+TO|Bernardo Sayão|-07.52.25|48.53.18
+TO|Bom Jesus do Tocantins|-08.57.54|48.09.59
+TO|Brasilândia do Tocantins|-08.23.15|48.28.52
+TO|Brejinho de Nazaré|-11.00.00|48.33.56
+TO|Buriti do Tocantins|-05.18.55|48.13.47
+TO|Cachoeirinha|-06.07.20|47.55.17
+TO|Campos Lindos|-07.59.38|46.52.05
+TO|Cariri do Tocantins|-11.53.27|49.09.40
+TO|Carmolândia|-07.02.00|48.23.46
+TO|Carrasco Bonito|-05.19.19|48.02.05
+TO|Caseara|-09.16.42|49.57.20
+TO|Centenário|-08.57.02|47.20.09
+TO|Chapada da Natividade|-11.37.01|47.45.02
+TO|Chapada de Areia|-10.08.37|49.08.24
+TO|Colinas do Tocantins|-08.03.33|48.28.30
+TO|Colméia|-08.43.46|48.45.53
+TO|Combinado|-12.47.31|46.32.20
+TO|Conceição do Tocantins|-12.13.07|47.17.54
+TO|Couto de Magalhães|-08.17.02|49.14.48
+TO|Cristalândia|-10.36.01|49.11.35
+TO|Crixás do Tocantins|-11.06.01|48.55.10
+TO|Darcinópolis|-06.42.47|47.45.35
+TO|Dianópolis|-11.37.40|46.49.14
+TO|Divinópolis do Tocantins|-09.47.59|49.12.50
+TO|Dois Irmãos do Tocantins|-09.15.30|49.03.52
+TO|Dueré|-11.20.38|49.16.14
+TO|Esperantina|-05.20.34|48.30.41
+TO|Fátima|-10.45.34|48.54.29
+TO|Figueirópolis|-12.07.51|49.10.27
+TO|Filadélfia|-07.20.10|47.29.25
+TO|Formoso do Araguaia|-11.47.48|49.31.44
+TO|Fortaleza do Tabocão|-09.03.26|48.31.08
+TO|Goianorte|-08.46.33|48.55.54
+TO|Goiatins|-07.42.36|47.18.51
+TO|Guaraí|-08.50.03|48.30.37
+TO|Gurupi|-11.43.45|49.04.07
+TO|Ipueiras|-11.14.19|48.27.48
+TO|Itacajá|-08.23.30|47.46.04
+TO|Itaguatins|-05.46.08|47.29.00
+TO|Itapiratins|-08.23.02|48.06.41
+TO|Itaporã do Tocantins|-08.34.17|48.41.21
+TO|Jaú do Tocantins|-12.39.18|48.35.36
+TO|Juarina|-08.07.10|49.03.53
+TO|Lagoa da Confusão|-10.47.37|49.37.25
+TO|Lagoa do Tocantins|-10.22.41|47.33.04
+TO|Lajeado|-09.45.05|48.21.29
+TO|Lavandeira|-12.47.19|46.30.22
+TO|Lizarda|-09.35.39|46.40.23
+TO|Luzinópolis|-06.10.56|47.51.22
+TO|Marianópolis do Tocantins|-09.47.45|49.39.15
+TO|Mateiros|-10.32.51|46.25.16
+TO|Maurilândia do Tocantins|-05.57.11|47.30.23
+TO|Miracema do Tocantins|-09.34.02|48.23.30
+TO|Miranorte|-09.31.46|48.35.24
+TO|Monte do Carmo|-10.45.48|48.06.32
+TO|Monte Santo do Tocantins|-10.00.14|48.59.42
+TO|Mosquito|-06.36.45|47.32.45
+TO|Muricilândia|-07.08.45|48.36.36
+TO|Natividade|-11.42.35|47.43.24
+TO|Nazaré|-06.22.18|47.34.50
+TO|Nova Olinda|-07.37.54|48.25.21
+TO|Nova Rosalândia|-10.34.00|48.54.51
+TO|Novo Acordo|-09.57.46|47.40.38
+TO|Novo Alegre|-12.55.52|46.34.25
+TO|Novo Jardim|-11.49.26|46.37.42
+TO|Oliveira de Fátima|-10.42.28|48.54.24
+TO|Palmeirante|-07.51.36|47.55.33
+TO|Palmeirópolis|-13.02.38|48.24.08
+TO|Paraíso do Tocantins|-10.10.34|48.52.00
+TO|Paranã|-12.36.55|47.52.59
+TO|Pau d'Arco|-07.32.23|49.22.20
+TO|Pedro Afonso|-08.58.03|48.10.29
+TO|Peixe|-12.01.30|48.32.21
+TO|Pequizeiro|-08.35.37|48.56.03
+TO|Pindorama do Tocantins|-11.08.19|47.34.43
+TO|Piraquê|-06.46.25|48.17.49
+TO|Pium|-10.26.33|49.10.56
+TO|Ponte Alta do Bom Jesus|-12.05.27|46.28.45
+TO|Ponte Alta do Tocantins|-10.44.38|47.32.10
+TO|Porto Alegre do Tocantins|-11.36.31|47.02.55
+TO|Porto Nacional|-10.42.29|48.25.02
+TO|Praia Norte|-05.23.35|47.48.40
+TO|Presidente Kennedy|-08.32.22|48.30.22
+TO|Pugmil|-10.25.25|48.53.37
+TO|Recursolândia|-08.43.40|47.14.35
+TO|Riachinho|-06.26.15|48.08.18
+TO|Rio da Conceição|-11.24.01|46.53.00
+TO|Rio dos Bois|-09.20.42|48.32.07
+TO|Rio Sono|-09.20.37|47.54.07
+TO|Sampaio|-05.20.54|47.52.23
+TO|Sandolândia|-12.32.14|49.55.30
+TO|Santa Fé do Araguaia|-07.09.21|48.42.10
+TO|Santa Maria do Tocantins|-08.47.49|47.47.41
+TO|Santa Rita do Tocantins|-10.51.39|48.54.49
+TO|Santa Rosa do Tocantins|-11.26.56|48.07.14
+TO|Santa Tereza do Tocantins|-10.16.56|47.48.30
+TO|Santa Terezinha do Tocantins|-06.26.04|47.40.21
+TO|São Bento do Tocantins|-06.01.13|47.54.08
+TO|São Félix do Tocantins|-10.10.06|46.39.34
+TO|São Miguel do Tocantins|-05.33.20|47.34.40
+TO|São Salvador do Tocantins|-12.44.37|48.14.08
+TO|São Sebastião do Tocantins|-05.15.26|48.12.00
+TO|São Valério da Natividade|-11.58.30|48.14.01
+TO|Silvanópolis|-11.08.48|48.10.09
+TO|Sítio Novo do Tocantins|-05.36.00|47.38.29
+TO|Sucupira|-11.59.36|48.58.15
+TO|Taguatinga|-12.24.14|46.26.10
+TO|Taipas do Tocantins|-12.11.18|46.59.19
+TO|Talismã|-12.47.42|49.05.33
+TO|Tocantínia|-09.33.49|48.22.36
+TO|Tocantinópolis|-06.19.46|47.24.59
+TO|Tupirama|-08.58.22|48.11.16
+TO|Tupiratins|-08.23.38|48.06.56
+TO|Wanderlândia|-06.50.57|47.57.47
+TO|Xambioá|-06.24.40|48.32.11
